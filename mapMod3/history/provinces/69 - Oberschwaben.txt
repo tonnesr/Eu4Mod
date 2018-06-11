@@ -1,0 +1,35 @@
+# 69 - Oberschwaben (incl. Lindau, Biberach, �berlingen, Ravensberg, and many of the other Free cities of Schwaben)
+culture = swabian
+owner = PRU
+controller = PRU
+add_core = PRU
+capital = "Ravensburg"
+religion = catholic
+trade_goods = cloth
+base_tax = 5
+base_production = 5
+base_manpower = 1
+is_city = yes
+hre = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+owner = PRU
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1810.1.1 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+}
+add_core = PRU
+controller = PRU
+owner = PRU
+
+
+

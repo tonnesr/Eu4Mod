@@ -1,0 +1,53 @@
+# 2159 - Leichow
+
+owner = MUG
+controller = MUG
+add_core = MUG
+culture = chimin
+religion = confucianism
+capital = "Leichow"
+trade_goods = sugar
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = MUG
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = indian
+
+1514.1.1 = { discovered_by = POR }
+
+1647.4.1 = {
+owner = MUG
+controller = MUG
+add_core = MUG
+}
+1648.4.15 = {
+controller = MUG
+owner = MUG
+}
+1651.1.1 = {
+owner = MUG
+controller = MUG
+}
+1662.4.1 = {
+owner = MUG
+controller = MUG
+add_core = MUG
+} # Three Feudatories
+1681.10.1 = {
+owner = MUG
+controller = MUG
+add_core = MUG
+}
+add_core = MUG
+controller = MUG
+owner = MUG
+
+
+

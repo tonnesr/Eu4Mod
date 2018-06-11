@@ -1,0 +1,7 @@
+#1649 - Lake Victoria
+
+
+discovered_by = central_african
+add_core = DAN
+controller = DAN
+owner = DAN

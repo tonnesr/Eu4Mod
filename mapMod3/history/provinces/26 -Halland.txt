@@ -1,0 +1,34 @@
+#Halland, contains Halmstad, Varberg.
+
+owner = SWE
+controller = SWE
+add_core = SWE
+culture = danish
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = livestock
+base_manpower = 2
+capital = "Halmstad"
+estate = estate_nobles
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+controller = SWE
+controller = SWE
+1536.1.1 = { religion = protestant} # Unknown date
+controller = SWE
+controller = SWE
+owner = SWE
+1680.1.1 = { culture = swedish } # The population adepted to Swedish ways.
+add_core = SWE
+controller = SWE
+owner = SWE
+
+
+

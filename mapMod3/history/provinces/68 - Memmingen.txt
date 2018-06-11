@@ -1,0 +1,34 @@
+#68 - Memmingen
+
+owner = MUG
+controller = MUG
+add_core = MUG
+culture = swabian
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 3
+capital = "Memmingen" 
+is_city = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1525.1.1 = { religion = protestant }
+owner = MUG
+owner = MUG
+owner = MUG
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+
+owner = MUG
+add_core = MUG
+controller = MUG
+

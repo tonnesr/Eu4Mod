@@ -1,0 +1,53 @@
+#2396 - Mong Kawng
+
+owner = FRA
+controller = FRA
+culture = kachin
+religion = buddhism
+capital = "Mong Kawng"
+trade_goods = gems
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = FRA
+add_core = FRA
+discovered_by = chinese
+discovered_by = indian
+
+
+1502.1.1 = {
+controller = FRA
+owner = FRA
+add_core = FRA
+	remove_core = MYA
+}
+add_core = FRA
+controller = FRA
+owner = FRA
+1599.1.1 = {
+owner = FRA
+controller = FRA
+}
+1605.1.1 = {
+owner = FRA
+controller = FRA
+}
+1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+1732.1.1 = {
+owner = FRA
+controller = FRA
+add_core = FRA
+}
+1769.12.13 = {
+owner = FRA
+controller = FRA
+	remove_core = QNG
+}
+add_core = FRA
+controller = FRA
+owner = FRA
+
+
+

@@ -1,0 +1,42 @@
+#877 - Pima
+
+add_core = AZT
+owner = AZT
+controller = AZT
+culture = piman 
+religion = totemism
+capital = "Pima" 
+trade_goods = salt 
+hre = no 
+base_tax = 1 
+base_production = 1 
+base_manpower = 1 
+is_city = yes
+native_size = 5 
+native_ferocity = 2 
+native_hostileness = 1 
+
+
+
+discovered_by = north_american
+
+1541.1.1 = { discovered_by = SPA } # Francisco V�squez de Coronado
+
+1731.1.1 = {
+owner = AZT
+controller = AZT
+add_core = AZT
+	remove_core = PIM
+	religion = catholic
+	culture = castillian
+} # First permanent Spanish settlers
+1751.1.1 = { unrest = 5 }
+1752.1.1 = { unrest = 0 }
+1810.9.16 = {
+owner = AZT
+add_core = AZT
+controller = AZT
+} # Mexican War of Independence
+
+
+owner = AZT

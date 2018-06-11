@@ -1,0 +1,32 @@
+#4185 - Tango
+
+owner = FRA
+controller = FRA
+culture = japanese
+religion = shinto
+capital = "Miyazu"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 2
+base_production = 2
+is_city = yes
+add_core = FRA
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+add_core = FRA
+owner = FRA
+1580.7.2 = { remove_core = ISK }
+owner = FRA
+owner = FRA
+# Battle of Sekigahara
+
+
+owner = FRA
+add_core = FRA
+controller = FRA
+

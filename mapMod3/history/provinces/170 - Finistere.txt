@@ -1,0 +1,37 @@
+# 170 Finist�re - Principal cities: Brest
+
+owner = FRA
+controller = FRA
+capital = "Brest"
+is_city = yes
+culture = breton
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 4
+add_core = FRA
+fort_15th = yes
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+add_core = FRA
+owner = FRA
+1583.1.1 = { fort_15th = no fort_16th = yes }
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1648.1.1 = { fort_16th = no fort_17th = yes }
+1715.1.1 = { fort_17th = no fort_18th = yes }
+add_core = FRA
+controller = FRA
+owner = FRA
+
+
+

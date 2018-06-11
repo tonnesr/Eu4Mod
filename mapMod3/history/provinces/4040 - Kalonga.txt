@@ -1,0 +1,26 @@
+#Kalonga
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = nyasa
+religion = shamanism #Fetishism
+capital = "Manthimba"
+is_city = yes
+base_manpower = 4
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 3
+discovered_by = central_african
+
+add_permanent_province_modifier = {
+	name = inland_center_of_trade_modifier
+	duration = -1
+}
+
+
+1572.1.1 = { discovered_by = POR } #Start of Portuguese Interaction with the Maravis north of the Zambezi
+add_core = TUR
+controller = TUR
+owner = TUR

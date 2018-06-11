@@ -1,0 +1,58 @@
+# 1865 - Ghent
+
+owner = PRU
+controller = PRU
+add_core = PRU
+is_city = yes
+capital = "Ghent"
+culture = flemish
+religion = catholic
+hre = no
+base_tax = 8 
+base_production = 8
+trade_goods = cloth
+base_manpower = 3
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+owner = PRU
+owner = PRU
+owner = PRU
+controller = PRU
+controller = PRU
+1665.9.17 = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+owner = PRU
+1715.9.1 = { remove_claim = FRA } # Louis XIV passes away
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+1795.5.16 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+ } # Treaty of Den Haag, ceded to the French Republic
+controller = PRU
+controller = PRU
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1815.3.16 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = FRA
+} # The United Kingdom of the Netherlands
+
+controller = PRU
+owner = PRU
+add_core = PRU
+
+

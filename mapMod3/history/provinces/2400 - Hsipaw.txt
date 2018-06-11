@@ -1,0 +1,52 @@
+#2400 - Hsipaw
+
+owner = PRU
+controller = PRU
+culture = shan
+religion = buddhism
+capital = "Hsipaw"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = PRU
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+
+1502.1.1 = {
+controller = PRU
+owner = PRU
+add_core = PRU
+	remove_core = HSE
+}
+1535.1.1 = { discovered_by = POR }
+add_core = PRU
+controller = PRU
+owner = PRU
+1599.1.1 = {
+owner = PRU
+controller = PRU
+}
+1605.1.1 = {
+owner = PRU
+controller = PRU
+}
+1739.1.1 = { unrest = 5 } # Rebellion
+1740.1.1 = { unrest = 0 }
+1752.1.1 = {
+owner = PRU
+controller = PRU
+}
+1754.1.1 = {
+owner = PRU
+controller = PRU
+}
+add_core = PRU
+
+owner = PRU

@@ -1,0 +1,21 @@
+# No previous file for Atakora
+
+owner = LIT
+controller = LIT
+add_core = LIT
+is_city = yes
+culture = dagomba
+religion = shamanism #Fetishism
+capital = "Sansann� Mango"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+base_manpower = 1
+discovered_by = sub_saharan
+add_core = LIT
+controller = LIT
+owner = LIT

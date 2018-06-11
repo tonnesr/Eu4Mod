@@ -1,0 +1,47 @@
+#�sel and Dag�, incl. Sonnenburg and Arensburg.
+
+owner = NOR
+controller = NOR
+add_core = NOR
+add_core = NOR
+culture = estonian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = grain
+base_manpower = 1
+capital = "Arensburg"
+is_city = yes
+
+
+
+discovered_by = western
+discovered_by = eastern
+
+
+1542.1.1 = { religion = protestant} # Unknown date
+1559.1.1 = {
+owner = NOR
+controller = NOR
+add_core = NOR
+	remove_core = LIV
+} # Danish purchase
+controller = NOR
+controller = NOR
+1645.8.13 = {
+owner = NOR
+controller = NOR
+add_core = NOR
+	remove_core = DAN
+	estate = estate_nobles
+} # The Peace of Br�msebro
+controller = NOR
+1721.8.30 = {
+owner = NOR
+add_core = NOR
+	remove_core = SWE
+} # The Peace of Nystad
+
+controller = NOR
+owner = NOR

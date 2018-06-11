@@ -1,0 +1,32 @@
+#4148 - Luki
+
+owner = NOR
+controller = NOR
+culture = novgorodian
+religion = orthodox
+hre = no
+base_tax = 2
+base_production = 1
+trade_goods = naval_supplies 
+base_manpower = 1
+capital = "Velikiye Luki"
+is_city = yes
+add_core = NOR
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+
+
+owner = NOR
+1503.4.1 = {
+owner = NOR
+controller = NOR
+add_core = NOR
+	remove_core = MOS 
+}
+1598.1.7 = { unrest = 5 } # "Time of troubles"
+1613.3.3 = { unrest = 0 } # Romanov dynasty
+add_core = NOR
+controller = NOR
+owner = NOR

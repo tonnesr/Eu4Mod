@@ -1,0 +1,36 @@
+# - Quisquisacate
+
+culture = huarpe
+discovered_by = south_american
+religion = animism
+capital = "Cordoba"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 1
+native_size = 20
+native_ferocity = 2
+native_hostileness = 9	
+
+1516.1.23 = { discovered_by = SPA } # Juan D�az de Sol�s
+1573.7.6 = {
+add_core = AZT
+owner = AZT
+controller = AZT
+	culture = castillian
+	religion = catholic
+	trade_goods = grain
+} 
+1600.1.1 = { is_city = yes }
+owner = AZT
+controller = AZT
+add_core = AZT
+	remove_core = SPA
+} # Argentina is declared independent
+
+controller = AZT
+owner = AZT
+add_core = AZT
+
+

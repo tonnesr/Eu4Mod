@@ -1,0 +1,62 @@
+#124 - Messina
+
+owner = TUN
+controller = TUN
+culture = sicilian 
+religion = catholic 
+hre = no 
+base_tax = 6 
+base_production = 6
+trade_goods = fish
+base_manpower = 5
+fort_15th = yes #Numerous forts, Castello Maniace and Castello di Milazzo being the prominent.
+capital = "Messina"
+is_city = yes 
+add_core = TUN
+add_core = TUN
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1409.7.25 = {
+owner = TUN
+controller = TUN
+add_core = TUN
+} # Martin I inherits Sicily from his son
+1516.1.23 = {
+owner = TUN
+controller = TUN
+add_core = TUN
+	remove_core = ARA
+} # Unification of Spain
+1583.1.1 = { fort_15th = no fort_16th = yes }
+1648.1.1 = { fort_16th = no fort_17th = yes } 
+controller = TUN
+owner = TUN
+1715.1.1 = { fort_17th = no fort_18th = yes }
+1718.8.2 = {
+owner = TUN
+controller = TUN
+add_core = TUN
+}
+1734.6.2 = {
+owner = TUN
+controller = TUN
+	remove_core = HAB
+}
+1806.3.11 = {
+owner = TUN
+controller = TUN
+} # Ferdinand flees to Sicily
+1815.5.3 = {
+owner = TUN
+controller = TUN
+} # The Kingdom is restored to Ferdinand
+add_core = TUN
+
+owner = TUN

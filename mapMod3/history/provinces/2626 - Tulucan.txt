@@ -1,0 +1,34 @@
+# No previous file for Tulucan
+
+culture = aztek
+owner = AZT
+controller = AZT
+add_core = AZT
+is_city = yes
+religion = nahuatl
+capital = "Tolluca"
+trade_goods = gold
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = mesoamerican
+
+
+1521.8.13 = {
+owner = AZT
+controller = AZT
+add_core = AZT
+	religion = catholic
+	culture = castillian
+} # The last Aztec emperor surrendered, Mexico city is founded on top of the ruins 
+owner = AZT
+add_core = AZT
+controller = AZT
+

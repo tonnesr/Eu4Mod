@@ -1,0 +1,31 @@
+# No previous file for Kantor
+
+owner = LIT
+controller = LIT
+add_core = LIT
+add_core = LIT
+estate = estate_nobles
+is_city = yes
+culture = senegambian 
+religion = shamanism #Fetishism
+capital = "Sutuco"
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+discovered_by = sub_saharan
+add_local_autonomy = 50
+
+1537.1.1 = {
+owner = LIT
+controller = LIT
+add_core = LIT
+	remove_core = MAL
+} #Kaabu declares independece from Mali
+
+controller = LIT
+owner = LIT
+add_core = LIT
+
+

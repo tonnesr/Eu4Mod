@@ -1,0 +1,52 @@
+#107 - Brescia
+
+owner = PAP
+controller = PAP
+culture = lombard 
+religion = catholic 
+hre = yes 
+base_tax = 8 
+base_production = 8    
+trade_goods = cloth
+base_manpower = 4    
+capital = "Brescia" 
+is_city = yes
+add_core = PAP
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+owner = PAP
+controller = PAP
+add_core = PAP
+}
+1495.1.1 = { hre = no }
+controller = PAP
+controller = PAP
+controller = PAP
+owner = PAP
+owner = PAP
+1559.1.1 = { remove_core = FRA }
+owner = PAP
+controller = PAP
+add_core = PAP
+} # Treaty of Campo Formio
+owner = PAP
+controller = PAP
+add_core = PAP
+	remove_core = FRA
+} # Merged with the Cisalpine Republic
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+owner = PAP
+controller = PAP
+add_core = PAP
+	remove_core = ITA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+
+controller = PAP
+owner = PAP

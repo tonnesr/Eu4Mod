@@ -1,0 +1,55 @@
+#582 - Mong Yang
+
+owner = FRA
+controller = FRA
+culture = shan
+religion = buddhism
+capital = "Mong Yang"
+trade_goods = copper
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+fort_15th = yes
+is_city = yes
+add_core = FRA
+add_core = FRA
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+
+1502.1.1 = {
+controller = FRA
+owner = FRA
+add_core = FRA
+	remove_core = MYA
+}
+controller = FRA
+owner = FRA
+1599.1.1 = {
+owner = FRA
+controller = FRA
+}
+1605.1.1 = {
+owner = FRA
+controller = FRA
+add_core = FRA
+}
+1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+1752.1.1 = {
+owner = FRA
+controller = FRA
+}
+1754.1.1 = {
+owner = FRA
+controller = FRA
+}
+add_core = FRA
+
+owner = FRA
+
+controller = FRA
+

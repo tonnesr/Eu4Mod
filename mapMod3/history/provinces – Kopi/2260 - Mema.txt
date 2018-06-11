@@ -1,0 +1,56 @@
+# No previous file for Mema
+
+owner = LIT
+controller = LIT
+add_core = LIT
+is_city = yes
+culture = bambara 
+religion = sunni
+capital = "Tendirma"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+base_manpower = 1
+
+
+
+discovered_by = sub_saharan
+
+
+owner = LIT
+owner = LIT
+1618.1.1 = {
+owner = LIT
+controller = LIT
+add_core = LIT
+} #Moroccans no longer appoint governors, local Moroccans, the Arma, rule on their own (recycle TMB tag)
+1670.1.1 = {
+owner = LIT
+controller = LIT
+add_core = LIT
+	remove_core = ZAF
+} #Massa establish the Massassi dynasty, Bambara expands
+1685.1.1 = {
+	revolt = {
+		type = revolutionary_rebels 
+		size = 1 
+	} 
+controller = LIT
+} #Bambara decline after death of Kaniadan Kulibali
+controller = LIT
+1819.1.1 = {
+owner = LIT
+controller = LIT
+add_core = LIT
+	remove_core = SOF
+} # The Massina Empire, recylcing the JNN tag
+
+controller = LIT
+owner = LIT
+add_core = LIT
+
+

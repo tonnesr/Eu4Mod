@@ -1,0 +1,33 @@
+#856 - Zacatecas
+
+culture = chichimecan 
+religion = nahuatl
+capital = "Zacatecas" 
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5 
+native_ferocity = 1 
+native_hostileness = 5
+
+
+
+discovered_by = mesoamerican
+
+
+1546.1.1 = {
+	discovered_by = SPA
+owner = AZT
+controller = AZT
+add_core = AZT
+	culture = castillian
+	religion = catholic
+	trade_goods = gold
+	is_city = yes
+} # First discoveries of silver 
+owner = AZT
+add_core = AZT
+controller = AZT
+

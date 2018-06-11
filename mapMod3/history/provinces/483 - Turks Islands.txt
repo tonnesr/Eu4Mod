@@ -1,0 +1,49 @@
+#483 - Turks Islands
+
+culture = carib
+religion = animism
+capital = "Grand Turk"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+1512.1.1 = {
+	discovered_by = CAS
+owner = NOV
+controller = NOV
+add_core = NOV
+	culture = castillian
+	religion = catholic
+	trade_goods = cotton
+} # Juan Ponce de Le�n
+1516.1.23 = {
+	discovered_by = SPA
+owner = NOV
+controller = NOV
+add_core = NOV
+	remove_core = CAS
+}
+1530.1.1 = { is_city = yes }
+1681.1.1 = { capital = "Cockburn Town" }
+1700.1.1 = {
+owner = NOV
+controller = NOV
+add_core = NOV
+	remove_core = SPA
+	culture = english
+	religion = protestant
+} # Settlers from Bermuda
+owner = NOV
+1753.1.1 = { unrest = 6 } # France claimed the island
+1754.1.1 = { unrest = 0 } # ...but were repelled just a year later
+add_core = NOV
+controller = NOV
+owner = NOV
+
+
+

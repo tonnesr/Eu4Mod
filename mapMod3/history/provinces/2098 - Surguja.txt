@@ -1,0 +1,50 @@
+#2098 - Surguja
+
+owner = MUG
+controller = MUG
+culture = jharkhandi
+religion = hinduism
+capital = "Surguja"
+trade_goods = cotton
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = MUG
+add_core = MUG
+
+
+
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = muslim 
+discovered_by = ottoman
+discovered_by = chinese
+
+
+1531.1.1 = {
+owner = MUG
+controller = MUG
+}
+
+
+
+1690.1.1 = { discovered_by = ENG }
+1707.5.12 = { discovered_by = GBR }
+
+1750.1.1 = {
+owner = MUG
+controller = MUG
+add_core = MUG
+} # The Maratha Empire
+1818.6.3 = {
+owner = MUG
+controller = MUG
+}
+add_core = MUG
+
+owner = MUG
+
+controller = MUG
+

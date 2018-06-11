@@ -1,0 +1,59 @@
+# - Urgell
+
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = FRA
+culture = catalan
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = wool 
+base_manpower = 2
+capital = "T�rrega" 
+estate = estate_nobles
+is_city = yes 
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+controller = FRA
+controller = FRA
+controller = FRA
+controller = FRA
+controller = FRA
+controller = FRA
+controller = FRA
+controller = FRA
+1484.1.1 = { unrest = 3 } # Second Remen�a revolt
+1486.4.21 = { unrest = 0 } # King Ferr�n arbit rates a resolution between the revolted peasants and the catalan nobles. 
+owner = FRA
+controller = FRA
+1641.1.1 = {
+	revolt = {}
+owner = FRA
+controller = FRA
+add_core = FRA
+} # Louis XIII of France, Count of Barcelona.
+owner = FRA
+controller = FRA
+controller = FRA
+controller = FRA
+controller = FRA
+controller = FRA
+controller = FRA
+1713.7.13 = { remove_core = ARA }
+controller = FRA
+controller = FRA
+add_core = FRA
+
+owner = FRA
+
+controller = FRA
+

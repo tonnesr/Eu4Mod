@@ -1,0 +1,45 @@
+#135 - Sopron (Sopron + Vas + Moson + Zala)
+
+owner = NOR
+controller = NOR
+culture = hungarian
+religion = catholic
+capital = "Sopron"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_church
+add_core = NOR
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+controller = NOR
+controller = NOR
+controller = NOR
+controller = NOR
+1526.8.30 = {
+owner = NOR
+controller = NOR
+add_core = NOR
+} #Hungary fractured after Battle of Mohacs
+1545.1.1 = { religion = protestant } # Synod of Erdod
+#1570.1.1 = { remove_core = TRA	} #Treaty of Speyer
+controller = NOR
+controller = NOR
+add_core = NOR
+
+owner = NOR
+
+controller = NOR
+

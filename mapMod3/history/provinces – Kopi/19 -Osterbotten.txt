@@ -1,0 +1,38 @@
+#�sterbotten, down to Vasa.
+
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = TUR
+culture = finnish
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Korsholm"
+is_city = yes
+#fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+
+
+1527.6.1 = { religion = protestant}
+controller = TUR
+controller = TUR
+controller = TUR
+controller = TUR
+1606.1.1 = { capital = "Vasa" } # Unknown date
+1650.1.1 = { trade_goods = naval_supplies }
+controller = TUR
+controller = TUR
+controller = TUR
+1809.9.17 = {
+owner = TUR
+add_core = TUR
+	remove_core = SWE
+} # Treaty of Fredrikshamn
+
+controller = TUR
+owner = TUR

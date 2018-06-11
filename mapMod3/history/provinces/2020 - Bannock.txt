@@ -1,0 +1,26 @@
+#2020 - Bannock
+
+culture = shoshone
+religion = totemism 
+capital = "Bannock"
+trade_goods = fur 
+hre = no 
+base_tax = 1 
+base_production = 1
+base_manpower = 1 
+is_city = yes
+owner = AZT
+controller = AZT
+add_core = AZT
+native_size = 5
+native_ferocity = 4
+native_hostileness = 1
+
+
+
+discovered_by = north_american
+
+1806.1.1 = { discovered_by = USA } #Lewis and Clark
+add_core = AZT
+controller = AZT
+owner = AZT

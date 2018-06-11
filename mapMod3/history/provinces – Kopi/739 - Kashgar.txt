@@ -1,0 +1,42 @@
+#739 - Kashgar
+
+owner = DAN
+controller = DAN
+add_core = DAN
+culture = uyghur
+religion = sunni
+capital = "Kashgar"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+extra_cost = 10
+
+add_permanent_province_modifier = {
+	name = inland_center_of_trade_modifier
+	duration = -1
+}
+
+owner = DAN
+1682.1.1 = {
+owner = DAN
+controller = DAN
+add_core = DAN
+}
+1755.1.1 = {
+owner = DAN
+controller = DAN
+add_core = DAN
+}
+owner = DAN
+
+controller = DAN
+

@@ -1,0 +1,57 @@
+# 2158 - Shiukwan
+
+owner = FRA
+controller = FRA
+add_core = FRA
+culture = hakka
+religion = confucianism
+capital = "Shiukwan"
+trade_goods = iron
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = FRA
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+1595.1.1 = { discovered_by = SPA }
+
+1647.4.1 = {
+owner = FRA
+controller = FRA
+add_core = FRA
+}
+1648.4.15 = { 
+controller = FRA
+owner = FRA
+}
+1650.11.11 = {
+owner = FRA
+controller = FRA
+}
+1659.1.1 = {
+owner = FRA
+controller = FRA
+add_core = FRA
+} # The Qing Conquest of China finishes
+1662.4.1 = {
+owner = FRA
+controller = FRA
+add_core = FRA
+} # Three Feudatories
+1681.10.1 = {
+owner = FRA
+controller = FRA
+add_core = FRA
+}
+add_core = FRA
+controller = FRA
+owner = FRA
+
+
+

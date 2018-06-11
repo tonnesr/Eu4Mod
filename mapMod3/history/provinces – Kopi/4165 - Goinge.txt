@@ -1,0 +1,35 @@
+#Eastern Sk�ne - More or less Kristianstad L�n. Includes G�inge, Gladsax Len, Listerlandet, and others.
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = danish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 3
+capital = "Gladsax"
+is_city = yes
+estate = estate_nobles
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+controller = SWE
+controller = SWE
+controller = SWE
+controller = SWE
+1536.3.15 = { religion = protestant} # Unknown date
+owner = SWE
+add_core = SWE
+controller = SWE
+add_core = SWE
+controller = SWE
+owner = SWE
+
+
+

@@ -1,0 +1,50 @@
+#Dorpat
+
+owner = LIT
+controller = LIT
+add_core = LIT
+add_core = LIT
+add_core = LIT
+culture = estonian
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 2
+capital = "Dorpat"
+is_city = yes
+estate = estate_nobles
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+
+
+1542.1.1 = { religion = protestant} # Unknown date
+controller = LIT
+1561.1.1 = {
+owner = LIT
+add_core = LIT
+	remove_core = LIV
+} # Livonia ceases to exist
+1569.7.1 = {
+owner = LIT
+add_core = LIT
+} # Union of Lublin
+controller = LIT
+controller = LIT
+controller = LIT
+controller = LIT
+owner = LIT
+controller = LIT
+controller = LIT
+controller = LIT
+owner = LIT
+add_core = LIT
+add_core = LIT
+controller = LIT
+owner = LIT

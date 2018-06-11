@@ -1,0 +1,43 @@
+# 202 Avignon - Principal cities: Avignon
+
+owner = PRU
+controller = PRU
+capital = "Avignon"
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = cloth
+base_manpower = 4
+add_core = PRU
+add_core = PRU
+
+fort_15th = yes # Le Palais des Papes is super strong, and built on and beneath a natural rock formation
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1417.10.18 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	estate = estate_church
+}
+add_core = PRU
+1791.9.14 = {
+owner = PRU
+controller = PRU
+	remove_core = PAP
+} # Avignon is incorporated into France
+add_core = PRU
+controller = PRU
+owner = PRU
+
+
+

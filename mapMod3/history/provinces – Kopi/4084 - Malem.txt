@@ -1,0 +1,19 @@
+owner = LIT
+controller = LIT
+add_core = LIT
+culture = mbangala
+religion = shamanism #Fetishism
+capital = "Malem"
+trade_goods = slaves
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+discovered_by = central_african
+add_core = LIT
+controller = LIT
+owner = LIT
+
+
+

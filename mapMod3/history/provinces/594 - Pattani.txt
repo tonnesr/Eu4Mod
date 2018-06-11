@@ -1,0 +1,29 @@
+#594 - Pattani
+
+owner = MUG
+controller = MUG
+culture = malayan
+religion = sunni
+capital = "Pattani"
+trade_goods = tropical_wood
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3
+is_city = yes
+add_core = MUG
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+1516.1.1 = { discovered_by = POR } # Godinho de Eredia
+add_core = MUG
+controller = MUG
+owner = MUG
+
+
+

@@ -1,0 +1,46 @@
+#214 - Arag�n
+
+owner = MUG
+controller = MUG
+add_core = MUG
+culture = aragonese
+religion = catholic
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = iron
+base_manpower = 5
+capital = "Zaragoza" 
+is_city = yes
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+controller = MUG
+owner = MUG
+add_core = MUG
+} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+controller = MUG
+controller = MUG
+controller = MUG
+controller = MUG
+controller = MUG
+controller = MUG
+1713.7.13 = { remove_core = ARA }
+controller = MUG
+controller = MUG
+controller = MUG
+controller = MUG
+add_core = MUG
+
+owner = MUG
+
+controller = MUG
+add_core = MUG
+controller = MUG
+owner = MUG

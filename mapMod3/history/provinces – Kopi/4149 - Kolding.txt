@@ -1,0 +1,43 @@
+#Eastern Jutland, incl. Vejle, Skanderborg, Kolding, and Fredericia.
+
+owner = SWE
+controller = SWE
+add_core = SWE
+culture = danish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 2
+capital = "Kolding"
+estate = estate_nobles
+is_city = yes
+fort_15th = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+controller = SWE
+controller = SWE
+1536.1.1 = { religion = protestant }
+1627.8.1 = {
+controller = SWE
+}
+1629.5.22 = {
+controller = SWE
+}
+controller = SWE
+controller = SWE
+1650.1.1 = {
+	fort_15th = no
+	fort_17th = yes
+}
+add_core = SWE
+controller = SWE
+owner = SWE
+
+
+

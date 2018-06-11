@@ -1,0 +1,43 @@
+# No previous file for Tizapan
+
+culture = tecos
+owner = AZT
+controller = AZT
+add_core = AZT
+is_city = yes
+religion = nahuatl
+capital = "Tizapan"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+add_local_autonomy = 50
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = mesoamerican
+
+
+owner = AZT
+add_core = AZT
+1510.1.1 = {
+owner = AZT
+controller = AZT
+	remove_core = TAR	
+}
+1523.1.1 = {
+owner = AZT
+controller = AZT
+add_core = AZT
+	religion = catholic
+	unrest = 5
+}
+1541.1.1 = { culture = castillian }
+owner = AZT
+add_core = AZT
+controller = AZT
+

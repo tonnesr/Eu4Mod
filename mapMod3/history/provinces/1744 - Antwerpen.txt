@@ -1,0 +1,69 @@
+# 1744 Antwerp - Principal cities: Antwerp
+
+owner = PRU
+controller = PRU
+add_core = PRU
+is_city = yes
+capital = "Antwerp"
+estate = estate_burghers
+hre = yes
+culture = flemish
+religion = catholic
+base_tax = 8 
+base_production = 8
+trade_goods = glass
+base_manpower = 3
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 15
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+
+owner = PRU
+owner = PRU
+owner = PRU
+1572.1.1 = { religion = reformed }
+controller = PRU
+controller = PRU
+controller = PRU
+owner = PRU
+1665.9.17 = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+owner = PRU
+1715.9.1 = { remove_claim = FRA } # Louis XIV passes away
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+1795.5.16 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+} # Treaty of Den Haag, ceded to the French Republic
+controller = PRU
+controller = PRU
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1815.3.16 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = FRA
+} # The United Kingdom of the Netherlands
+
+controller = PRU
+owner = PRU
+add_core = PRU
+add_core = PRU
+controller = PRU
+owner = PRU

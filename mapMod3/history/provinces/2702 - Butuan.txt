@@ -1,0 +1,29 @@
+#2702 - Butuan
+
+culture = filipino
+religion = animism
+capital = "Butuan"
+trade_goods = gems
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+discovered_by = chinese
+owner = PRU
+controller = PRU
+add_core = PRU
+
+1450.1.1 = { religion = sunni }
+1521.3.31 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	is_city = yes
+	religion = catholic
+	trade_goods = tropical_wood
+} # Sultanate of Maguindanao
+1521.1.1 = { discovered_by = SPA }
+add_core = PRU
+controller = PRU
+owner = PRU

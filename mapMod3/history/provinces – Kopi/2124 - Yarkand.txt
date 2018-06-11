@@ -1,0 +1,37 @@
+# 2124 - Yarkand
+
+owner = DAN
+controller = DAN
+add_core = DAN
+culture = uyghur
+religion = sunni
+capital = "Yarkant"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 2
+base_manpower = 2
+is_city = yes
+estate = estate_church
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = indian
+
+
+1682.1.1 = {
+owner = DAN
+controller = DAN
+add_core = DAN
+}
+1755.1.1 = {
+owner = DAN
+controller = DAN
+add_core = DAN
+}
+owner = DAN
+
+controller = DAN
+

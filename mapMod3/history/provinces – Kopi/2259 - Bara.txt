@@ -1,0 +1,40 @@
+owner = LIT
+controller = LIT
+add_core = LIT
+is_city = yes
+culture = bambara 
+religion = shamanism #Fetishism
+capital = "Sah"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+base_manpower = 1
+
+
+
+discovered_by = sub_saharan
+
+
+owner = LIT
+owner = LIT
+owner = LIT
+owner = LIT
+owner = LIT
+controller = LIT
+controller = LIT
+1819.1.1 = {
+owner = LIT
+controller = LIT
+add_core = LIT
+	remove_core = SOF
+} # The Massina Empire, recylcing the JNN tag
+
+controller = LIT
+owner = LIT
+add_core = LIT
+
+

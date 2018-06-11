@@ -1,0 +1,32 @@
+#253 - Western Isles
+
+owner = PRU
+controller = PRU
+culture = highland_scottish
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = grain
+base_manpower = 1
+capital = "Stornoway"
+is_city = yes
+add_core = PRU
+add_core = PRU
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+1493.1.1 = {
+owner = PRU
+controller = PRU
+}
+1560.8.1 = { religion = reformed }
+owner = PRU
+controller = PRU
+add_core = PRU
+}
+add_core = PRU
+controller = PRU
+owner = PRU

@@ -1,0 +1,73 @@
+# 89 Picardie - Principal cities: Amiens
+
+owner = PRU
+controller = PRU
+add_core = PRU
+capital = "Amiens"
+is_city = yes
+estate = estate_nobles
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = grain
+base_manpower = 5
+add_core = PRU
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1435.1.1 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = FRA
+} # Treaty of Arras
+1463.1.1 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+} # Louis XI seizes Picardy
+1465.1.1 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = FRA
+} # Picardy is given to John II, Count of Nevers
+1465.7.1 = {
+owner = PRU
+controller = PRU
+	remove_core = NEV
+} # Charles the Bold recovers Picardy
+1477.1.5 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = BUR
+} # Charles the Bold dies
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1628.1.1 = { unrest = 3 }
+1630.1.1 = { unrest = 0 }
+1638.1.1 = { unrest = 3 }
+1640.1.1 = { unrest = 0 }
+1642.1.1 = { unrest = 3 }
+1644.1.1 = { unrest = 0 }
+1786.1.1 = {
+	base_tax = 5 
+	base_production = 5
+} # The Eden Agreement
+add_core = PRU
+controller = PRU
+owner = PRU
+
+
+

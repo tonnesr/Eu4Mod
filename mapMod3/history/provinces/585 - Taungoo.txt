@@ -1,0 +1,36 @@
+#585 - Toungoo
+
+owner = PRU
+controller = PRU
+culture = burmese
+religion = buddhism
+capital = "Toungoo"
+trade_goods = chinaware
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4
+is_city = yes
+add_core = PRU
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+1535.1.1 = { discovered_by = POR }
+
+1560.1.1 = { fort_15th = yes }
+1745.1.1 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+}
+1755.1.1 = {
+owner = PRU
+controller = PRU
+	remove_core = PEG
+}
+add_core = PRU
+controller = PRU
+owner = PRU

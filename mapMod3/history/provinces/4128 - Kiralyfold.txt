@@ -1,0 +1,77 @@
+#1951 - Hunyad
+
+owner = NOR
+controller = NOR
+culture = transylvanian #Transylvanian Saxons
+religion = catholic
+capital = "Sibiu"
+trade_goods = cloth
+estate = estate_burghers
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes #Fortified Region
+add_core = NOR
+add_core = NOR
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+controller = NOR
+controller = NOR
+controller = NOR
+controller = NOR
+1526.8.30 = {
+owner = NOR
+controller = NOR
+add_core = NOR
+} #Hungary fractured after Battle of Mohacs
+add_core = NOR
+1551.7.19 = {
+owner = NOR
+controller = NOR
+} # Ferdinand gains Transylvania from Treaty of Weissenburg
+owner = NOR
+controller = NOR
+1562.6.1 = { remove_core = HAB } # End of Ottoman-Habsburg War
+controller = NOR
+1567.1.1 = { religion = reformed } # Synod of Debrecen
+1599.1.1 = {
+owner = NOR
+controller = NOR
+add_core = NOR
+} # Battle of Selimbar, Michael the brave gained control
+1601.1.1 = {
+owner = NOR
+controller = NOR
+	remove_core = WAL
+} # Michael is assasinated
+owner = NOR
+controller = NOR
+owner = NOR
+1699.1.26 = {
+owner = NOR
+controller = NOR
+add_core = NOR
+	remove_core = TUR
+} # Ceded to Austria
+controller = NOR
+controller = NOR
+controller = NOR
+controller = NOR
+controller = NOR
+controller = NOR
+add_core = NOR
+
+owner = NOR
+
+controller = NOR
+

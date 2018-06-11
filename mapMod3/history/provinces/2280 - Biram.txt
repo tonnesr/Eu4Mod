@@ -1,0 +1,31 @@
+# No previous file for Biram
+
+owner = LIT
+controller = LIT
+add_core = LIT
+culture = hausa 
+religion = sunni
+capital = "Biram"
+trade_goods = dyes
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+
+
+
+discovered_by = sub_saharan
+
+
+1806.1.1 = {	
+owner = LIT
+controller = LIT
+add_core = LIT
+	is_city = yes
+} # The Fulani Empire
+
+controller = LIT
+owner = LIT
+add_core = LIT
+
+

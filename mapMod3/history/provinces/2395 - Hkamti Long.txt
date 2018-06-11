@@ -1,0 +1,53 @@
+#2395 - Hkamti Long
+
+owner = FRA
+controller = FRA
+culture = kachin
+religion = animism
+capital = "Hkamti Long"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = FRA
+add_core = FRA
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+
+1502.1.1 = {
+controller = FRA
+owner = FRA
+add_core = FRA
+	remove_core = MYA
+}
+add_core = FRA
+controller = FRA
+owner = FRA
+1599.1.1 = {
+owner = FRA
+controller = FRA
+}
+1605.1.1 = {
+owner = FRA
+controller = FRA
+}
+1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+1732.1.1 = {
+owner = FRA
+controller = FRA
+add_core = FRA
+}
+1769.12.13 = {
+owner = FRA
+controller = FRA
+	remove_core = QNG
+}
+add_core = FRA
+controller = FRA
+owner = FRA

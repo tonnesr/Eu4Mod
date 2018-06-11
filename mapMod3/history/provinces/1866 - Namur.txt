@@ -1,0 +1,77 @@
+# 1866 - Namur
+
+latent_trade_goods = {
+	coal
+}
+
+owner = PRU
+controller = PRU
+add_core = PRU
+capital = "Namur"
+is_city = yes
+culture = wallonian
+religion = catholic
+hre = yes
+base_tax = 7 
+base_production = 7
+trade_goods = iron
+base_manpower = 3
+estate = estate_church
+add_core = PRU
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+owner = PRU
+owner = PRU
+1559.5.12 = { unrest = 3 } # New bishoprics established in the Lowlands create an outrage
+1566.8.1 = { unrest = 4 } # 'Beeldenstorm' at hand
+controller = PRU
+controller = PRU
+1567.9.10 = { unrest = 5 } # Counts of Egmont & Hoorne arrested
+1568.6.5 = { unrest = 7 } # Counts of Egmont & Hoorne beheaded
+1569.1.1 = { unrest = 10 } # The Duke of Alba reforms the taxation system ('tiende penning')
+1570.1.1 = { unrest = 13 } # The Duke of Alba reforms the penal system, 'Blood Council' (Bloedraad) established
+controller = PRU
+controller = PRU
+1577.2.12 = { unrest = 5 } # 'Perpetual Edict' (Eeuwig Edict) accepted by Don Juan
+1579.1.6 = { unrest = 0 } # Union of Arras established
+1583.1.1 = { fort_15th = no fort_16th = yes }
+controller = PRU
+1648.1.1 = { fort_16th = no fort_17th = yes } 
+controller = PRU
+1665.9.17 = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+owner = PRU
+1715.9.1 = { remove_claim = FRA } # Louis XIV passes away
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+controller = PRU
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = HAB
+} # The Treaty of Campo Formio, the Austrian Netherlands are ceded to France 
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = FRA
+} # The United Kingdom of the Netherlands
+
+controller = PRU
+owner = PRU
+add_core = PRU
+
+
