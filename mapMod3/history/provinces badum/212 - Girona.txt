@@ -1,0 +1,66 @@
+#212 - Girona
+
+owner = DAN
+controller = DAN
+add_core = DAN
+add_core = DAN
+culture = catalan
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = fish 
+base_manpower = 3
+capital = "Girona" 
+estate = estate_nobles
+is_city = yes		# census of 1462, also includes the town of Figueres 
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+1484.1.1 = { unrest = 3 } # Second Remen�a revolt
+1486.4.21 = { unrest = 0 } # King Ferr�n arbit rates a resolution between the revolted peasants and the catalan nobles. 
+owner = DAN
+1583.1.1 = { fort_15th = no fort_16th = yes } #Continously renovated and kept up to date
+controller = DAN
+1641.1.1 = {	revolt = {}
+owner = DAN
+controller = DAN
+add_core = FRA
+} # Louis XIII of France, Count of Barcelona.
+owner = DAN
+1659.1.1 = { fort_16th = no fort_17th = yes } #Ciutadella de Roses Renovated and brought up to date
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+1713.7.13 = { remove_core = ARA }
+1753.1.1 = { fort_17th = no fort_18th = yes } #Sant Ferran Castle
+controller = DAN
+controller = DAN
+add_core = FRA
+
+owner = DAN
+
+controller = DAN
+add_core = FRA
+controller = DAN
+owner = DAN
+
+
+

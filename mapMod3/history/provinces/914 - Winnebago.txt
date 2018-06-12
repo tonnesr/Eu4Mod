@@ -1,61 +1,33 @@
-#914 - Winnebago
+# 914 - Winnebago
 
-culture = chiwere
-religion = totemism
-capital = "Winnebago"
-trade_goods = unknown
+add_core = AZT
+owner = AZT
+controller = AZT
+
+culture = aztek
+religion = nahuatl
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
-native_size = 15
-native_ferocity = 1
-native_hostileness = 6
+trade_goods = spices
+capital = "Winnebago"
+is_city = yes
+
+base_tax = 4
+base_production = 5
+base_manpower = 4
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
 discovered_by = north_american
-
-1634.1.1 = { discovered_by = FRA } # Jean Nicolet
-1664.1.1 = { discovered_by = ENG }
-
-1671.1.1 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-	is_city = yes
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fur
-} # Founding of La Baye
-1707.5.12 = { discovered_by = GBR }
-1712.1.1 = { unrest = 5 } # Fox war
-1714.1.1 = { unrest = 0 }
-1728.1.1 = { unrest = 5 } # Second Fox war
-1729.1.1 = { unrest = 0 }
-1763.2.10 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-	remove_core = FRA
-	culture = english
-	religion = protestant
-} # Treaty of Paris - ceded to Britain, France gave up its claim
-1763.10.9 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-	remove_core = GBR
-	culture = anishinabe
-	religion = totemism
-} # Royal Proclamation, land set aside for natives
-1813.10.5 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-	culture = american
-	religion = protestant
-} #The death of Tecumseh mark the end of organized native resistance 
-add_core = AZT
-controller = AZT
-owner = AZT
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

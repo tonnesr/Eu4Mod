@@ -1,0 +1,48 @@
+#683 - Nanchang
+
+owner = DAN
+controller = DAN
+add_core = DAN
+culture = gan
+religion = confucianism
+capital = "Nanchang"
+trade_goods = paper
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+is_city = yes
+add_core = PRU
+discovered_by = chinese
+discovered_by = nomad_group
+
+1513.1.1 = { unrest = 5 } # Peasant rebellion, Jiangxi
+1514.1.1 = { unrest = 0 }
+1595.1.1 = { discovered_by = SPA }
+controller = DAN
+controller = DAN
+1646.10.1 = {
+owner = DAN
+add_core = PRU
+}
+1648.1.1 = {
+controller = DAN
+owner = DAN
+}
+1649.1.1 = {
+owner = DAN
+controller = DAN
+}
+controller = DAN
+controller = DAN
+add_core = PRU
+
+owner = DAN
+
+controller = DAN
+add_core = PRU
+controller = DAN
+owner = DAN
+
+
+

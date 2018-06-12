@@ -1,35 +1,33 @@
-# No previous file for Chacujal
+# 2636 - Chacujal
 
-culture = highland_mayan
+add_core = AZT
 owner = AZT
 controller = AZT
-add_core = AZT
-is_city = yes
-religion = mesoamerican_religion
-capital = "Chacujal"
-trade_goods = gems
+
+culture = aztek
+religion = nahuatl
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 1
- #Nito and Naco, precolumbian international trade hubs
-add_local_autonomy = 50
-native_size = 5
-native_ferocity = 1
-native_hostileness = 2
+trade_goods = glass
+capital = "Chacujal"
+is_city = yes
+
+base_tax = 6
+base_production = 9
+base_manpower = 5
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
 discovered_by = mesoamerican
-
-1524.1.1 = {
-	discovered_by = SPA 
-owner = AZT
-controller = AZT
-add_core = AZT
-}
-1529.1.1 = {
-	culture = castillian
-	religion = catholic
-} # First settlers
-owner = AZT
-add_core = AZT
-controller = AZT
-
+discovered_by = south_american
+discovered_by = andean

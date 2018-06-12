@@ -1,0 +1,45 @@
+#242 - Gwynedd
+
+owner = DAN
+controller = DAN
+culture = welsh
+religion = catholic
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = livestock
+base_manpower = 1
+capital = "Caernarvon"
+is_city = yes
+add_core = NOR
+add_core = NOR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
+1399.1.1 = { unrest = 20 } # Buildup to the Welsh Revolt
+controller = DAN
+controller = DAN
+1453.1.1 = { unrest = 5 } # Start of the War of the Roses
+controller = DAN
+1467.1.1 = { revolt = {} unrest = 5 } # Rivalry between Edward IV & Warwick
+controller = DAN
+1471.1.1 = { unrest = 8 } # Unpopularity of Warwick & War with Burgundy
+controller = DAN
+controller = DAN
+1483.6.26 = { unrest = 8 } # Revulsion at Supposed Murder of the Princes in the Tower
+1485.8.23 = { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
+owner = DAN
+controller = DAN
+add_core = NOR
+	remove_core = ENG
+}
+1750.1.1 = { religion = reformed }
+add_core = NOR
+controller = DAN
+owner = DAN
+
+
+

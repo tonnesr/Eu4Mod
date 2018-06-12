@@ -1,37 +1,33 @@
-#119 - Ancona
+# 119 - Ancona
 
+add_core = PAP
 owner = PAP
 controller = PAP
-culture = umbrian 
-religion = catholic 
-hre = no 
-base_tax = 5 
-base_production = 5    
-trade_goods = paper
-base_manpower = 4    
-capital = "Ancona" 
-is_city = yes 
-estate = estate_burghers #Or nobles
-add_core = PAP
-discovered_by = western
+
+culture = umbrian
+religion = catholic
+hre = no
+trade_goods = fish
+capital = "Ancona"
+is_city = yes
+
+base_tax = 10
+base_production = 7
+base_manpower = 6
+
+
+
 discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-add_core = PAP
-1805.12.26 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	remove_core = PAP
-} # Treaty of Pressburg
-1814.4.11 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	remove_core = FRA
-} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
-
-controller = PAP
-owner = PAP
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

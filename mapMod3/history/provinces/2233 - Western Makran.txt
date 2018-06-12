@@ -1,47 +1,33 @@
-#575 - Eastern Makran
+# 2233 - Western Makran
 
+add_core = MUG
 owner = MUG
 controller = MUG
-culture = baluchi
+
+culture = uzbehk
 religion = sunni
-capital = "Chabahar"
-trade_goods = fish
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
+trade_goods = livestock
+capital = "Western Makran"
 is_city = yes
-add_core = MUG
-estate = estate_church
-add_local_autonomy = 50
+
+base_tax = 3
+base_production = 6
+base_manpower = 5
 
 
-discovered_by = east_african
-discovered_by = indian
+
+discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+discovered_by = indian
 discovered_by = nomad_group
-
-
-owner = MUG
-controller = MUG
-1498.1.1 = { discovered_by = POR }
-controller = MUG
-1504.1.1 = {
-owner = MUG
-add_core = MUG
-controller = MUG
-	remove_core = AKK
-} # Land reclaimed
-controller = MUG
-owner = MUG
-1666.1.1 = {
-owner = MUG
-controller = MUG
-} #Kingdom of Kalat
-add_core = MUG
-
-owner = MUG
-
-controller = MUG
-
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

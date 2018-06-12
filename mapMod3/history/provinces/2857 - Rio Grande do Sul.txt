@@ -1,36 +1,33 @@
-# - Rio Grande do Sol
+# 2857 - Rio Grande do Sul
 
-culture = guarani
-discovered_by = south_american
-religion = animism
-capital = "Rio Grande"
-trade_goods = unknown
+add_core = PAP
+owner = PAP
+controller = PAP
+
+culture = umbrian
+religion = catholic
 hre = no
-base_tax = 2 
-base_production = 1
-base_manpower = 1
-native_size = 10
-native_ferocity = 1
-native_hostileness = 5
+trade_goods = sugar
+capital = "Rio Grande do Sul"
+is_city = yes
 
-1530.1.1 = { discovered_by = POR } # Estimate
-1737.2.19 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	is_city = yes
-	culture = portugese
-	religion = catholic
-	trade_goods = tobacco
-}
-1763.4.1 = {
-owner = PAP
-controller = PAP
-}
-1767.1.1 = {
-owner = PAP
-controller = PAP
-}
-add_core = PAP
+base_tax = 4
+base_production = 10
+base_manpower = 6
 
-owner = PAP
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

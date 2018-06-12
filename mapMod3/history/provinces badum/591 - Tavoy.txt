@@ -1,0 +1,46 @@
+#591 - Tavoy
+
+owner = DAN
+controller = DAN
+culture = mon
+religion = buddhism
+capital = "Tavoy"
+trade_goods = naval_supplies
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = MUG
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+1535.1.1 = { discovered_by = POR }
+
+owner = DAN
+controller = DAN
+add_core = MUG
+}
+owner = DAN
+controller = DAN
+}
+owner = DAN
+owner = DAN
+owner = DAN
+1794.1.1 = { remove_core = AYU }
+add_core = MUG
+
+owner = DAN
+
+controller = DAN
+
+controller = DAN
+owner = DAN
+
+
+

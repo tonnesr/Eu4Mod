@@ -1,59 +1,33 @@
-#951 - Kanawha
+# 951 - Kanawha
 
-latent_trade_goods = {
-	coal
-}
+add_core = LIT
+owner = LIT
+controller = LIT
 
-culture = shawnee
-religion = totemism
-capital = "Kanawha"
-trade_goods = unknown
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
-native_size = 5
-native_ferocity = 1
-native_hostileness = 4
+trade_goods = cloth
+capital = "Kanawha"
+is_city = yes
+
+base_tax = 5
+base_production = 7
+base_manpower = 10
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
 discovered_by = north_american
-
-
-1650.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	is_city = yes
-	trade_goods = iron 
-} #Extent of the Shawnee at start of the Beaver Wars
-1671.1.1 = { discovered_by = ENG } # Abraham Wood
-1700.1.1 = {
-owner = LIT
-controller = LIT
-	culture = iroquois 
-} #Driven off by Iroquois in Beaver Wars
-1707.5.12 = { discovered_by = GBR } 
-1768.11.5 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	culture = american
-	religion = protestant
-} #Treaty of Fort Stanwix, becomes part of Virginia
-1774.1.1 = { capital = "Fort Blair" unrest = 6 }
-1776.7.4 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	remove_core = GBR
-	culture = american
-} # Declaration of independence
-1782.11.1 = { unrest = 0 } # Preliminary articles of peace, the British recognized American independence
-add_core = LIT
-controller = LIT
-owner = LIT
-
-
-
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

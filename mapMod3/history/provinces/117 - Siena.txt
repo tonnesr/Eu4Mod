@@ -1,63 +1,33 @@
-#117 - Siena
+# 117 - Siena
 
+add_core = PAP
 owner = PAP
 controller = PAP
-culture = tuscan 
-religion = catholic 
-hre = yes 
-base_tax = 8 
-base_production = 8    
-trade_goods = glass
-base_manpower = 4    
-capital = "Siena" 
-is_city = yes 
-add_core = PAP
-discovered_by = western
+
+culture = umbrian
+religion = catholic
+hre = no
+trade_goods = slaves
+capital = "Siena"
+is_city = yes
+
+base_tax = 7
+base_production = 5
+base_manpower = 4
+
+
+
 discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-owner = PAP
-owner = PAP
-1495.1.1 = { hre = no }
-owner = PAP
-owner = PAP
-owner = PAP
-1557.1.1 = {
-controller = PAP
-owner = PAP
-add_core = PAP
-	remove_core = SPA
-}
-1569.8.1 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	remove_core = LAN
-}
-1583.1.1 = { fort_16th = yes } #Medicean Walls
-add_core = PAP
-1801.2.9 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-} # The Treaty of Lun�ville
-1801.3.21 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-} # The Kingdom of Etruria
-1807.12.10 = {
-owner = PAP
-controller = PAP
-	remove_core = ETR
-} # Etruria is annexed to France
-1814.4.11 = {
-owner = PAP
-controller = PAP
-	remove_core = FRA
-} # Treaty of Fontainebleu, Napoleon abdicates and Tuscany is restored
-add_core = PAP
-controller = PAP
-owner = PAP
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

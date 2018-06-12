@@ -1,41 +1,33 @@
-#Western Sm�land - Tioh�rads Lagsaga, ie: V�rend, Finnveden och Njudung
+# 4166 - Tioharad
 
 add_core = SWE
 owner = SWE
 controller = SWE
+
 culture = swedish
 religion = catholic
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = naval_supplies
-base_manpower = 1
-capital = "V�xj�"
+trade_goods = gems
+capital = "Tioharad"
 is_city = yes
-discovered_by = western
+
+base_tax = 8
+base_production = 9
+base_manpower = 5
+
+
+
 discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-owner = SWE
-owner = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-owner = SWE
-owner = SWE
-owner = SWE
-owner = SWE
-1527.6.1 = { religion = protestant}
-controller = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-1623.1.1 = { base_manpower = 2 } # Sm�land did a huge contribution in number of regiments
-add_core = SWE
-
-owner = SWE
-
-controller = SWE
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

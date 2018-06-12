@@ -1,35 +1,33 @@
-#1770 - Ostmarch
+# 1770 - Ostmarch
 
+add_core = NOR
 owner = NOR
 controller = NOR
-add_core = NOR
-culture = austrian
+
+culture = norwegian
 religion = catholic
-base_tax = 5 
-base_production = 5
-trade_goods = wine 
-base_manpower = 6
-capital = "Krems" 
+hre = no
+trade_goods = salt
+capital = "Ostmarch"
 is_city = yes
-hre = yes
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = western
+
+base_tax = 10
+base_production = 8
+base_manpower = 9
+
+
+
 discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-1545.1.1 = { base_manpower = 3 }
-1650.1.1 = { base_manpower = 4 }
-1700.1.1 = { base_manpower = 6 }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-add_core = NOR
-controller = NOR
-owner = NOR
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

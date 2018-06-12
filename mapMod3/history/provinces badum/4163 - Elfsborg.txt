@@ -1,0 +1,34 @@
+#Elfsborgs L�n
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 1
+trade_goods = grain
+base_manpower = 1
+fort_15th = yes #Old �lvsborg Castle
+capital = "Elfsborg"
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1527.6.1 = { religion = protestant}
+controller = SWE
+controller = SWE
+controller = SWE
+controller = SWE
+1621.1.1 = { capital = "G�teborg" }
+add_core = SWE
+
+owner = SWE
+
+controller = SWE
+add_core = SWE
+controller = SWE
+owner = SWE

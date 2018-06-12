@@ -1,0 +1,30 @@
+# No previous file for Haayre
+
+owner = LIT
+controller = LIT
+add_core = LIT
+add_core = LIT
+is_city = yes
+culture = bozo 
+religion = shamanism #Fetishism
+capital = "Douentza"
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+
+
+discovered_by = sub_saharan
+
+
+owner = LIT
+owner = LIT
+add_core = LIT
+add_core = LIT
+controller = LIT
+owner = LIT
+
+
+

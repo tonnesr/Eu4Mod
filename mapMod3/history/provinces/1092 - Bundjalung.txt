@@ -1,21 +1,33 @@
-#1092 - Bundjalung
+# 1092 - Bundjalung
 
-culture = aboriginal
-religion = animism
-capital = "Bundjalung"
-trade_goods = unknown
-hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 2
-native_size = 10
-native_ferocity = 1
-native_hostileness = 2
-
-1770.1.1 = { discovered_by = GBR } # James Cook
 add_core = FRA
-controller = FRA
 owner = FRA
+controller = FRA
+
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+trade_goods = cotton
+capital = "Bundjalung"
+is_city = yes
+
+base_tax = 8
+base_production = 8
+base_manpower = 6
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

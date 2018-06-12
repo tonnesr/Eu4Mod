@@ -1,24 +1,33 @@
-#Katsekera
+# 4037 - Katsekera
 
+add_core = TUR
 owner = TUR
 controller = TUR
-add_core = TUR
-culture = nyasa
-religion = shamanism #Fetishism
+
+culture = turkish
+religion = sunni
+hre = no
+trade_goods = wine
 capital = "Katsekera"
 is_city = yes
-base_manpower = 2
-trade_goods = ivory
-hre = no
-base_tax = 2
-base_production = 3
-discovered_by = central_african
 
-1735.1.1 = {
-owner = TUR
-controller = TUR
-add_core = TUR
-}
-add_core = TUR
-controller = TUR
-owner = TUR
+base_tax = 9
+base_production = 2
+base_manpower = 7
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

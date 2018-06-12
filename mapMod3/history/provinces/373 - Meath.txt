@@ -1,38 +1,33 @@
-#373 - Meath
+# 373 - Meath
 
+add_core = PRU
 owner = PRU
 controller = PRU
-add_core = PRU
-add_core = PRU
-culture = irish
+
+culture = prussian
 religion = catholic
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = livestock
-base_manpower = 2
-capital = "Dublin"
+trade_goods = cloth
+capital = "Meath"
 is_city = yes
+
+base_tax = 10
+base_production = 7
+base_manpower = 5
+
+
+
+discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-discovered_by = eastern
-
-controller = PRU
-controller = PRU
-add_core = PRU
-controller = PRU
-controller = PRU
-1707.5.12 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-	remove_core = ENG
-}
-controller = PRU
-controller = PRU
-controller = PRU
-controller = PRU
-add_core = PRU
-
-owner = PRU
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

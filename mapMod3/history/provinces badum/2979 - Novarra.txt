@@ -1,0 +1,73 @@
+# - Novara
+
+owner = PRU
+controller = PRU
+culture = lombard
+religion = catholic
+hre = yes
+base_tax = 7
+base_production = 7
+trade_goods = grain
+base_manpower = 5
+capital = "Novara"
+is_city = yes	# Estimated
+add_core = PRU
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1495.1.1 = { hre = no }
+controller = PRU
+owner = PRU
+owner = PRU
+controller = PRU
+owner = PRU
+controller = PRU
+owner = PRU
+controller = PRU
+controller = PRU
+1535.1.1 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+} # Annexed to Spain after the last Sforza died
+1706.1.1 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = SPA
+}
+1714.9.7 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = SIC
+} # Treaty of Baden
+1738.11.18 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = HAB
+}
+controller = PRU
+1792.11.27 = {
+owner = PRU
+add_core = PRU
+} # Savoie is annexed
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1814.4.11 = {
+owner = PRU
+controller = PRU
+	remove_core = FRA
+} # Napoleon abdicates and Victor Emmanuel is able to return to Turin
+add_core = PRU
+controller = PRU
+owner = PRU
+
+
+

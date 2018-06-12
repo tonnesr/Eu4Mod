@@ -1,35 +1,33 @@
-#1103 - Bourbon
+# 1103 - Bourbon
 
-capital = "Bourbon"
-trade_goods = unknown
+add_core = LIT
+owner = LIT
+controller = LIT
+
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 5 
-base_production = 5
-base_manpower = 1
-native_size = 0
-native_ferocity = 0
-native_hostileness = 0
+trade_goods = slaves
+capital = "Bourbon"
+is_city = yes
+
+base_tax = 1
+base_production = 7
+base_manpower = 9
 
 
 
-
-1513.1.1 = { discovered_by = POR }
-
-1642.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	culture = cosmopolitan_french
-	religion = catholic
-	is_city = yes
-} # Claimed by Jacques Pronis
-1669.1.1 = { capital = "Saint-Denis" }
-1700.1.1 = { trade_goods = sugar }
-owner = LIT
-controller = LIT
-add_core = LIT
-
-owner = LIT
-
-controller = LIT
-
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

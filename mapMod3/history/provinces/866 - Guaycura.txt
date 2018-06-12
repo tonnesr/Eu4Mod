@@ -1,56 +1,33 @@
-#866 - Guaycura
+# 866 - Guaycura
 
-culture = piman
-religion = animism 
-capital = "Guaycura" 
-trade_goods = unknown 
-hre = no 
-base_tax = 1 
-base_production = 1 
-base_manpower = 1 
-native_size = 5 
-native_ferocity = 1 
-native_hostileness = 2 
+add_core = AZT
+owner = AZT
+controller = AZT
+
+culture = aztek
+religion = nahuatl
+hre = no
+trade_goods = glass
+capital = "Guaycura"
+is_city = yes
+
+base_tax = 2
+base_production = 4
+base_manpower = 7
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
 discovered_by = north_american
-
-1533.1.1 = { discovered_by = SPA }
-
-1535.5.3 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-	capital = "La Paz"
-	culture = castillian
-	religion = catholic
-	is_city = yes
-	trade_goods = fish 
-} # Hern�n Cort�s claimed the peninsula & founded the city
-1540.1.1 = {
-owner = AZT
-controller = AZT
-	capital = "Guaycura"
-	is_city = no
-	culture = piman
-	religion = animism
-	remove_core = SPA
-} #Spanish settlement abandoned
-1578.1.1 = { discovered_by = ENG } # Drake 
-1697.1.1 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-	capital = "Loreto"
-	is_city = yes
-	trade_goods = fish 
-	culture = castillian
-	religion = catholic
-} #First Spanish mission on the peninsula, Loreto
-1768.2.3 = { unrest = 4 } # The Jesuits are expelled 
-1769.1.1 = { unrest = 0 } 
-owner = AZT
-add_core = AZT
-controller = AZT
-
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

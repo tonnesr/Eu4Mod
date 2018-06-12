@@ -1,0 +1,26 @@
+#652 - Maguindanao
+
+culture = filipino
+religion = animism
+capital = "Maguindanao"
+trade_goods = spices
+hre = no
+is_city = yes
+base_tax = 5
+base_production = 5
+base_manpower = 3
+discovered_by = chinese
+owner = DAN
+controller = DAN
+add_core = MUG
+
+1520.1.1 = {
+	religion = sunni
+} # Sultanate of Maguindanao
+1527.1.1 = { discovered_by = SPA }
+add_core = MUG
+controller = DAN
+owner = DAN
+
+
+

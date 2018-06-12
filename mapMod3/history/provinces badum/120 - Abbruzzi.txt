@@ -1,0 +1,51 @@
+#120 - Abbruzzi
+
+owner = DAN
+controller = DAN
+culture = neapolitan 
+religion = catholic 
+hre = no 
+base_tax = 5 
+base_production = 5 
+trade_goods = wine 
+base_manpower = 3
+capital = "L'Aquila" 
+estate = estate_church
+is_city = yes 
+add_core = NAP
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1494.1.1 = { add_core = FRA } # Angevine claims
+controller = DAN
+controller = DAN
+owner = DAN
+owner = DAN
+1504.1.31 = { remove_core = FRA } # The Treaty of Lyon in 1504
+1516.1.23 = {
+owner = DAN
+controller = DAN
+	add_core = SPA
+	remove_core = ARA
+} # Unification of Spain
+1714.3.7 = {
+owner = DAN
+controller = DAN
+	add_core = HAB
+	remove_core = SPA
+}
+owner = DAN
+
+controller = DAN
+add_core = DAN
+controller = DAN
+owner = DAN
+
+
+

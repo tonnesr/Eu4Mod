@@ -1,45 +1,33 @@
-# No previous file for Gwiriko
+# 2253 - Gwiriko
 
+add_core = LIT
 owner = LIT
 controller = LIT
-add_core = LIT
-is_city = yes
-culture = dyola 
-religion = shamanism #Fetishism
-capital = "Say"
-estate = estate_nobles
-trade_goods = grain
+
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 1 
-base_production = 1
-native_size = 40
-native_ferocity = 4
-native_hostileness = 9
+trade_goods = unknown
+capital = "Gwiriko"
+is_city = yes
+
+base_tax = 9
+base_production = 10
 base_manpower = 1
-discovered_by = sub_saharan
-add_local_autonomy = 25
-
-1600.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	discovered_by = MOR
-} #Collapse of Mali after the battle of Jenn�
-1618.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	remove_core = MOR 
-} # Moroccans no longer appoint governors, local Moroccans, the Arma, rule on their own
-1715.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	remove_core = JNN 
-} #Rise of the Wattara kingdom of Seku
-
-controller = LIT
-owner = LIT
-add_core = LIT
 
 
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

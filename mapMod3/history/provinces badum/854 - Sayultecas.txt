@@ -1,0 +1,42 @@
+#854 - Sayultecas
+
+culture = tecos
+owner = DAN
+controller = DAN
+add_core = DAN
+is_city = yes 
+religion = nahuatl
+capital = "Sayultecas" 
+trade_goods = grain
+hre = no 
+base_tax = 4 
+base_production = 4 
+base_manpower = 3
+native_size = 5 
+native_ferocity = 1
+native_hostileness = 5
+
+
+
+discovered_by = mesoamerican
+
+1522.1.1 = { discovered_by = SPA } # Saavedra 
+
+1523.1.1 = {
+owner = DAN
+controller = DAN
+add_core = AZT
+	religion = catholic
+	culture = castillian
+	unrest = 5
+} #Forced to surrender by Alvarado, Colimotl murdered
+1578.1.1 = { discovered_by = ENG } # Drake 
+owner = DAN
+add_core = AZT
+controller = DAN
+add_core = AZT
+controller = DAN
+owner = DAN
+
+
+

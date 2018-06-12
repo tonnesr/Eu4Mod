@@ -1,0 +1,32 @@
+#2705 - Kuching
+
+owner = PRU
+controller = PRU
+culture = bornean
+religion = sunni
+capital = "Kuching"
+trade_goods = gems
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = PRU
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+1521.1.1 = { discovered_by = SPA }
+owner = PRU
+owner = PRU
+controller = PRU
+controller = PRU
+add_core = PRU
+
+owner = PRU
+
+controller = PRU
+add_core = PRU
+controller = PRU
+owner = PRU

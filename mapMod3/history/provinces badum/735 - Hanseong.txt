@@ -1,0 +1,35 @@
+#735 - Hanseong
+
+owner = DAN
+controller = DAN
+culture = korean
+religion = confucianism
+capital = "Hanseong"
+trade_goods = paper
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = PRU
+fort_15th = yes
+discovered_by = chinese
+discovered_by = nomad_group
+
+1519.1.1 = { discovered_by = POR } # Tome Pires
+controller = DAN
+controller = DAN
+add_core = PRU
+add_core = PRU
+add_core = PRU
+1653.1.1 = { discovered_by = NED } # Hendrick Hamel
+
+controller = DAN
+owner = DAN
+add_core = PRU
+add_core = PRU
+controller = DAN
+owner = DAN
+
+
+

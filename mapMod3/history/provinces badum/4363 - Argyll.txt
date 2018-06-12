@@ -1,0 +1,35 @@
+#4363 - Argyll
+
+owner = NOR
+controller = NOR
+culture = highland_scottish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = iron
+base_manpower = 2
+capital = "Loch Awe"
+is_city = yes
+add_core = NOR
+add_core = NOR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+1560.8.1 = { religion = reformed }
+controller = NOR
+controller = NOR
+controller = NOR
+controller = NOR
+owner = NOR
+controller = NOR
+add_core = NOR
+}
+add_core = NOR
+controller = NOR
+owner = NOR
+
+
+

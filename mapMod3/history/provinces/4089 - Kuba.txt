@@ -1,19 +1,33 @@
+# 4089 - Kuba
+
+add_core = LIT
 owner = LIT
 controller = LIT
-add_core = LIT
-culture = kuba
-religion = shamanism #Fetishism
-capital = "Kuba"
-trade_goods = tropical_wood
+
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 2
-base_production = 1
-base_manpower = 3
+trade_goods = chinaware
+capital = "Kuba"
 is_city = yes
+
+base_tax = 5
+base_production = 1
+base_manpower = 8
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
 discovered_by = central_african
-add_core = LIT
-controller = LIT
-owner = LIT
-
-
-
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

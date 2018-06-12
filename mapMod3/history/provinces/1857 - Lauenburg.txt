@@ -1,17 +1,19 @@
-#1857 - Lauenburg
+# 1857 - Lauenburg
 
+add_core = SWE
 owner = SWE
 controller = SWE
-add_core = SWE
-culture = hannoverian
+
+culture = swedish
 religion = catholic
+hre = no
+trade_goods = gold
 capital = "Lauenburg"
-trade_goods = salt
-hre = yes
-base_tax = 2 
-base_production = 2
-base_manpower = 1
 is_city = yes
+
+base_tax = 1
+base_production = 3
+base_manpower = 10
 
 
 
@@ -19,57 +21,13 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-1529.1.1 = { religion = protestant }
-1550.1.1 = { base_tax = 4 base_production = 4 }
-1689.1.1 = {	
-owner = SWE
-controller = SWE
-add_core = SWE
-}
-1692.1.1 = {	
-owner = SWE
-controller = SWE
-add_core = SWE
-	remove_core = BRU
-}
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-1807.7.9 = {	
-owner = SWE
-controller = SWE
-add_core = SWE
-} # The Second Treaty of Tilsit, the kingdom of Westfalia
-1810.12.13 = {	
-owner = SWE
-controller = SWE
-add_core = SWE
-	remove_core = WES
-} # Annexed by France
-1813.10.13 = {	
-owner = SWE
-controller = SWE
-	remove_core = FRA
-} # Battle of Leipzig
-1815.1.1 = {
-owner = SWE
-controller = SWE
-add_core = SWE
-	remove_core = HAN
-} # Ceded to Prussia in exchange for East Frisia
-1815.6.7 = {
-owner = SWE
-controller = SWE
-add_core = SWE
-	remove_core = PRU
-} # Ceded to Denmark in exchange for Vorpommern
-
-controller = SWE
-owner = SWE
-add_core = SWE
-add_core = SWE
-controller = SWE
-owner = SWE
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

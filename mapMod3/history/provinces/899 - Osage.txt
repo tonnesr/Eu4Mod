@@ -1,36 +1,33 @@
-#899 - Osage
+# 899 - Osage
 
+add_core = AZT
 owner = AZT
 controller = AZT
-add_core = AZT
-is_city = yes
-culture = osage
-religion = totemism
-capital = "Pahatsi"
-trade_goods = grain
+
+culture = aztek
+religion = nahuatl
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
-native_size = 20
-native_ferocity = 2
-native_hostileness = 7
+trade_goods = dyes
+capital = "Osage"
+is_city = yes
+
+base_tax = 8
+base_production = 7
+base_manpower = 6
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
 discovered_by = north_american
-
-1554.1.1 = { discovered_by = SPA }
-1673.1.1 = { discovered_by = FRA } # Louis Joliet & Jacques Marquette
-
-1808.11.10 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-	remove_core = OSA
-	culture = american
-	religion = protestant 
-} #Treaty of Fort Clark
-add_core = AZT
-controller = AZT
-owner = AZT
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

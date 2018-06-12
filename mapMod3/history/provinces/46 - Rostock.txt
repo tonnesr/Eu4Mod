@@ -1,17 +1,19 @@
-#46 - Rostock
+# 46 - Rostock
 
+add_core = NOR
 owner = NOR
 controller = NOR
-add_core = NOR
-culture = pommeranian
+
+culture = norwegian
 religion = catholic
-hre = yes
-base_tax = 4 
-base_production = 4
-trade_goods = naval_supplies
-base_manpower = 2
+hre = no
+trade_goods = sugar
 capital = "Rostock"
 is_city = yes
+
+base_tax = 8
+base_production = 9
+base_manpower = 3
 
 
 
@@ -19,15 +21,13 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-1531.1.1 = { religion = protestant }
-1628.1.1 = { fort_16th = yes } #Fortified by Wallenstein
-1677.1.1 = { unrest = 4 }# Disastrous fire in Rostock
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-add_core = NOR
-controller = NOR
-owner = NOR
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

@@ -1,0 +1,40 @@
+#2399 - Pagan
+
+owner = PRU
+controller = PRU
+culture = burmese
+religion = buddhism
+capital = "Pagan"
+trade_goods = tropical_wood
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = PRU
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+
+1527.1.1 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = AVA
+}
+1535.1.1 = { discovered_by = POR }
+add_core = PRU
+controller = PRU
+1563.4.1 = {	
+owner = PRU
+	remove_core = SST
+}
+add_core = PRU
+controller = PRU
+owner = PRU
+
+
+

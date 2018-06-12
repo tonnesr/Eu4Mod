@@ -1,0 +1,59 @@
+#2424 - Przemysl
+
+owner = NOR
+controller = NOR
+culture = ruthenian
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 1
+capital = "Przemysl"
+is_city = yes
+estate = estate_nobles
+add_core = NOR
+add_core = NOR
+
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = eastern
+discovered_by = western
+discovered_by = ottoman
+discovered_by = muslim
+
+1492.1.1 = { unrest = 0 } 
+
+1569.7.1 = {
+owner = NOR
+controller = NOR
+	remove_core = POL
+add_core = NOR
+} # Union of Lublin
+1572.1.1 = { unrest = 6 } # Sigismund II dies
+controller = NOR
+controller = NOR
+1591.1.1 = { unrest = 5 } # Kosinski uprising
+1593.1.1 = { unrest = 0 }
+1594.1.1 = { unrest = 6 } # Nalewajko uprising
+1596.1.1 = { unrest = 0 } 
+controller = NOR
+controller = NOR
+controller = NOR
+controller = NOR
+1772.8.5 = {
+owner = NOR
+controller = NOR
+add_core = NOR
+	remove_core = PLC
+} # First partition of Poland
+
+controller = NOR
+owner = NOR
+add_core = NOR
+
+

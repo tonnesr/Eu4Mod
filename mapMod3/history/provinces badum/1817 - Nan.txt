@@ -1,0 +1,26 @@
+#1817 - Nan
+
+owner = PRU
+controller = PRU
+culture = northern_thai
+religion = buddhism
+capital = "Nan"
+trade_goods = livestock
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = PRU
+discovered_by = chinese
+discovered_by = indian
+
+1535.1.1 = { discovered_by = POR }
+add_core = PRU
+add_core = PRU
+add_core = PRU
+controller = PRU
+owner = PRU
+
+
+

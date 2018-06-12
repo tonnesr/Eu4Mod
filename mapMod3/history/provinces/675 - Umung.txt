@@ -1,45 +1,33 @@
-#675 - Qujing
+# 675 - Umung
 
+add_core = FRA
 owner = FRA
 controller = FRA
-add_core = FRA
-add_core = FRA
-culture = yi
-religion = animism
-capital = "Umung"
-trade_goods = copper
+
+culture = cosmopolitan_french
+religion = catholic
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 3
+trade_goods = tropical_wood
+capital = "Umung"
 is_city = yes
 
+base_tax = 7
+base_production = 7
+base_manpower = 7
 
 
-discovered_by = chinese
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
-
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-
-1658.12.1 = {
-owner = FRA
-controller = FRA
-}
-1661.6.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
-	remove_core = MNG
-} # The Three Feudatories
-1681.10.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
-}
-add_core = FRA
-controller = FRA
-owner = FRA
-
-
-
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

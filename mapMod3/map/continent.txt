@@ -1,5 +1,5 @@
-europe = { 
-	#Dragon island
+europe={
+	#Dragon_Island (DAN)
 	2094
 	523
 	2061
@@ -154,12 +154,12 @@ europe = {
 	4340
 	419
 	4156
-	4179	
+	4179
 }
 
-asia = {
-	#large continent
-	#north-east large continent
+asia={
+	#large_continent
+	#north-east_large_continent (MUG)
 	97
 	2703
 	2159
@@ -383,7 +383,7 @@ asia = {
 	4289
 	2964
 	
-	#north-west large continent
+	#north-west_large_continent (PRU)
 	2745
 	736
 	737
@@ -699,10 +699,10 @@ asia = {
 	2687
 	2688
 	625
-	1814 
-	1811 
-	2425 
-	1808 
+	1814
+	1811
+	2425
+	1808
 	2608
 	1950
 	658
@@ -723,7 +723,8 @@ asia = {
 	668
 	2696
 	
-	#south-west large continent
+	#south-west_large_continent (FRA)
+	2395
 	4154
 	728
 	212
@@ -791,7 +792,6 @@ asia = {
 	2168
 	2167
 	4213
-	108
 	1088
 	1085
 	1094
@@ -874,8 +874,12 @@ asia = {
 	2735
 	1086
 	1089
+	4200
 
-	#south east largest continent
+	#south-east_largest_continent (MAM)
+	2580
+	2627
+	2615
 	1028
 	4188
 	1029
@@ -896,7 +900,6 @@ asia = {
 	4350
 	2331
 	4356
-	4276
 	4272
 	655
 	651
@@ -928,7 +931,6 @@ asia = {
 	2553
 	956
 	952
-	4177
 	2608
 	408
 	435
@@ -1076,7 +1078,6 @@ asia = {
 	2559
 	1000
 	4172
-	2580
 	2415
 	2639
 	987
@@ -1116,8 +1117,9 @@ asia = {
 	519
 }
 
-africa = {
-	#West middle continent
+africa={
+	#West_middle_continent (LIT)
+	2282
 	1936
 	1834
 	2526
@@ -1240,7 +1242,6 @@ africa = {
 	2293
 	1150
 	2284
-	1632
 	2277
 	2475
 	2474
@@ -1441,8 +1442,130 @@ africa = {
 	2295
 	2276
 	360
+
+	# Eastern part of middle continent (TUR)
+	158
+	2773
+	1210
+	2802
+	2778
+	1207
+	1208
+	4050
+	4044
+	4076
+	4061
+	4102
+	1209
+	2790
+	4103
+	4053
+	1799
+	4071
+	1354
+	4071
+	4077
+	2780
+	2776
+	2785
+	2784
+	2792
+	2793
+	1212
+	2789
+	2786
+	2777
+	2781
+	4052
+	2783
+	1206
+	2024
+	2795
+	2794
+	2775
+	1205
+	2774
+	2796
+	1273
+	1203
+	4057
+	2788
+	4051
+	4054
+	4059
+	1925
+	1200
+	1202
+	4055
+	4043
+	4073
+	1198
+	4036
+	4037
+	4045
+	1196
+	4056
+	4035
+	4058
+	1199
+	1197
+	4040
+	4049
+	1195
+	4034
+	4048
+	788
+	4313
+	319
+	4038
+	331
+	2305
+	1848
+	328
+	29
+	332
+	325
+	4310
+	27
+	4178
+	326
+	31
+	137
+	136
+	19
+	2304
+	330
+	4315
+	4152
+	329
+	4314
+	1846
+	2300
+	2301
+	1776
+	138
+	4307
+	2302
+	324
+	323
+	327
+	2406
+	4247
+	1974
+	1952
+	283
+	1109
+	4123
+	2782
+	1204
+	4072
+	4062
+	4041
+	4042
+	4060
+	2779
 	
-	#East middle continent
+	#East_middle_continent (NOR)	
 	10
 	20
 	46
@@ -1493,7 +1616,6 @@ africa = {
 	985
 	4361
 	2568
-	429
 	61
 	262
 	2960
@@ -1703,7 +1825,7 @@ africa = {
 	144
 	1011
 	
-	#Smaller islands in the middle of middle continent
+	#Smaller_islands_in_the_middle_of_middle_continent (TUN)
 	352
 	340
 	4169
@@ -1751,7 +1873,7 @@ africa = {
 	124
 	2982
 	
-	#Smaller islands east of middle continent
+	#Smaller_islands_east_of_middle_continent (SWE)
 	1857
 	3
 	4142
@@ -1852,8 +1974,11 @@ africa = {
 	962
 }
 
-north_america = {
-	#Islands under the "side" continent
+north_america={
+	#Edge_continent	
+	#Islands_under_the_edge_continent (NOV)
+	2983
+	4252
 	2230
 	2985
 	1933
@@ -1949,7 +2074,9 @@ north_america = {
 	2041
 	580
 	
-	#Right "side" continent	
+	#Right_edge_continent (AZT)
+	2055
+	4276
 	2947
 	2830
 	2620
@@ -1991,7 +2118,6 @@ north_america = {
 	2645
 	1802
 	2644
-	2651
 	2630
 	2647
 	852
@@ -2037,7 +2163,6 @@ north_america = {
 	2846
 	2837
 	803
-	2972
 	2867
 	2838
 	2834
@@ -2087,7 +2212,6 @@ north_america = {
 	2497
 	882
 	2500
-	2597
 	895
 	2528
 	897
@@ -2099,7 +2223,6 @@ north_america = {
 	886
 	934
 	2514
-	2627
 	899
 	2520
 	896
@@ -2116,7 +2239,6 @@ north_america = {
 	2626
 	837
 	2640
-	2615
 	873
 	942
 	2523
@@ -2154,7 +2276,7 @@ north_america = {
 	1809
 	2490
 	909
-	835 
+	835
 	2840
 	2507
 	2007
@@ -2222,8 +2344,9 @@ north_america = {
 	2836
 	2495
 	862
+	4177
 
-	#Left "side" continent (Pope)
+	#Left_edge_continent (PAP)
 	908
 	755
 	2916
@@ -2389,8 +2512,8 @@ north_america = {
 	742
 }
 
-south_america = {
-	#North Pole
+south_america={
+	#North_Pole (BRA)
 	1784
 	389
 	386
@@ -2406,7 +2529,6 @@ south_america = {
 	4281
 	4278
 	4282
-	4346
 	390
 	2346
 	2343
@@ -2424,8 +2546,8 @@ south_america = {
 	555
 }
 
-oceania = {
-	#Spirale Islands
+oceania={
+	#Spirale_Islands (ETH)
 	2005
 	2596
 	1813
@@ -2492,10 +2614,10 @@ oceania = {
 	2516
 }
 
-island_check_provinces = {
+island_check_provinces={
 
 }
 
-# Used  RNW
-new_world = {
+#UsedRNW
+new_world={
 }

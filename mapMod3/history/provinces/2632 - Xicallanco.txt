@@ -1,37 +1,33 @@
-# No previous file for Xicallanco
+# 2632 - Xicallanco
 
-culture = putun
+add_core = AZT
 owner = AZT
 controller = AZT
-add_core = AZT
-is_city = yes
-religion = mesoamerican_religion
-capital = "Xicallanco"
-trade_goods = cocoa
+
+culture = aztek
+religion = nahuatl
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 1
- #Precolumbian international trade hub
-add_local_autonomy = 25
-native_size = 5
-native_ferocity = 1
-native_hostileness = 2
+trade_goods = livestock
+capital = "Xicallanco"
+is_city = yes
+
+base_tax = 6
+base_production = 3
+base_manpower = 3
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
 discovered_by = mesoamerican
-
-1517.1.1 = { discovered_by = SPA }
-
-1529.1.1 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-	culture = castillian
-	religion = catholic 
-} #de Montejo form Salamanca de Xicalango
-owner = AZT
-add_core = AZT
-controller = AZT
-
+discovered_by = south_american
+discovered_by = andean

@@ -1,21 +1,33 @@
-#1244 - Tahiti
+# 1244 - Tahiti
 
-culture = polynesian
-religion = animism
-capital = "Tahiti"
-trade_goods = unknown
-hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 1
-native_size = 10
-native_ferocity = 1
-native_hostileness = 2
-
-
-
-
-1606.1.1 = { discovered_by = SPA }
 add_core = TUN
-controller = TUN
 owner = TUN
+controller = TUN
+
+culture = tunisian
+religion = sunni
+hre = no
+trade_goods = cocoa
+capital = "Tahiti"
+is_city = yes
+
+base_tax = 10
+base_production = 6
+base_manpower = 6
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

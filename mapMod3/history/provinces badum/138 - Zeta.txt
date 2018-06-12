@@ -1,0 +1,41 @@
+#138 - Zeta
+
+owner = DAN
+controller = DAN
+culture = serbian
+religion = orthodox
+capital = "Zabljak"
+trade_goods = fish
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+estate = estate_nobles
+add_core = TUR
+add_core = TUR
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+owner = DAN
+owner = DAN
+add_core = TUR
+1482.1.1 = { capital = "Cetinje" }
+owner = DAN
+owner = DAN
+1709.1.1 = { unrest = 5 } # Montenegro's Muslim converts were massacred at Vladika Danilo's order
+1712.1.1 = { unrest = 2 } # Cetinje sacked again as a response
+add_core = TUR
+controller = DAN
+owner = DAN
+
+
+

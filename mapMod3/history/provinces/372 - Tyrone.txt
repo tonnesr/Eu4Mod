@@ -1,43 +1,33 @@
-#372 - Tyrone
+# 372 - Tyrone
 
+add_core = PRU
 owner = PRU
 controller = PRU
-culture = irish
+
+culture = prussian
 religion = catholic
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = wool
-base_manpower = 2
-capital = "Dungannon"
+trade_goods = salt
+capital = "Tyrone"
 is_city = yes
-add_core = PRU
+
+base_tax = 3
+base_production = 4
+base_manpower = 1
+
+
+
+discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-discovered_by = eastern
-
-1607.9.4 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-} # Flight of the Earls
-1609.1.1 = { culture = english religion = protestant } # Jacobean Plantations
-1641.10.22 = { unrest = 15 }
-1642.5.1 = { unrest = 0 }
-add_core = PRU
-controller = PRU
-controller = PRU
-1707.5.12 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-	remove_core = ENG
-}
-1711.1.1 = { trade_goods = cloth } # Formation of Linen Board
-1768.1.1 = { capital = "Omagh" }
-1798.5.23 = { unrest = 10 } # Irish rebellion
-1798.7.14 = { unrest = 0 } # The rebels are defeated
-add_core = PRU
-controller = PRU
-owner = PRU
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

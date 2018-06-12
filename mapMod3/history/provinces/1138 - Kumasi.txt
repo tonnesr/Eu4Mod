@@ -1,46 +1,33 @@
-#1138 - Kumasi
+# 1138 - Kumasi
 
-culture = aka
-base_manpower = 1
-religion = shamanism #Fetishism
-capital = "Akyem Kotoko"
-trade_goods = gold
+add_core = LIT
+owner = LIT
+controller = LIT
+
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 4 
-base_production = 4
-native_size = 60
-native_ferocity = 4
-native_hostileness = 9
-add_core = LIT
+trade_goods = paper
+capital = "Kumasi"
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 3
 
 
 
-discovered_by = sub_saharan
-
-
-1500.1.1 = { 
-owner = LIT
-controller = LIT
-add_core = LIT
-	trade_goods = gold
-	capital = "Kumasi"
-	is_city = yes 
-} #Akan migrations, Denkyira establishd (Ashanti is a subject)
-1713.1.1 = { unrest = 2 } #Dagomba uprising against Gonja domination 
-1715.1.1 = { unrest = 5 } #Ashante-Aowin War 
-1718.1.1 = { unrest = 2 } #civil war in Dagomba
-1724.1.1 = { unrest = 5 } #Ashante-Bono War 
-1725.1.1 = { unrest = 0 } #Ashante-Bono War Ends
-1732.1.1 = { unrest = 5 } #Ashante invades Gonja 
-1733.1.1 = { unrest = 0 } #Ashante annexes Gonja 
-1740.1.1 = { unrest = 6 } #civil war in Dagomba
-1744.1.1 = { unrest = 0 } #Ashante intervenes in Dagomba Civil War, annexes it
-1748.1.1 = { unrest = 8 } #Attempted Coup by bureaucracy against Opoku Ware
-1749.1.1 = { unrest = 0 } #Opoku Ware defeats coup attempt
-1804.1.1 = { discovered_by = SOK }
-add_core = LIT
-controller = LIT
-owner = LIT
-
-
-
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

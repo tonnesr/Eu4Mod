@@ -1,0 +1,12 @@
+discovered_by = chinese
+
+
+
+
+1512.1.1 = { discovered_by = POR }
+add_core = DAN
+controller = DAN
+owner = DAN
+
+
+

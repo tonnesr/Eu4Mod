@@ -1,31 +1,33 @@
-#606 - Panduranga
+# 606 - Panduranga
 
+add_core = MUG
 owner = MUG
 controller = MUG
-culture = cham
-religion = hinduism
-capital = "Panduranga"
-trade_goods = fish
+
+culture = uzbehk
+religion = sunni
 hre = no
-base_tax = 4
-base_production = 4
-base_manpower = 2
+trade_goods = wine
+capital = "Panduranga"
 is_city = yes
-add_core = MUG
-discovered_by = chinese
-discovered_by = indian
+
+base_tax = 1
+base_production = 1
+base_manpower = 9
+
+
+
+discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-1535.1.1 = { discovered_by = POR }
-1600.1.1 = { religion = sunni } # muslim conversion
-1692.1.1 = { unrest = 6 } # Rebellion against the Vietnamese
-1693.1.1 = { unrest = 0 } # Plague
-1786.1.1 = { unrest = 5 } # Unsuccessful revolt
-1787.1.1 = { unrest = 0 }
-add_core = MUG
-controller = MUG
-owner = MUG
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

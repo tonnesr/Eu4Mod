@@ -1,52 +1,33 @@
-#952 - Powhatan
+# 952 - Powhatan
 
-culture = powhatan
-religion = totemism
-capital = "Powhatan"
-trade_goods = tobacco
+add_core = MAM
+owner = MAM
+controller = MAM
+
+culture = al_misr_arabic
+religion = sunni
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 1
+trade_goods = glass
+capital = "Powhatan"
 is_city = yes
-owner = MAM
-controller = MAM
-add_core = MAM
-native_size = 10
-native_ferocity = 6
-native_hostileness = 2
+
+base_tax = 3
+base_production = 9
+base_manpower = 4
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
 discovered_by = north_american
-
-1584.1.1 = { discovered_by = ENG }
-
-1646.1.1 = {
-owner = MAM
-controller = MAM
-add_core = MAM
-	culture = english 
-	religion = protestant
-} #Ceded by Powhatan after third Powhatan War.
-1707.5.12 = {
-	discovered_by = GBR
-owner = MAM
-controller = MAM
-add_core = MAM
-	remove_core = ENG
-} 
-1737.4.1 = { capital = "Richmond" } #setlements expand west
-1764.7.1 = { culture = american unrest = 6 } # Growing unrest
-1776.7.4 = {
-owner = MAM
-controller = MAM
-add_core = MAM
-} # Declaration of independence
-1782.11.1 = { unrest = 0 remove_core = GBR } # Preliminary articles of peace, the British recognized American independence
-
-controller = MAM
-owner = MAM
-add_core = MAM
-
-
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

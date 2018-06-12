@@ -1,32 +1,33 @@
-#4360 - Mikawa
+# 4360 - Mikawa
 
+add_core = FRA
 owner = FRA
 controller = FRA
-culture = togoku
-religion = shinto
-capital = "Okazaki"
-trade_goods = grain
+
+culture = cosmopolitan_french
+religion = catholic
 hre = no
-base_tax = 2
-base_manpower = 3
-base_production = 2
+trade_goods = salt
+capital = "Mikawa"
 is_city = yes
-add_core = FRA
+
+base_tax = 8
+base_production = 5
+base_manpower = 3
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
 discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
-discovered_by = ANU
-
-owner = FRA
-owner = FRA
-owner = FRA
-owner = FRA
-# Tokugawa shogunate founded
-
-
-owner = FRA
-add_core = FRA
-controller = FRA
-
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

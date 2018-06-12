@@ -1,44 +1,33 @@
-#812 - Chanchan
+# 812 - Chanchan
 
+add_core = AZT
 owner = AZT
 controller = AZT
-culture = chimuan
-religion = inti
-capital = "Chanchan"
-trade_goods = cocoa
+
+culture = aztek
+religion = nahuatl
 hre = no
-base_tax = 4 
-base_production = 4
-base_manpower = 2
+trade_goods = paper
+capital = "Chanchan"
 is_city = yes
-add_core = AZT
+
+base_tax = 3
+base_production = 3
+base_manpower = 8
 
 
 
-discovered_by = CHM
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
 discovered_by = south_american
 discovered_by = andean
-
-fort_15th = yes
-
-1470.1.1 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-}
-1533.8.29 = {
-	discovered_by = SPA
-owner = AZT
-controller = AZT
-add_core = AZT
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1534.1.1 = { capital = "Trujillo" } # Founded by Diego de Almagro
-1537.1.1 = { unrest = 8 } # Fighting broke out when Almagro seized Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumed control
-1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
-add_core = AZT
-controller = AZT
-owner = AZT

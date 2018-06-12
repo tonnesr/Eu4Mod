@@ -1,50 +1,33 @@
-#2307 - Van
+# 2307 - Van
 
+add_core = DAN
 owner = DAN
 controller = DAN
-culture = armenian
-religion = coptic
-capital = "Van"
-trade_goods = wool
+
+culture = danish
+religion = catholic
 hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 2
+trade_goods = tea
+capital = "Van"
 is_city = yes
-add_core = DAN
-add_core = DAN
-discovered_by = east_african
+
+base_tax = 9
+base_production = 6
+base_manpower = 6
+
+
+
+discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-discovered_by = eastern
+discovered_by = indian
 discovered_by = nomad_group
-
-1453.1.1 = { discovered_by = western }
-1469.2.4 = {
-owner = DAN
-controller = DAN
-add_core = DAN
-	remove_core = QAR
-} # The Ak Koyunlu expands their territory
-controller = DAN
-1507.1.1 = {
-owner = DAN
-controller = DAN
-add_core = DAN
-	revolt = { }
-	remove_core = AKK
-} # The Safavids took over
-add_core = DAN
-controller = DAN
-controller = DAN
-controller = DAN
-1549.12.1 = {
-owner = DAN
-	remove_core = PER		
-} # Part of the Ottoman empire
-1722.1.1 = { unrest = 5 } # Rebellion against the Ottomans
-1730.1.1 = { unrest = 0 }
-add_core = DAN
-controller = DAN
-owner = DAN
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

@@ -1,41 +1,33 @@
-#Bergslagen, contains Falun, V�ster�s etc.
+# 4 -Bergslagen
 
 add_core = SWE
 owner = SWE
 controller = SWE
+
 culture = swedish
 religion = catholic
 hre = no
-base_tax = 2 
-base_production = 3
-trade_goods = iron
-base_manpower = 2
-capital = "V�ster�s"
+trade_goods = tobacco
+capital = "Bergslagen"
 is_city = yes
+
+base_tax = 5
+base_production = 4
+base_manpower = 8
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-controller = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-controller = SWE
-owner = SWE
-owner = SWE
-1527.6.1 = { religion = protestant}
-1617.1.1 = { base_tax = 4 base_production = 4 } # Iron is king!
-add_core = SWE
-controller = SWE
-owner = SWE
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

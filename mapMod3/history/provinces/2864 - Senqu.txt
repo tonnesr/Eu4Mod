@@ -1,24 +1,33 @@
-# - Senqu
+# 2864 - Senqu
 
-culture = khoisan
-religion = shamanism #Fetishism
-capital = "Senqu"
-trade_goods = unknown
-hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
-native_size = 40
-native_ferocity = 2
-native_hostileness = 6
-
-
-
-
-1750.1.1 = { discovered_by = NED }
 add_core = NOV
-controller = NOV
 owner = NOV
+controller = NOV
+
+culture = novgorodian
+religion = sunni
+hre = no
+trade_goods = spices
+capital = "Senqu"
+is_city = yes
+
+base_tax = 9
+base_production = 9
+base_manpower = 7
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

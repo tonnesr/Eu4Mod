@@ -1,0 +1,58 @@
+owner = PRU
+controller = PRU
+add_core = PRU
+culture = hessian
+religion = catholic
+trade_goods = cloth
+capital = "Kleves"
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+hre = yes
+
+1610.1.1 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = KLE
+} # Berg is inherited by Pfalsz-Neuenburg
+1777.12.30 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+	remove_core = PAL
+} # The Palatian Wittelsbachs inherit Bavaria and govern their lands from Munich.
+controller = PRU
+owner = PRU
+1806.7.12 = {
+owner = PRU
+controller = PRU
+	remove_core = FRA
+	hre = no
+} # The Holy Roman Empire is dissolved. Grand Duchy of Berg
+1808.8.1 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+} # Murat moves to Naples
+owner = PRU
+controller = PRU
+	remove_core = FRA
+} # Grand Duchy of Berg ruled by Napoleon Louis
+1814.4.11 = {
+owner = PRU
+controller = PRU
+add_core = PRU
+} # Treaty of Fontainebleu, Napoleon abdicates unconditionally
+add_core = PRU
+controller = PRU
+owner = PRU
+
+
+

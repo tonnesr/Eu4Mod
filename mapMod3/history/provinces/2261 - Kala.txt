@@ -1,42 +1,33 @@
-# No previous file for Kala
+# 2261 - Kala
 
+add_core = LIT
 owner = LIT
 controller = LIT
-add_core = LIT
-is_city = yes
-culture = bozo 
-religion = shamanism #Fetishism
-capital = "Isaq"
-trade_goods = fish #river fisheries
+
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 4 
-base_production = 4
-native_size = 40
-native_ferocity = 4
-native_hostileness = 9
-base_manpower = 1
+trade_goods = salt
+capital = "Kala"
+is_city = yes
+
+base_tax = 6
+base_production = 6
+base_manpower = 6
 
 
 
-discovered_by = sub_saharan
-
-
-owner = LIT
-owner = LIT
-owner = LIT
-owner = LIT
-owner = LIT
-controller = LIT
-controller = LIT
-1819.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	remove_core = SOF
-} # The Massina Empire, recylcing the JNN tag
-
-controller = LIT
-owner = LIT
-add_core = LIT
-
-
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

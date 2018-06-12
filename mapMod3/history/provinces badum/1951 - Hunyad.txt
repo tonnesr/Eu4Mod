@@ -1,0 +1,80 @@
+#1951 - Hunyad
+
+latent_trade_goods = {
+	coal
+}
+
+owner = MUG
+controller = MUG
+culture = transylvanian
+religion = orthodox
+capital = "Alba Iulia"
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_nobles
+add_core = MUG
+add_core = MUG
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+controller = MUG
+controller = MUG
+controller = MUG
+controller = MUG
+1526.8.30 = {
+owner = MUG
+controller = MUG
+add_core = MUG
+} #Hungary fractured after Battle of Mohacs
+add_core = MUG
+1551.7.19 = {
+owner = MUG
+controller = MUG
+} # Ferdinand gains Transylvania from Treaty of Weissenburg
+owner = MUG
+controller = MUG
+1562.6.1 = { remove_core = HAB } # End of Ottoman-Habsburg War
+controller = MUG
+1567.1.1 = { religion = reformed } # Synod of Debrecen
+1599.1.1 = {
+owner = MUG
+controller = MUG
+add_core = MUG
+} # Battle of Selimbar, Michael the brave gained control
+1601.1.1 = {
+owner = MUG
+controller = MUG
+	remove_core = WAL
+} # Michael is assasinated
+owner = MUG
+controller = MUG
+owner = MUG
+1685.1.1 = {
+controller = MUG
+} # Conquered/liberated by Charles of Lorraine, the Ottoman Turks are driven out of Hungary
+1699.1.26 = {
+owner = MUG
+add_core = MUG
+	remove_core = TUR
+} # Treaty of Karlowitz
+controller = MUG
+controller = MUG
+controller = MUG
+controller = MUG
+controller = MUG
+controller = MUG
+add_core = MUG
+
+owner = MUG

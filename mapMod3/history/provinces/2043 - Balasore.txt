@@ -1,90 +1,33 @@
-#2043 - Balasore
+# 2043 - Balasore
 
+add_core = MUG
 owner = MUG
 controller = MUG
-culture = oriya
-religion = hinduism
-capital = "Balasore"
-trade_goods = cloth
+
+culture = uzbehk
+religion = sunni
 hre = no
-base_tax = 4 
-base_production = 4
-base_manpower = 3
+trade_goods = coffee
+capital = "Balasore"
 is_city = yes
-add_core = MUG
-estate = estate_nobles
-fort_15th = yes #Raibania
+
+base_tax = 7
+base_production = 5
+base_manpower = 6
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
-discovered_by = muslim
-discovered_by = ottoman
-
-1405.1.1 = { discovered_by = MNG }
-1500.1.1 = { discovered_by = POR }
-
-1568.1.1 = {
-owner = MUG
-controller = MUG
-add_core = MUG
-} # Bengal Annexes
-1576.1.1 = {
-owner = MUG
-controller = MUG
-} # Orissa resurgent after Akbar's defeat of Bengal
-controller = MUG
-1592.1.1 = {
-owner = MUG
-add_core = MUG
-} # The Mughal Empire
-1622.10.1 = {
-controller = MUG
-	revolt = {
-		type = pretender_rebels
-		size = 0
-		name = "Khurrams Faction"
-		leader = "Shah Jahan Timurid"
-	}
-} #With some aid from Golconda Khurrams rebelion against his father continues
-1624.1.1 = {
-controller = MUG
-	revolt = { }
-} #Khurram is defeated and is chased away by Mughal forces and rebelious Zamindars. Takes refuge in Ahmednagar and eventually surrenders on terms dictated by Nur Jahan
-1657.9.14 = {
-controller = MUG
-	revolt = {
-		type = pretender_rebels
-		size = 0
-		name = "Muhammed Shuja's Faction"
-		leader = "Muhammed Shuja Timurid"
-	}
-} # Shah Jahan falls ill, his sons starts civil war
-1658.12.28 = {
-controller = MUG
-	revolt = { }
-} # Muhammed Shuja defeated by Aurangzeb
-1707.3.15 = {
-owner = MUG
-controller = MUG
-	remove_core = MUG
-}
-1752.1.1 = {
-owner = MUG
-controller = MUG
-add_core = MUG
-} # Marathas
-1803.1.1 = {
-owner = MUG
-controller = MUG
-add_core = MUG
-	remove_core = NAG
-} # Treaty of Deogaon
-
-controller = MUG
-owner = MUG
-add_core = MUG
-
-
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

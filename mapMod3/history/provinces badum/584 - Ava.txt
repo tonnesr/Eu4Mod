@@ -1,0 +1,38 @@
+#584 - Ava
+
+owner = DAN
+controller = DAN
+culture = burmese
+religion = buddhism
+capital = "Ava"
+trade_goods = gems #Burmese Emerald/Myanmar Jade
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4
+fort_15th = yes
+is_city = yes
+add_core = PRU
+discovered_by = chinese
+discovered_by = indian
+
+
+1527.1.1 = {
+owner = DAN
+controller = DAN
+add_core = PRU
+	remove_core = AVA
+}
+1535.1.1 = { discovered_by = POR }
+add_core = PRU
+controller = DAN
+1563.4.1 = {	
+owner = DAN
+	remove_core = SST
+}
+add_core = PRU
+controller = DAN
+owner = DAN
+
+
+

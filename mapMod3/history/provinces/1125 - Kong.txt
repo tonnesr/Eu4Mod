@@ -1,36 +1,33 @@
-#1125 - Worodugu
+# 1125 - Kong
 
+add_core = LIT
 owner = LIT
 controller = LIT
-add_core = LIT
-is_city = yes
-culture = dyola
-religion = shamanism #Fetishism
-capital = "Kong"
-trade_goods = ivory
+
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 2
-native_size = 40
-native_ferocity = 4
-native_hostileness = 9 
+trade_goods = salt
+capital = "Kong"
+is_city = yes
+
+base_tax = 7
+base_production = 6
+base_manpower = 6
 
 
 
-discovered_by = sub_saharan
-
-
-1540.1.1 = { unrest = 5 } #Mane Invasions reach region, disrupt societies in area
-1590.1.1 = { unrest = 5 } #Raids by Gonja destabilize Region
-1726.1.1 = { unrest = 5 } #bambara raids destabilize region
-add_core = LIT
-1741.1.1 = { unrest = 3 } #Power vacuum in wake of failed invasion of Bambara destabilized area
-1770.1.1 = { native_size = 60 } #growth of Kong as major trade emporium between Sahel and Coast
-1804.1.1 = { discovered_by = SOK }
-add_core = LIT
-controller = LIT
-owner = LIT
-
-
-
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

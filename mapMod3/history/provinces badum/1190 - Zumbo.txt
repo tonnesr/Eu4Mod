@@ -1,0 +1,36 @@
+#1190 - Zumbo
+
+owner = DAN
+controller = DAN
+add_core = DAN
+culture = shona
+religion = shamanism
+is_city = yes
+capital = "Chikova"
+trade_goods = ivory
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+discovered_by = east_african
+discovered_by = central_african
+
+1513.1.1 = { discovered_by = POR } #Travels of Antonio Fernandes in hinterland of Sofala
+1575.1.1 = { unrest = 8 } # Portuguese invasion of Mutapa via this region, fail to secure it & withdraw
+1576.1.1 = { unrest = 3 } # Portuguese driven out of the region, Mutapa authority challenged by pro-Portuguese clans
+1596.1.1 = { unrest = 5 } # Maravi invasions disrupt region
+1603.1.1 = { unrest = 6 } # Maravi migrations disrupt region
+1607.1.1 = { unrest = 7 } # Rebellion against Gatsi Rusere
+controller = DAN
+controller = DAN
+1631.1.1 = { unrest = 8 } # Kapararidze launches revolt to overthrow Mavura and end POR domination
+1632.1.1 = { unrest = 0 } # Kapararidze revolt defeated
+1715.1.1 = { capital = "Zumbo" trade_goods = gold } # Portuguese Trade Fair becomes new center in region
+1760.1.1 = { unrest = 7 } # Civil war between the Boroma and Nyamhandu clans for Mutapa crown
+1768.1.1 = { unrest = 0 }
+add_core = LIT
+controller = DAN
+owner = DAN
+
+
+

@@ -1,0 +1,40 @@
+#844 - Zapotec
+
+owner = DAN
+controller = DAN
+culture = zapotek
+religion = nahuatl
+capital = "Zaachila"
+trade_goods = sugar
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = AZT
+
+
+
+discovered_by = mesoamerican
+
+
+1524.1.1 = {
+	discovered_by = SPA 
+owner = DAN
+controller = DAN
+add_core = AZT
+}
+1529.1.1 = {
+	capital = "Oaxaca"
+	culture = castillian
+	religion = catholic
+} # First settlers
+owner = DAN
+add_core = AZT
+controller = DAN
+add_core = AZT
+controller = DAN
+owner = DAN
+
+
+

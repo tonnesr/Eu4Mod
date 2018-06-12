@@ -1,0 +1,46 @@
+#335 - Melilla
+
+owner = DAN
+controller = DAN
+culture = berber
+religion = sunni
+capital = "Melilla"
+trade_goods = fish
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+estate = estate_nobles
+add_core = LIT
+add_core = LIT
+
+
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
+1472.1.1 = {
+owner = DAN
+controller = DAN
+} #Wattasids take control over Fez, nominal ruler over much of Morocco.
+owner = DAN
+controller = DAN
+add_core = LIT
+} # Conquered by the Duke of Medina Sidonia
+controller = DAN
+owner = DAN
+add_core = LIT
+}
+1556.1.1 = { remove_core = MOR } # Formally annexed Melilla
+1713.4.11 = { remove_core = CAS }
+add_core = LIT
+add_core = LIT
+controller = DAN
+owner = DAN
+
+
+

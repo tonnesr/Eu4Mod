@@ -1,45 +1,33 @@
-# No previous file for Bendugu
+# 2250 - Bendugu
 
+add_core = LIT
 owner = LIT
 controller = LIT
-add_core = LIT
-is_city = yes
-culture = bozo 
-religion = shamanism #Fetishism
-capital = "San"
-estate = estate_nobles
-trade_goods = iron
+
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 3 
-base_production = 3
-native_size = 40
-native_ferocity = 4
-native_hostileness = 9
-base_manpower = 1
-discovered_by = sub_saharan
-add_local_autonomy = 25
+trade_goods = fur
+capital = "Bendugu"
+is_city = yes
 
-1600.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	discovered_by = MOR
-} #Collapse of Mali after the battle of Jenn�
-1618.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	remove_core = MOR 
-} # Moroccans no longer appoint governors, local Moroccans, the Arma, rule on their own
-1715.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	remove_core = JNN 
-} #Rise of the Wattara kingdom of Seku
-
-controller = LIT
-owner = LIT
-add_core = LIT
+base_tax = 5
+base_production = 5
+base_manpower = 2
 
 
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

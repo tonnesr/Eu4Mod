@@ -1,8 +1,8 @@
 # No previous file for Itscheabine
 
-owner = AZT
-controller = AZT
-add_core = AZT
+owner = ARP
+controller = ARP
+add_core = ARP
 is_city = yes
 culture = arapaho
 religion = totemism
@@ -25,12 +25,9 @@ discovered_by = north_american
 1732.1.1 = { discovered_by = FRA } # Pierre Gaultier de Varennes
 
 1760.1.1 = {
-owner = AZT
-controller = AZT
-add_core = AZT
+	owner = ASI
+	controller = ASI
+	add_core = ASI
 	culture = nakota
 	is_city = yes 
 } #Great Plain tribes spread over vast territories
-add_core = AZT
-controller = AZT
-owner = AZT

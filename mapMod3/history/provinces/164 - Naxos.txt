@@ -1,38 +1,33 @@
-#164 - Naxos
+# 164 - Naxos
 
+add_core = NOR
 owner = NOR
 controller = NOR
-culture = greek
-religion = orthodox
-capital = "Naxos"
-trade_goods = wine
+
+culture = norwegian
+religion = catholic
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 2
+trade_goods = naval_supplies
+capital = "Naxos"
 is_city = yes
-add_core = NOR
+
+base_tax = 9
+base_production = 1
+base_manpower = 1
 
 
 
-discovered_by = muslim
-discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
-
-
-1555.1.1 = { unrest = 5 } # General discontent with the Janissaries' dominance
-1556.1.1 = { unrest = 0 }
-owner = NOR
-controller = NOR
-add_core = NOR
-}
-1740.1.1 = { base_tax = 1 base_production = 1 } # The decentralizing effect of the provincial system
-controller = NOR
-controller = NOR
-add_core = NOR
-
-owner = NOR
-
-controller = NOR
-
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

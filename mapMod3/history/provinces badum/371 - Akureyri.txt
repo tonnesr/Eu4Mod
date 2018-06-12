@@ -1,0 +1,35 @@
+#371 - Akureyri
+
+owner = DAN
+controller = DAN
+add_core = DAN
+add_core = DAN
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Akureyri"
+add_local_autonomy = 25
+is_city = yes	
+
+
+
+discovered_by = western
+
+
+owner = DAN
+1752.1.1 = { trade_goods = wool } # Wool becomes more important.
+add_core = NOR
+
+owner = DAN
+
+controller = DAN
+add_core = NOR
+controller = DAN
+owner = DAN
+
+
+

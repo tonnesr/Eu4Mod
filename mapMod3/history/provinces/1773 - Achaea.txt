@@ -1,54 +1,33 @@
-#1773 - Achaea
+# 1773 - Achaea
 
+add_core = NOR
 owner = NOR
 controller = NOR
-culture = greek
-religion = orthodox
-capital = "Nafplio"
-trade_goods = wine
+
+culture = norwegian
+religion = catholic
 hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 3
+trade_goods = spices
+capital = "Achaea"
 is_city = yes
-add_core = NOR
-add_core = NOR
-add_core = NOR
+
+base_tax = 3
+base_production = 6
+base_manpower = 7
 
 
 
-discovered_by = muslim
-discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
 discovered_by = nomad_group
-
-
-1432.1.1 = {
-owner = NOR
-controller = NOR
-} # To Morea
-1453.5.29 = {
-owner = NOR
-controller = NOR
-} # The fall of the Byzantine Empire
-owner = NOR
-owner = NOR
-controller = NOR
-controller = NOR
-1502.1.1 = { remove_core = BYZ }
-controller = NOR
-controller = NOR
-1555.1.1 = { unrest = 5 } # General discontent with the Janissaries' dominance
-1556.1.1 = { unrest = 0 }
-controller = NOR
-controller = NOR
-controller = NOR
-1690.1.1 = { base_tax = 1 
-base_production = 1 } #The Decentralizing Effect of the Provincial System
-owner = NOR
-owner = NOR
-add_core = NOR
-
-
-owner = NOR
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

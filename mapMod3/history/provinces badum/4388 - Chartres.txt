@@ -1,0 +1,61 @@
+# 4388 Chartres
+
+owner = PRU
+controller = PRU
+capital = "Chartres"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 6
+fort_15th = yes
+add_core = PRU
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+controller = PRU
+controller = PRU
+1571.1.1 = { unrest = 5 } # Unrest spreads in catholic territory: massacres of protestants in Rouen, Orange & Paris
+1573.8.23 = { unrest = 10 } # Saint Barthelew's Day Massacre
+1574.5.1 = { unrest = 0 } # Charles IX dies, situation cools a bit	
+1583.1.1 = { fort_15th = no fort_16th = yes }
+1584.1.1 = { unrest = 7 } # Situation heats up again, even Paris is restless
+1588.1.1 = { unrest = 10 } # Paris turns against the King and sides with the de Guises
+1588.12.1 = { unrest = 12 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = { unrest = 8 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1598.4.13 = { unrest = 3 } # Edict of Nantes, alot more freedom to the protestants
+1598.5.2 = { unrest = 0 } # Peace of Vervins, formal end to the Wars of Religion
+1631.1.1 = { unrest = 3 }
+1633.1.1 = { unrest = 0 }
+1648.5.1 = { unrest = 5 } # New tax levied by the Parliament of Paris, first Fronde coming up
+1648.1.1 = { fort_16th = no fort_17th = yes }
+1648.8.1 = { unrest = 10 } # Cardinal Mazarin arrests the leaders of the Parliament, Paris rises up and barricades the streets
+controller = PRU
+controller = PRU
+1650.1.14 = { unrest = 7 } # Mazarin arrests the Princes Cond�, Conti & Longueville, the beginning of the Second Fronde.
+controller = PRU
+1651.12.1 = { unrest = 7 } # Mazarin returns from exile, Cond� sides with Spain, situation heats up again
+controller = PRU
+controller = PRU
+1715.1.1 = { fort_17th = no fort_18th = yes }
+controller = PRU
+1791.6.20 = {
+	revolt = {}
+controller = PRU
+} # The establishment of the First Republic
+add_core = PRU
+
+owner = PRU
+
+controller = PRU
+add_core = PRU
+controller = PRU
+owner = PRU
+
+
+

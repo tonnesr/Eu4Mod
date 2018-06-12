@@ -1,53 +1,33 @@
-#496 - Guadeloupe
+# 496 - Guadeloupe
 
-culture = carib
-religion = animism
-capital = "Guadeloupe"
-trade_goods = unknown 
+add_core = NOV
+owner = NOV
+controller = NOV
+
+culture = novgorodian
+religion = sunni
 hre = no
-base_tax = 4
-base_production = 5
-base_manpower = 1 
-native_size = 20
-native_ferocity = 2
-native_hostileness = 5
-discovered_by = CAB
-discovered_by = ARW
+trade_goods = coal
+capital = "Guadeloupe"
+is_city = yes
+
+base_tax = 7
+base_production = 6
+base_manpower = 3
 
 
 
-1493.11.14 = { discovered_by = CAS } # Christopher Columbus, never showed much interest for the island
-1516.1.23 = { discovered_by = SPA }
-
-1635.1.1 = {
-owner = NOV
-controller = NOV
-add_core = NOV
-	is_city = yes
-	religion = catholic
-	culture = cosmopolitan_french
-	trade_goods = sugar 
-} # Most of the Caribs were wiped out by the French
-1643.1.1 = { capital = "Basse-Terre" }
-controller = NOV
-controller = NOV
-controller = NOV
-controller = NOV
-1813.3.3 = {
-owner = NOV
-controller = NOV
-add_core = NOV
-	remove_core = FRA
-} # Ceded to Sweden
-1814.5.30 = {
-owner = NOV
-controller = NOV
-add_core = NOV
-	remove_core = SWE
-} # The Treaty of Paris
-
-controller = NOV
-owner = NOV
-add_core = NOV
-
-
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

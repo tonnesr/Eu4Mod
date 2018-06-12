@@ -1,0 +1,77 @@
+#532 - Raichur Doab
+
+owner = DAN
+controller = DAN
+culture = kannada
+religion = hinduism
+capital = "Raichur"
+trade_goods = cloth
+hre = no
+base_tax = 5 
+base_production = 6
+base_manpower = 4
+is_city = yes
+add_core = MAM
+add_core = MAM
+fort_15th = yes #Mudgal, Raichur, other forts
+
+
+
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = chinese
+
+
+1378.1.1 = {
+controller = DAN
+owner = DAN
+}
+add_core = MAM
+1493.1.1 = {
+owner = DAN
+controller = DAN
+} #Given to VIJ by BAH in exchange for protection against Bijapur
+1498.1.1 = { discovered_by = POR }
+owner = DAN
+controller = DAN
+owner = DAN
+1515.1.1 = {
+controller = DAN
+owner = DAN
+} #Falls in Bijapuri hands while VIJ is campaigning in Orissa
+controller = DAN
+owner = DAN
+1529.1.1 = {
+owner = DAN
+controller = DAN
+} #Adil Shahi forces seizes Mudgal and Raichur forts during the infighting after Krishna Rayas death
+1534.8.27 = {
+owner = DAN
+controller = DAN
+} #Adil Shahi nobility revolt against their new ruler while Vijayanagara forces seize the Raichur doab
+controller = DAN
+1565.7.1 = {
+owner = DAN
+	remove_core = VIJ
+} #Lost by Vijayanagar
+controller = DAN
+1686.1.1 = {
+owner = DAN
+add_core = MAM
+	remove_core = BAH
+	remove_core = BIJ
+} # Conquered by the Mughal emperor Aurangzeb
+add_core = MAM
+1724.1.1 = {
+owner = DAN
+controller = DAN
+	remove_core = MUG
+} # Asif Jah declared himself Nizam-al-Mulk
+add_core = MAM
+controller = DAN
+owner = DAN
+
+
+

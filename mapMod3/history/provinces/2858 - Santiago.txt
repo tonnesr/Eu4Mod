@@ -1,40 +1,33 @@
-# - Santiago
+# 2858 - Santiago
 
-culture = guarani
-discovered_by = south_american
-religion = animism
-capital = "Santiago"
-trade_goods = unknown
+add_core = PAP
+owner = PAP
+controller = PAP
+
+culture = umbrian
+religion = catholic
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
-native_size = 5
-native_ferocity = 1
-native_hostileness = 8
+trade_goods = unknown
+capital = "Santiago"
+is_city = yes
+
+base_tax = 9
+base_production = 3
+base_manpower = 4
 
 
 
-
-1516.1.23 = { discovered_by = SPA }
-
-1537.8.15 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	culture = castillian
-	religion = catholic
-	trade_goods = tobacco
-}
-1669.1.1 = { is_city = yes }
-1790.1.1 = { unrest = 6 } # Desire for independence
-1811.5.17 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	remove_core = SPA
-	unrest = 0
-} # Paraguay is formally declared independent
-add_core = PAP
-controller = PAP
-owner = PAP
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

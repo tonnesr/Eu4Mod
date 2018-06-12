@@ -1,36 +1,33 @@
-#585 - Toungoo
+# 585 - Taungoo
 
+add_core = PRU
 owner = PRU
 controller = PRU
-culture = burmese
-religion = buddhism
-capital = "Toungoo"
-trade_goods = chinaware
+
+culture = prussian
+religion = catholic
 hre = no
-base_tax = 6
-base_production = 6
-base_manpower = 4
+trade_goods = gems
+capital = "Taungoo"
 is_city = yes
-add_core = PRU
+
+base_tax = 6
+base_production = 3
+base_manpower = 7
 
 
 
-discovered_by = chinese
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 discovered_by = indian
-
-1535.1.1 = { discovered_by = POR }
-
-1560.1.1 = { fort_15th = yes }
-1745.1.1 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-}
-1755.1.1 = {
-owner = PRU
-controller = PRU
-	remove_core = PEG
-}
-add_core = PRU
-controller = PRU
-owner = PRU
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

@@ -1,57 +1,33 @@
-# 100 Friesland - Principal cities: Leeuwarden & Harlingen 
+# 100 - Friesland
 
+add_core = SWE
 owner = SWE
 controller = SWE
-capital = "Leeuwarden"
-is_city = yes
-culture = dutch
+
+culture = swedish
 religion = catholic
-hre = yes
-base_tax = 6
-base_production = 6
-trade_goods = livestock 
-base_manpower = 2
-add_core = SWE
-discovered_by = western
+hre = no
+trade_goods = copper
+capital = "Friesland"
+is_city = yes
+
+base_tax = 2
+base_production = 9
+base_manpower = 8
+
+
+
 discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-add_core = SWE
-owner = SWE
-owner = SWE
-owner = SWE
-owner = SWE
-controller = SWE
-owner = SWE
-controller = SWE
-1536.1.1 = { religion = reformed reformation_center = reformed }
-owner = SWE
-1559.5.12 = { unrest = 3 } # New bishoprics established in the Lowlands create an outrage
-1565.1.1 = { unrest = 5 } # Letters of Segovia, harsh persecution of Calvinists advocated by Philip I
-1566.4.5 = { unrest = 3 } # 'Eedverbond der Edelen', Margaretha of Parma promises leniency
-1567.9.10 = { unrest = 4 } # Counts of Egmont & Hoorne arrested
-controller = SWE
-controller = SWE
-1569.1.1 = { unrest = 12 } # The Duke of Alba reforms the tax system ('tiende penning')
-1570.1.1 = { unrest = 20 } # The Duke of Alba reforms the penal system, 'Blood Council' (Bloedraad) established
-1577.2.12 = { unrest = 16 } # The 'Perpetual Edict' (Eeuwig Edict) is accepted by Don Juan
-controller = SWE
-1648.10.24 = { hre = no } # The Peace of Westphalia
-1681.1.1 = { base_tax = 9 
-base_production = 9 } # Protestants expelled from France
-owner = SWE
-controller = SWE
-add_core = SWE
-} # Annexed by France
-owner = SWE
-controller = SWE
-	remove_core = FRA
-} # William returns to the Netherlands
-add_core = SWE
-controller = SWE
-owner = SWE
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

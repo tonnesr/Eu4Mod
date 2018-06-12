@@ -1,0 +1,33 @@
+# No previous file for Champutun
+
+culture = yucatec
+owner = AZT
+controller = AZT
+add_core = AZT
+is_city = yes
+religion = mesoamerican_religion
+capital = "Champutun"
+trade_goods = cocoa
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+add_local_autonomy = 25
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+discovered_by = mesoamerican
+
+1517.1.1 = { discovered_by = SPA }
+
+owner = AZT
+1561.1.1 = { religion = catholic culture = castillian }
+owner = AZT
+
+controller = AZT
+add_core = AZT
+controller = AZT
+owner = AZT

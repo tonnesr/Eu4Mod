@@ -1,59 +1,33 @@
-#337 - Oran
+# 337 - Oran
 
+add_core = LIT
 owner = LIT
 controller = LIT
-culture = algerian
-religion = sunni
-capital = "Oran"
-trade_goods = cloth
+
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 3
-base_production = 3
-base_manpower = 1
+trade_goods = grain
+capital = "Oran"
 is_city = yes
-add_core = LIT
+
+base_tax = 7
+base_production = 9
+base_manpower = 5
 
 
 
+discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-discovered_by = eastern
-
-
-1509.5.17 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-} # Taken over by the Spanish
-
-1516.1.23 = {
-controller = LIT
-owner = LIT
-add_core = LIT
-	remove_core = CAS
-} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-1708.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	remove_core = SPA
-} # The Spanish are expelled by Algerian forces, part of the Ottoman empire
-1732.1.1 = {
-owner = LIT
-controller = LIT
-add_core = LIT
-	remove_core = TUR
-} # Conquered by Spain
-
-1792.1.1 = {
-owner = LIT
-controller = LIT
-	remove_core = SPA
-} # The Spanish surrender Oran to Algiers
-add_core = LIT
-controller = LIT
-owner = LIT
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

@@ -1,27 +1,33 @@
-#658 - Cagayan
+# 658 - Cagayan
 
-culture = filipino
-religion = animism
-capital = "Cagayan"
-trade_goods = unknown
+add_core = PRU
+owner = PRU
+controller = PRU
+
+culture = prussian
+religion = catholic
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 2
-native_size = 50
-native_ferocity = 1
-native_hostileness = 3
+trade_goods = slaves
+capital = "Cagayan"
+is_city = yes
+
+base_tax = 10
+base_production = 4
+base_manpower = 4
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
 discovered_by = chinese
-
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan
-
-1570.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	capital = "Nueva Segovia"
-	is_city = yes
-	trade_goods = grain
-}
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

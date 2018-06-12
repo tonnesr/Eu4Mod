@@ -9,6 +9,3 @@ discovered_by = ottoman
 
 
 1507.9.1 = { discovered_by = POR } # Alfonso d'Albuquerque
-add_core = PAP
-controller = PAP
-owner = PAP

@@ -1,33 +1,33 @@
-#856 - Zacatecas
+# 856 - Zacatecas
 
-culture = chichimecan 
+add_core = AZT
+owner = AZT
+controller = AZT
+
+culture = aztek
 religion = nahuatl
-capital = "Zacatecas" 
-trade_goods = unknown
 hre = no
-base_tax = 1
-base_production = 1
-base_manpower = 1
-native_size = 5 
-native_ferocity = 1 
-native_hostileness = 5
+trade_goods = unknown
+capital = "Zacatecas"
+is_city = yes
+
+base_tax = 3
+base_production = 7
+base_manpower = 10
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
 discovered_by = mesoamerican
-
-
-1546.1.1 = {
-	discovered_by = SPA
-owner = AZT
-controller = AZT
-add_core = AZT
-	culture = castillian
-	religion = catholic
-	trade_goods = gold
-	is_city = yes
-} # First discoveries of silver 
-owner = AZT
-add_core = AZT
-controller = AZT
-
+discovered_by = south_american
+discovered_by = andean

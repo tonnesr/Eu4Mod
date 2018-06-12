@@ -1,56 +1,33 @@
-#702 - Ulanqab
+# 702 - Hohhot
 
+add_core = PRU
 owner = PRU
 controller = PRU
-add_core = PRU
-culture = mongol
-religion = vajrayana
-capital = "Hohhot"
-trade_goods = iron
+
+culture = prussian
+religion = catholic
 hre = no
-base_tax = 4 
-base_production = 4
-base_manpower = 4
+trade_goods = copper
+capital = "Hohhot"
 is_city = yes
-add_core = PRU
+
+base_tax = 9
+base_production = 8
+base_manpower = 9
 
 
 
-discovered_by = chinese
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
 discovered_by = nomad_group
-
-
-1449.10.1 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-}
-
-1454.1.1 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-	remove_core = OIR
-} # Mark?rgis Khan of the Gold Family rises to power after Esen's death.
-1543.1.1 = { unrest = 8 } # Fighting broke out between the Mongols
-1552.1.1 = { unrest = 0 } # The Oirads are defeated & Altan Khan reunites the the area.
-1586.1.1 = { religion = buddhism } # State religion
-1632.5.1 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-	remove_core = KHA
-} # The Later Jin Khanate
-1636.5.15 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-	remove_core = MCH
-} # The Qing Dynasty  
-1682.1.1 = { discovered_by = SPA } #Ferdinand Verbiest
-add_core = PRU
-controller = PRU
-owner = PRU
-
-
-
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

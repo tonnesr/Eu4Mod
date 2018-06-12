@@ -1,63 +1,33 @@
-#420 - Qarabagh
+# 420 - Ganja
 
+add_core = DAN
 owner = DAN
 controller = DAN
-culture = azerbaijani
-religion = shiite
-capital = "Ganja"
-trade_goods = cotton
+
+culture = danish
+religion = catholic
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+trade_goods = tobacco
+capital = "Ganja"
 is_city = yes
-add_core = DAN
-discovered_by = muslim
-discovered_by = ottoman
+
+base_tax = 8
+base_production = 2
+base_manpower = 3
+
+
+
 discovered_by = eastern
 discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
 discovered_by = nomad_group
-
-
-controller = DAN
-controller = DAN
-1468.1.1 = {
-owner = DAN
-controller = DAN
-add_core = DAN
-	remove_core = QAR
-} # The Ak Koyunlu expands their territory
-controller = DAN
-controller = DAN
-1501.7.1 = {
-owner = DAN
-controller = DAN
-add_core = DAN
-	remove_core = AKK
-} # Ismail conquers Tabriz and defeats Alwand
-controller = DAN
-controller = DAN
-controller = DAN
-owner = DAN
-controller = DAN
-owner = DAN
-1747.1.1 = { unrest = 3 } # Shah Nadir is killed, local khanates emerged
-1747.1.1 = {
-owner = DAN
-controller = DAN
-} # Shah Nadir is killed, local khanates emerged
-1747.1.1 = {
-owner = DAN
-controller = DAN
-} # Shah Nadir is killed, local khanates emerged
-controller = DAN
-controller = DAN
-1813.10.24 = {
-owner = DAN
-controller = DAN
-add_core = DAN
-	remove_core = PER
-} # The Treaty of Gulistan
-
-controller = DAN
-owner = DAN
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

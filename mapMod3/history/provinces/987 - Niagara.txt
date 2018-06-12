@@ -1,51 +1,33 @@
-#987 - Niagara
+# 987 - Niagara
 
+add_core = MAM
 owner = MAM
 controller = MAM
-culture = huron
-religion = totemism
-capital = "Niagara"
-trade_goods = fur
+
+culture = al_misr_arabic
+religion = sunni
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
+trade_goods = cocoa
+capital = "Niagara"
 is_city = yes
-add_core = MAM
-native_size = 10
-native_ferocity = 5
-native_hostileness = 1
+
+base_tax = 3
+base_production = 9
+base_manpower = 1
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
 discovered_by = north_american
-
-1615.1.1 = { discovered_by = FRA } # �tienne Br�l�
-1629.1.1 = { discovered_by = ENG }
-
-1651.1.1 = {
-owner = MAM
-controller = MAM
-add_core = MAM
-	culture = iroquois 
-} #Taken by Iroquois in Beaver Wars.
-1701.8.4 = {
-owner = MAM
-controller = MAM
-add_core = MAM
-	culture = cosmopolitan_french
-	religion = catholic
-} #Great Peace of Montreal
-1763.2.10 = {
-owner = MAM
-controller = MAM
-add_core = MAM
-	remove_core = FRA
-} # Treaty of Paris - ceded to Britain, France gave up its claim
-1783.1.1 = {
- 	culture = english
-	religion = protestant 
-} #Loyalist migration after the revolution
-add_core = MAM
-controller = MAM
-owner = MAM
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

@@ -1,42 +1,33 @@
-# - Tucume
+# 2822 - Tucume
 
+add_core = AZT
 owner = AZT
 controller = AZT
-culture = chimuan
-religion = inti
-capital = "Tucume"
-trade_goods = cloth
+
+culture = aztek
+religion = nahuatl
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
+trade_goods = copper
+capital = "Tucume"
 is_city = yes
-add_core = AZT
+
+base_tax = 5
+base_production = 10
+base_manpower = 4
 
 
 
-discovered_by = CHM
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
 discovered_by = south_american
 discovered_by = andean
-
-
-1470.1.1 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-}
-1533.8.29 = {
-	discovered_by = SPA
-owner = AZT
-controller = AZT
-add_core = AZT
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1537.1.1 = { unrest = 8 } # Fighting broke out when Almagro seized Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumed control
-1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
-add_core = AZT
-controller = AZT
-owner = AZT

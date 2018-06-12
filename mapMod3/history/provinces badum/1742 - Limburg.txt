@@ -1,0 +1,62 @@
+# 1742 - Upper Guelders
+
+owner = DAN
+controller = DAN
+add_core = DAN
+is_city = yes
+capital = "Roermond"
+culture = flemish
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 4
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1473.2.23 = {
+owner = DAN
+controller = DAN
+	add_core = BUR
+} # Charles the Bold annexes Gelre
+1477.1.5 = {
+owner = DAN
+controller = DAN
+	add_core = HAB
+	remove_core = BUR
+} # Charles the Bold dies and Gelre goes to the Habsburgs
+1492.1.1 = { 
+owner = DAN
+controller = DAN
+} # Karel van Gelre is released from prison and assumes control of Gelre by right of the Egmond family.
+owner = DAN
+1713.4.11 = {
+owner = DAN
+controller = DAN
+	add_core = PRU
+	capital = "Geldern"
+} # Treaty of Utrecht, Spanish Upper Guelders divided between the Dutch, Austria, Prussia and Jülich.
+1797.12.26 = {
+owner = DAN
+controller = DAN
+	add_core = FRA
+	remove_core = HAB
+	capital = "Roermond"
+} # Treaty of Campo Formio
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1815.3.16 = {
+owner = DAN
+controller = DAN
+	add_core = NED
+	remove_core = FRA
+	capital = "Limburg"
+} # Vienna Congress, most of Upper Guelders now incorporated into the Netherlands and joined with the province of Limburg.
+
+controller = DAN
+owner = DAN
+
+
+

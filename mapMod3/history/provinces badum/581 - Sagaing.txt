@@ -1,0 +1,40 @@
+#581 - Sagaing
+
+owner = DAN
+controller = DAN
+culture = burmese
+religion = buddhism
+capital = "Sagaing"
+trade_goods = cotton
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 4
+is_city = yes
+add_core = PRU
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+
+1527.1.1 = {
+owner = DAN
+controller = DAN
+add_core = PRU
+	remove_core = AVA
+}
+add_core = PRU
+controller = DAN
+1563.4.1 = {	
+owner = DAN
+	remove_core = SST
+}
+1760.1.1 = { discovered_by = GBR }
+add_core = PRU
+controller = DAN
+owner = DAN
+
+
+

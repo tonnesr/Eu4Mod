@@ -1,36 +1,33 @@
-# - Alcantara
+# 2927 - Alcantara
 
-culture = ge
-discovered_by = south_american
-religion = animism
-capital = "Alcantara"
-trade_goods = unknown
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
 hre = no
-base_tax = 1
-base_production = 2
-base_manpower = 1
-native_size = 15
-native_ferocity = 1
-native_hostileness = 3
+trade_goods = glass
+capital = "Alcantara"
+is_city = yes
+
+base_tax = 10
+base_production = 8
+base_manpower = 3
 
 
 
-
-1500.1.1 = { discovered_by = POR }
-1500.1.26 = { discovered_by = CAS }
-1516.1.23 = { discovered_by = SPA }
-
-1648.1.1 = {
-owner = NOR
-controller = NOR
-add_core = NOR
-	culture = portugese
-	religion = catholic
-	trade_goods = sugar
-	is_city = yes
-}
-1718.1.1 = { unrest = 6 }
-1725.1.1 = { unrest = 0 }
-add_core = NOR
-controller = NOR
-owner = NOR
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

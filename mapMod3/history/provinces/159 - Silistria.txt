@@ -1,36 +1,33 @@
-#159 - Silistria
+# 159 - Silistria
 
+add_core = NOR
 owner = NOR
 controller = NOR
-culture = bulgarian
-religion = orthodox
-capital = "Silistra"
-trade_goods = fish
+
+culture = norwegian
+religion = catholic
 hre = no
-base_tax = 5
-base_production = 5
-base_manpower = 4
+trade_goods = sugar
+capital = "Silistria"
 is_city = yes
-add_core = NOR
-add_core = NOR
+
+base_tax = 4
+base_production = 10
+base_manpower = 4
 
 
 
-discovered_by = western
 discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+discovered_by = indian
 discovered_by = nomad_group
-
-
-1481.6.1 = { unrest = 6 } # Civil war, Bayezid & Jem
-1482.7.26 = { unrest = 0 } # Jem escapes to Rhodes
-1555.1.1 = { unrest = 5 } # General discontent with the Janissaries' dominance
-1556.1.1 = { unrest = 0 }
-1688.1.1 = { unrest = 6 } # Rebellion against Ottoman rule, centered on Chiprovtzi
-1689.1.1 = { unrest = 0 } # Brutally suppressed by Janissaries
-1793.1.1 = { unrest = 5 } # Pasvanoglu Rebellion, centered at Vidin
-1798.1.1 = { unrest = 0 }
-add_core = NOR
-controller = NOR
-owner = NOR
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

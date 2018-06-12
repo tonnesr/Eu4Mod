@@ -1,28 +1,33 @@
-# - Pambu
+# 2915 - Pambu
 
-culture = ge
-discovered_by = south_american
-religion = animism
-capital = "Pambu"
-trade_goods = unknown
+add_core = PAP
+owner = PAP
+controller = PAP
+
+culture = umbrian
+religion = catholic
 hre = no
-base_tax = 2
-base_production = 1
-base_manpower = 1
-native_size = 10
-native_ferocity = 1
-native_hostileness = 6
+trade_goods = coffee
+capital = "Pambu"
+is_city = yes
 
-1500.4.23 = { discovered_by = POR } # Pedro �lvares Cabral
-1650.1.1 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	trade_goods = tropical_wood
-	is_city = yes
-	culture = portugese
-	religion = catholic
-}
-add_core = PAP
-controller = PAP
-owner = PAP
+base_tax = 8
+base_production = 3
+base_manpower = 7
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

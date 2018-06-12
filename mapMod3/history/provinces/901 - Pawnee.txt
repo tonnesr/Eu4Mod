@@ -1,26 +1,33 @@
-#901 - Pawnee
+# 901 - Pawnee
 
 add_core = PAP
 owner = PAP
 controller = PAP
-culture = pawnee
-religion = totemism
-capital = "Pawnee"
-trade_goods = grain
+
+culture = umbrian
+religion = catholic
 hre = no
-base_tax = 2 
-base_production = 1
+trade_goods = livestock
+capital = "Pawnee"
 is_city = yes
-base_manpower = 1
-native_size = 25
-native_ferocity = 2
-native_hostileness = 7
+
+base_tax = 8
+base_production = 10
+base_manpower = 8
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
 discovered_by = north_american
-
-1541.1.1 = { discovered_by = SPA } # Francisco V�squez de Coronado
-add_core = PAP
-controller = PAP
-owner = PAP
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

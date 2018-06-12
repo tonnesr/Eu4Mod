@@ -1,0 +1,32 @@
+# 171 - Vannetais
+
+owner = DAN
+controller = DAN
+capital = "Vannes"
+is_city = yes
+culture = breton
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = fish
+base_manpower = 3
+estate = estate_nobles
+add_core = FRA
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+add_core = FRA
+owner = DAN
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1650.1.1 = { capital = "Lorient" }
+add_core = FRA
+controller = DAN
+owner = DAN
+
+
+

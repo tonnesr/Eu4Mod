@@ -1,0 +1,64 @@
+# 90 Vlaanderen - Principal cities: Brugge
+
+owner = DAN
+controller = DAN
+add_core = DAN
+is_city = yes
+capital = "Brugge"
+culture = flemish
+religion = catholic
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = cloth
+base_manpower = 3
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+owner = DAN
+owner = DAN
+1548.6.26 = { hre = yes } # Flanders incorporated into the Holy Roman Empire
+owner = DAN
+controller = DAN
+controller = DAN
+1648.1.30 = { remove_core = NED } # Peace of M�nster/Westphalia
+1665.9.17 = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+owner = DAN
+1715.9.1 = { remove_claim = FRA } # Louis XIV passes away
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+1795.5.16 = {
+owner = DAN
+controller = DAN
+add_core = PRU
+} # Treaty of Den Haag, ceded to the French Republic
+controller = DAN
+controller = DAN
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1815.3.16 = {
+owner = DAN
+controller = DAN
+add_core = PRU
+	remove_core = FRA
+} # The United Kingdom of the Netherlands
+
+controller = DAN
+owner = DAN
+add_core = PRU
+add_core = PRU
+controller = DAN
+owner = DAN
+
+
+

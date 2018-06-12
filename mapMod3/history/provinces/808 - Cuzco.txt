@@ -1,52 +1,33 @@
-#808 - Cuzco
+# 808 - Cuzco
 
+add_core = AZT
 owner = AZT
 controller = AZT
-culture = inca
-religion = inti
-capital = "Cuzco"
-trade_goods = gold
+
+culture = aztek
+religion = nahuatl
 hre = no
-base_tax = 6 
-base_production = 6
-base_manpower = 2
+trade_goods = wool
+capital = "Cuzco"
 is_city = yes
-add_core = AZT
-fort_15th = yes
+
+base_tax = 5
+base_production = 5
+base_manpower = 6
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
 discovered_by = south_american
 discovered_by = andean
-
-
-
-1467.1.1 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-}
-1533.8.29 = {
-	discovered_by = SPA
-owner = AZT
-controller = AZT
-add_core = AZT
-	culture = castillian
-	religion = catholic
-} # Francisco Pizarro
-controller = AZT
-1537.1.1 = {
-	revolt = {}
-	unrest = 8
-controller = AZT
-} # Fighting breaks out when Almagro seizes Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
-1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
-1780.1.1 = { unrest = 7 } # Uprising of Tupca Amaru II
-1781.5.1 = { unrest = 0 }
-controller = AZT
-controller = AZT
-add_core = AZT
-
-owner = AZT

@@ -1,46 +1,33 @@
-#376 - Connaught
+# 376 - Connaught
 
+add_core = PRU
 owner = PRU
 controller = PRU
-culture = irish
+
+culture = prussian
 religion = catholic
 hre = no
-base_tax = 2
-base_production = 2
-trade_goods = livestock
-base_manpower = 2
-capital = "Galway"
+trade_goods = glass
+capital = "Connaught"
 is_city = yes
-add_core = PRU
+
+base_tax = 1
+base_production = 8
+base_manpower = 7
+
+
+
+discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-discovered_by = eastern
-
-
-1635.1.1 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-} # Beginning of efforts of Thomas Wentworth to plant parts of Connaught
-controller = PRU
-1642.6.7 = {
-	revolt = {}
-owner = PRU
-controller = PRU
-add_core = PRU
-} # Confederation of Kilkenny
-owner = PRU
-controller = PRU
-controller = PRU
-1707.5.12 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-	remove_core = ENG
-}
-controller = PRU
-controller = PRU
-add_core = PRU
-
-owner = PRU
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

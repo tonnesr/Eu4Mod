@@ -1,0 +1,58 @@
+#881 - Piro
+
+owner = DAN
+controller = DAN
+is_city = yes
+add_core = DAN
+culture = pueblo 
+religion = totemism
+capital = "Teypana"
+trade_goods = grain 
+hre = no 
+base_tax = 2 
+base_production = 2
+base_manpower = 1 
+native_size = 15 
+native_ferocity = 3 
+native_hostileness = 5 
+
+
+
+discovered_by = north_american
+
+1541.1.1 = { discovered_by = SPA } # Francisco V�squez de Coronado
+
+1598.1.1 = {
+owner = DAN
+controller = DAN
+add_core = AZT
+	culture = castillian
+	religion = catholic
+	trade_goods = salt 
+} # Spanish conquest of the Pueblo people
+1660.1.1 = { unrest = 4 }
+1670.1.1 = { unrest = 5 }
+1672.1.1 = { unrest = 0 }
+controller = DAN
+1680.8.21 = {
+owner = DAN
+controller = DAN
+	culture = pueblo
+	religion = animism 
+} #Spanish abandon their Pueblo settlements
+1692.9.13 = {
+owner = DAN
+controller = DAN
+	remove_core = PUE 
+	culture = castillian 
+	religion = catholic 
+} # The Spanish reestablished control & the colonists returned
+owner = DAN
+add_core = AZT
+controller = DAN
+add_core = AZT
+controller = DAN
+owner = DAN
+
+
+

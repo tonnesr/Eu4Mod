@@ -1,62 +1,33 @@
-#488 - Les Cayes
+# 488 - Les Cayes
 
-culture = arawak
-religion = animism
-capital = "Les Cayes"
-trade_goods = unknown
+add_core = NOV
+owner = NOV
+controller = NOV
+
+culture = novgorodian
+religion = sunni
 hre = no
+trade_goods = incense
+capital = "Les Cayes"
+is_city = yes
+
 base_tax = 2
-base_production = 3
+base_production = 4
 base_manpower = 1
-native_size = 5
-native_ferocity = 2
-native_hostileness = 3
-discovered_by = CAB
-discovered_by = ARW
-
-1492.12.5 = { discovered_by = CAS } # Christopher Columbus's arrival
-1504.1.1 = {
-owner = NOV
-controller = NOV
-add_core = NOV
-	culture = castillian
-	capital = "Salvatiera de la Sabana"
-	religion = catholic
-	is_city = yes
-	trade_goods = sugar
-}
-1516.1.23 = {
-	discovered_by = SPA
-owner = NOV
-controller = NOV
-add_core = NOV
-	remove_core = CAS
-}
-1697.1.1 = {
-owner = NOV
-controller = NOV
-add_core = NOV
-	remove_core = SPA
-	culture = cosmopolitan_french
-} # Spain tried to retake the area, ended in dissaster. Treaty of Ryswick
-1707.1.1 = { unrest = 3 } # Choiseul-Beaupr� sought to get rid of the French pirates, when it became a French colony
-1708.1.1 = { unrest = 0 } # Many of them became the first European inhabitants of the region
-1770.1.1 = { capital = "Port-Au-Prince" }
-controller = NOV
-1800.1.1 = { revolt = {} }
-1804.1.1 = {
-owner = NOV
-controller = NOV
-add_core = NOV
-	remove_core = FRA
-} # Haiti declares independence
-
-controller = NOV
-owner = NOV
-add_core = NOV
-add_core = NOV
-controller = NOV
-owner = NOV
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

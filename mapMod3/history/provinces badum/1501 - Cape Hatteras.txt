@@ -1,0 +1,9 @@
+discovered_by = north_american
+
+1524.1.1 = { discovered_by = FRA } # Goivanni da Verrazzano
+add_core = DAN
+controller = DAN
+owner = DAN
+
+
+

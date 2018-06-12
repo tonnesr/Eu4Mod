@@ -1,41 +1,33 @@
-#1205 - Mogadishu
+# 1205 - Mogadishu
 
+add_core = TUR
 owner = TUR
 controller = TUR
-add_core = TUR
-culture = somali
+
+culture = turkish
 religion = sunni
-capital = "Maqdishu"
-is_city = yes
-base_manpower = 2
-trade_goods = ivory
 hre = no
-base_tax = 4
-base_production = 4
-discovered_by = east_african
-discovered_by = indian
+trade_goods = coffee
+capital = "Mogadishu"
+is_city = yes
+
+base_tax = 9
+base_production = 1
+base_manpower = 5
+
+
+
+discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-extra_cost = 15
-
-add_permanent_province_modifier = {
-	name = center_of_trade_modifier
-	duration = -1
-}
-
-1499.1.1 = { discovered_by = POR } 
-1499.1.1 = { unrest = 3 } #Portuguese bombard Mogadishu, do not seize it
-1504.1.1 = { unrest = 0 }
-1550.1.1 = { discovered_by = TUR }
-owner = TUR
-1612.1.1 = { unrest = 8 } #Somail migrations greatly disrupt region
-1615.1.1 = { unrest = 0 }
-owner = TUR
-1705.1.1 = { 
-owner = TUR
-controller = TUR
-add_core = TUR
-} #Omanis seize control of Mogadishu and Geledi
-add_core = TUR
-controller = TUR
-owner = TUR
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

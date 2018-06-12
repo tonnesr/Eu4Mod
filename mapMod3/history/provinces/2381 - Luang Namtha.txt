@@ -1,39 +1,33 @@
-#2381 - Luang Namtha
+# 2381 - Luang Namtha
 
+add_core = PRU
 owner = PRU
 controller = PRU
-culture = lao
-religion = buddhism
-capital = "Luang Namtha"
-trade_goods = tea
+
+culture = prussian
+religion = catholic
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 2
+trade_goods = salt
+capital = "Luang Namtha"
 is_city = yes
-add_core = PRU
-add_core = PRU
+
+base_tax = 10
+base_production = 9
+base_manpower = 10
 
 
 
-discovered_by = chinese
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 discovered_by = indian
-
-
-1579.1.1 = { unrest = 5 } # Revolt against vassalization
-1580.1.1 = { unrest = 0 }
-1593.1.1 = { unrest = 4 } # Revolt against Burmese vassalization
-1603.1.1 = { unrest = 0 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-add_core = PRU
-1707.1.1 = {
-owner = PRU
-controller = PRU
-	remove_core = LXA
-} # Declared independent, Lan Xang was partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
-add_core = PRU
-controller = PRU
-owner = PRU
-
-
-
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

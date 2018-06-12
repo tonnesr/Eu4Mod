@@ -1,0 +1,10 @@
+#Mountains splitting Norway from Sweden.
+
+discovered_by = eastern
+discovered_by = western
+add_core = SWE
+controller = SWE
+owner = SWE
+
+
+

@@ -1,33 +1,33 @@
-#Ust-Sysolsk
+# 1964 - Ust-Sysolsk
 
+add_core = MAM
 owner = MAM
 controller = MAM
-culture = uralic
-religion = orthodox
+
+culture = al_misr_arabic
+religion = sunni
 hre = no
-base_tax = 1 
-base_production = 1
-trade_goods = fur
-base_manpower = 1
-capital = "Ust-Sysola"
+trade_goods = livestock
+capital = "Ust-Sysolsk"
 is_city = yes
-add_core = MAM
+
+base_tax = 10
+base_production = 6
+base_manpower = 10
 
 
 
 discovered_by = eastern
 discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
 discovered_by = nomad_group
-
-
-1505.4.1 = {
-owner = MAM
-controller = MAM
-add_core = MAM
-	remove_core = PRM
-	culture = russian 
-}
-1780.1.1 = { capital = "Ust-Sysolsk" } # town renamed
-add_core = MAM
-controller = MAM
-owner = MAM
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

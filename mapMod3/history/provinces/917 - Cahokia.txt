@@ -1,67 +1,33 @@
-#917 - Cahokia
+# 917 - Cahokia
 
-culture = illini
-religion = totemism
-capital = "Cahokia"
-trade_goods = unknown
+add_core = PAP
+owner = PAP
+controller = PAP
+
+culture = umbrian
+religion = catholic
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 2
-native_size = 10
-native_ferocity = 1
-native_hostileness = 0
+trade_goods = coffee
+capital = "Cahokia"
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 3
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
 discovered_by = north_american
-
-
-1650.1.1 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	is_city = yes
-	trade_goods = fur
-}
-1670.1.1 = { discovered_by = FRA } # Robert Cavelier de La Salle
-owner = PAP
-controller = PAP
-add_core = PAP
-	culture = iroquois } #Taken by Iroquois in Beaver Wars.
-1699.1.1 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	culture = cosmopolitan_french
-	religion = catholic
-	remove_core = IRO
-} # Construction of Cahokia
-1763.2.10 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	remove_core = FRA
-} # Treaty of Paris, France gave up its claim to New France
-1763.3.1 = { unrest = 6 } # Native discontent with the British rule
-controller = PAP
-1763.10.9 = {
-	revolt = {}
-owner = PAP
-controller = PAP
-add_core = PAP
-	remove_core = GBR
-	is_city = yes
-	culture = illini
-	religion = totemism
-} # Royal proclamation, Britan recognize native lands (as protectorates)
-1813.10.5 = {
-owner = PAP
-controller = PAP
-add_core = PAP
-	culture = american
-	religion = protestant
-} #The death of Tecumseh mark the end of organized native resistance east of teh Mississippi
-add_core = PAP
-controller = PAP
-owner = PAP
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

@@ -1,0 +1,41 @@
+#825 - Bogota
+
+owner = DAN
+controller = DAN
+culture = muisca
+discovered_by = south_american
+discovered_by = andean
+religion = inti
+capital = "Bogot�"
+is_city = yes
+trade_goods = gems
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 2
+add_core = PAP
+
+1538.9.6 = {
+	discovered_by = SPA
+owner = DAN
+controller = DAN
+add_core = PAP
+	religion = catholic
+	culture = castillian
+} # Founded by Gonzalo Jim�nez de Quesada
+1810.7.20 = {
+owner = DAN
+controller = DAN
+add_core = PAP
+} # Colombia declares independence
+1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized
+
+controller = DAN
+owner = DAN
+add_core = PAP
+
+controller = DAN
+owner = DAN
+
+
+

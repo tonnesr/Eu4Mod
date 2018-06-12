@@ -1,0 +1,65 @@
+#213 - Barcelona
+
+owner = DAN
+controller = DAN
+add_core = DAN
+add_core = DAN
+culture = catalan
+religion = catholic
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = glass 
+base_manpower = 3
+capital = "Barcelona" 
+is_city = yes
+estate = estate_burghers
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+1516.1.23 = {
+controller = DAN
+owner = DAN
+add_core = FRA
+} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+controller = DAN
+1641.1.1 = {
+	revolt = {}
+owner = DAN
+controller = DAN
+add_core = FRA
+} # Louis XIII of France, Count of Barcelona.
+owner = DAN
+1668.4.4 = { unrest = 5 } # Peasant revolt of the "barretines"
+1669.12.2 = { unrest = 0 } # End of the revolt
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+1713.7.13 = { remove_core = ARA }
+controller = DAN
+controller = DAN
+controller = DAN
+add_core = FRA
+
+owner = DAN
+
+controller = DAN
+add_core = FRA
+controller = DAN
+owner = DAN
+
+
+

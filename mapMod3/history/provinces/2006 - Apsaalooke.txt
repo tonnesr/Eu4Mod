@@ -1,39 +1,33 @@
-#2006 - Aps�alooke
+# 2006 - Apsaalooke
 
 add_core = AZT
 owner = AZT
 controller = AZT
-culture = shoshone
-religion = totemism
-capital = "Aps�alooke"
-trade_goods = fur
+
+culture = aztek
+religion = nahuatl
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
+trade_goods = coal
+capital = "Apsaalooke"
 is_city = yes
-native_size = 1
-native_ferocity = 1
-native_hostileness = 1
+
+base_tax = 2
+base_production = 4
+base_manpower = 2
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
 discovered_by = north_american
-
-
-1710.1.1 = {
-owner = AZT
-controller = AZT
-	is_city = no
-	remove_core = COM 
-} #Horses cause waves of migration on the Great Plains
-1810.1.1 = {
-owner = AZT
-controller = AZT
-add_core = AZT
-	culture = blackfoot
-	is_city = yes 
-} #Lakota pushes west across the Missouri
-add_core = AZT
-controller = AZT
-owner = AZT
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

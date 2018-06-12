@@ -1,0 +1,58 @@
+#273 - Livland
+
+owner = DAN
+controller = DAN
+culture = latvian
+religion = catholic
+capital = "Fellin"
+trade_goods = livestock
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = NOR
+add_core = NOR
+discovered_by = western
+discovered_by = eastern
+
+
+1542.1.1 = { religion = protestant} # Unknown date
+1561.1.1 = {
+owner = DAN
+controller = DAN
+add_core = NOR
+	remove_core = LIV
+} # Livonia ceases to exist
+1569.7.1 = {
+owner = DAN
+controller = DAN
+add_core = NOR
+} # Union of Lublin
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+1629.9.16 = {
+owner = DAN
+controller = DAN
+add_core = NOR
+	remove_core = PLC
+}
+1721.8.30 = {
+owner = DAN
+controller = DAN
+add_core = NOR
+	remove_core = SWE
+} # The Peace of Nystad
+
+controller = DAN
+owner = DAN
+add_core = NOR
+
+controller = DAN
+owner = DAN
+
+
+

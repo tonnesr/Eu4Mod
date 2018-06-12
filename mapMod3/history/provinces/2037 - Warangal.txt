@@ -1,64 +1,33 @@
-#2037 - Warangal
+# 2037 - Warangal
 
+add_core = MAM
 owner = MAM
 controller = MAM
-culture = telegu
-religion = hinduism
-capital = "Warangal"
-trade_goods = dyes
+
+culture = al_misr_arabic
+religion = sunni
 hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 2
+trade_goods = silk
+capital = "Warangal"
 is_city = yes
-add_core = MAM
-add_core = MAM
-add_core = MAM
-fort_15th = yes #Warangal Fort
-estate = estate_dhimmi
+
+base_tax = 5
+base_production = 10
+base_manpower = 2
 
 
 
-discovered_by = indian
+discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
-
-add_local_autonomy = 50 #Still partly unsubdued in 1444.
-
-controller = MAM
-1452.1.1 = { #Before 1454
-owner = MAM
-add_core = MAM
-} # Conquered by Gajapatis
-1466.1.1 = {
-controller = MAM
-	revolt = {
-		size = 1
-		type = nationalist_rebels
-	}
-} # Gajapati gains lost during civil war
-1468.1.1 = {
-controller = MAM
-owner = MAM
-add_core = MAM
-	revolt = { }
-} #Given to/taken by Bahmanis due to involvement in Gajapati civil war
-1490.1.1 = {
-	remove_core = BAH 
-owner = MAM
-controller = MAM
-	add_local_autonomy = -50
-} # The Breakup of the Bahmani sultanate # Qutb Shahi dynasty
-1498.1.1 = { discovered_by = POR }
-controller = MAM
-owner = MAM
-add_core = MAM
-1724.1.1 = {
-owner = MAM
-controller = MAM
-} # Asif Jah declared himself Nizam-al-Mulk
-add_core = MAM
-
-owner = MAM
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

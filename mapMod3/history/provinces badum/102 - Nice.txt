@@ -1,0 +1,48 @@
+#102 - Nice
+
+owner = DAN
+controller = DAN
+add_core = DAN
+culture = ligurian
+religion = catholic
+hre = yes
+base_tax = 4 
+base_production = 4
+trade_goods = fish
+base_manpower = 2
+capital = "Nice"
+is_city = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1495.1.1 = { hre = no }
+1713.4.12 = {
+owner = DAN
+controller = DAN
+add_core = PRU
+} # Treaty of Utrecht(2) gave Sicily to House of Savoy 
+1720.1.1 = {
+owner = DAN
+controller = DAN
+add_core = PRU
+	remove_core = SIC
+} # Kingdom of Piedmont-Sardinia
+owner = DAN
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1814.4.11 = {
+owner = DAN
+controller = DAN
+	remove_core = FRA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+add_core = PRU
+controller = DAN
+owner = DAN
+
+
+

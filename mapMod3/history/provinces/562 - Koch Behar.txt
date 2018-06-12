@@ -1,45 +1,33 @@
-#562 - Koch Behar
+# 562 - Koch Behar
 
+add_core = MUG
 owner = MUG
 controller = MUG
-culture = bengali
-religion = hinduism
-capital = "Kamatapur"
-trade_goods = grain
+
+culture = uzbehk
+religion = sunni
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 2
+trade_goods = fur
+capital = "Koch Behar"
 is_city = yes
-add_core = MUG
+
+base_tax = 9
+base_production = 8
+base_manpower = 4
 
 
 
-discovered_by = indian
-discovered_by = muslim 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
 discovered_by = ottoman
+discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
-
-
-1587.1.1 = { capital = "Atharokotha" }
-1627.1.1 = { discovered_by = POR }
-controller = MUG
-owner = MUG
-1680.1.1 = {
-controller = MUG
-owner = MUG
-} #Independent but bhutanese puppet
-1714.1.1 = { capital = "Cooch Behar" }
-controller = MUG
-owner = MUG
-1774.4.25 = {
-owner = MUG
-controller = MUG
-} #April 25, 1774 British Vassal
-add_core = MUG
-
-owner = MUG
-
-controller = MUG
-
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

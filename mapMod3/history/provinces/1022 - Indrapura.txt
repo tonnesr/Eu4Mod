@@ -1,66 +1,33 @@
-#1022 - Indrapura
+# 1022 - Indrapura
 
+add_core = MUG
 owner = MUG
 controller = MUG
-culture = cham
-religion = hinduism
-capital = "Indrapura"
-trade_goods = incense
+
+culture = uzbehk
+religion = sunni
 hre = no
-base_tax = 4 
-base_production = 4
-base_manpower = 2
+trade_goods = livestock
+capital = "Indrapura"
 is_city = yes
-estate = estate_nobles
-add_core = MUG
-add_core = MUG
-discovered_by = chinese
-discovered_by = indian
+
+base_tax = 1
+base_production = 4
+base_manpower = 6
+
+
+
+discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-1407.3.1 = {
-owner = MUG
-controller = MUG
-add_core = MUG
-} # Severe defeat against the Vietnamese, Indrapura is annexed
-1527.1.1 = {
-owner = MUG
-controller = MUG
-add_core = MUG
-}
-1535.1.1 = { discovered_by = POR }
-1558.1.1 = {
-owner = MUG
-controller = MUG
-	remove_core = TOK
-} # The Nguyen Lords were independent from the Trinh Lords
-1600.1.1 = {
-	religion = buddhism
-	culture = vietnamese
-} # Vietnamese Assimilation
-1692.1.1 = { unrest = 6 } # Rebellion against Vietnamese rule
-1693.1.1 = { unrest = 0 }
-1730.1.1 = { unrest = 5 } # Peasant revolt
-1731.1.1 = { unrest = 0 }
-1769.1.1 = { unrest = 6 } # Tay Son Rebellion
-1776.1.1 = {
-	unrest = 0
-owner = MUG
-controller = MUG
-add_core = MUG
-}
-1786.1.1 = { unrest = 5 } # Unsuccessful revolt
-1787.1.1 = { unrest = 0 }
-1802.7.22 = {
-owner = MUG
-controller = MUG
-	remove_core = DAI
-} # Nguyen Phuc Anh annexed the Tay Son Dynasty
-add_core = MUG
-controller = MUG
-owner = MUG
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

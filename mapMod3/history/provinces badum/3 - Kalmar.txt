@@ -1,0 +1,47 @@
+#Eastern and Northern Sm�land - Includes parts under �stg�talag
+
+add_core = DAN
+owner = DAN
+controller = DAN
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Kalmar"
+is_city = yes
+fort_15th = yes # Kalmar Slott
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+owner = DAN
+owner = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+owner = DAN
+owner = DAN
+owner = DAN
+owner = DAN
+1527.6.1 = { religion = protestant}
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+1623.1.1 = { base_manpower = 4 } # Sm�land did a huge contribution in number of regiments
+add_core = SWE
+
+owner = DAN
+
+controller = DAN
+add_core = SWE
+controller = DAN
+owner = DAN
+
+
+

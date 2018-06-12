@@ -1,0 +1,45 @@
+#609 - Angkor
+
+owner = DAN
+controller = DAN
+culture = khmer
+religion = hinduism
+capital = "Angkor"
+trade_goods = tropical_wood
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+add_core = MUG
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+
+1500.1.1 = { religion = buddhism }
+1535.1.1 = { discovered_by = POR }
+1594.1.1 = {
+owner = DAN
+controller = DAN
+add_core = MUG
+}
+1600.1.1 = { capital = "Siem Riep" }
+1767.1.1 = {
+owner = DAN
+controller = DAN
+}
+1795.1.1 = {
+owner = DAN
+controller = DAN
+}
+1811.1.1 = { unrest = 5 } # The Siamese-Cambodian Rebellion
+1812.1.1 = { unrest = 0 }
+add_core = MUG
+controller = DAN
+owner = DAN
+
+
+

@@ -1,29 +1,33 @@
-#1217 - Fazughli
+# 1217 - Fazughli
 
-culture = nubian #Shilluk
-religion = shamanism #Fetishism
-capital = "Alays"
-native_size = 80
-native_ferocity = 4
-native_hostileness = 9 
-trade_goods = unknown
+add_core = LIT
+owner = LIT
+controller = LIT
+
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 2
+trade_goods = chinaware
+capital = "Fazughli"
+is_city = yes
 
-discovered_by = east_african
+base_tax = 3
+base_production = 2
+base_manpower = 3
+
+
+
+discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-owner = LIT
-1633.1.1 = { unrest = 6 } #Jieng migrations disrupt region
-1696.1.1 = { unrest = 3 } #Disruptions caused by Shilluk migrations from famine areas to South
-1705.1.1 = { capital = "Fashoda" } #New Shilluk center established in wake of migrations
-add_core = LIT
-controller = LIT
-owner = LIT
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

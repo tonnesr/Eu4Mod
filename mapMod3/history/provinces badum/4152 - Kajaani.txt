@@ -1,0 +1,37 @@
+#4152 - Kuusamo incl Maanselk� and Kitka
+
+owner = TUR
+controller = TUR
+add_core = TUR
+culture = sapmi
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+add_local_autonomy = 80
+capital = "Maanselk�"
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+
+1527.6.1 = { religion = protestant}
+controller = TUR
+controller = TUR
+1651.3.6 = {
+	trade_goods = naval_supplies
+	add_local_autonomy = -40
+	capital = "Kaajani"
+}
+controller = TUR
+controller = TUR
+controller = TUR
+1809.9.17 = {
+owner = TUR
+add_core = TUR
+	remove_core = SWE
+} # Treaty of Fredrikshamn
+
+controller = TUR
+owner = TUR

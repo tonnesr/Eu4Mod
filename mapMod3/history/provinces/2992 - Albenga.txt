@@ -1,57 +1,33 @@
-# - Albenga
+# 2992 - Albenga
 
+add_core = PRU
 owner = PRU
 controller = PRU
-add_core = PRU
-culture = ligurian
+
+culture = prussian
 religion = catholic
-hre = yes
-base_tax = 6
-base_production = 6
-trade_goods = naval_supplies
-base_manpower = 1
+hre = no
+trade_goods = wool
 capital = "Albenga"
-is_city = yes # Estimated
+is_city = yes
+
+base_tax = 5
+base_production = 6
+base_manpower = 6
 
 
 
-discovered_by = western
 discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-controller = PRU
-controller = PRU
-controller = PRU
-controller = PRU
-controller = PRU
-controller = PRU
-1495.1.1 = { hre = no }
-1499.1.1 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-}
-controller = PRU
-controller = PRU
-controller = PRU
-controller = PRU
-owner = PRU
-owner = PRU
-owner = PRU
-1805.6.10 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-}# Annexed by France
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-1814.4.11 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-	remove_core = FRA
-}# Incorporated into the kingdom of Sardinia
-
-controller = PRU
-owner = PRU
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

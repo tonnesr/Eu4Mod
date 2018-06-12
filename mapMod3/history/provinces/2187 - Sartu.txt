@@ -1,37 +1,33 @@
 # 2187 - Sartu
 
+add_core = FRA
 owner = FRA
 controller = FRA
-add_core = FRA
-culture = chahar
-religion = tengri_pagan_reformed
-capital = "Sartu"
-trade_goods = livestock
+
+culture = cosmopolitan_french
+religion = catholic
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 3
+trade_goods = fur
+capital = "Sartu"
 is_city = yes
-discovered_by = chinese
+
+base_tax = 7
+base_production = 4
+base_manpower = 2
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
 discovered_by = nomad_group
-
-
-1624.1.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
-	remove_core = KRC
-} # The Later Jin Khanate
-1636.5.15 = {
-owner = FRA
-controller = FRA
-add_core = FRA
-	remove_core = MCH
-} # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }
-add_core = FRA
-controller = FRA
-owner = FRA
-
-
-
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

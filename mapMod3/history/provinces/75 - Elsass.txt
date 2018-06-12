@@ -1,49 +1,33 @@
-# 75 Elsass - Principal cities: Strasbourg
+# 75 - Elsass
 
+add_core = PRU
 owner = PRU
 controller = PRU
-capital = "Stra�burg"
-is_city = yes
-culture = swabian
+
+culture = prussian
 religion = catholic
-hre = yes
-base_tax = 4 
+hre = no
+trade_goods = cotton
+capital = "Elsass"
+is_city = yes
+
+base_tax = 7
 base_production = 4
-trade_goods = paper
-base_manpower = 5
-add_core = PRU
-fort_15th = yes
+base_manpower = 2
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-add_core = PRU
-owner = PRU
-1474.1.1 = { unrest = 7 } # Breisgau and Upper Alsace revolt against Charles the Bold
-controller = PRU
-owner = PRU
-1525.1.1 = { religion = protestant unrest = 5 } # Unrest in the Alsace
-1525.5.1 = { unrest = 15 } # Heavy unrests now: Peasant's War about to start
-controller = PRU
-controller = PRU
-1525.6.23 = { unrest = 15 } # Duke Antoine executes a few leaders of the rebellion: heavy unrest again
-1525.9.18 = { unrest = 5 } # The Offenburg Agreement: Peace is being restored
-1526.1.1 = { unrest = 0 } # Peace restored everywhere
-1583.1.1 = { fort_15th = no fort_16th = yes }
-1648.1.1 = { fort_16th = no fort_17th = yes }
-add_core = PRU
-owner = PRU
-1685.10.18 = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
-1686.1.17 = { religion = catholic unrest = 0 } # Dragonnard campaign succesful: region reverts back to Catholicism
-1715.1.1 = { fort_17th = no fort_18th = yes }
-1749.1.1 = { base_tax = 8 
-base_production = 8 } # Machault & the 5% tax
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-add_core = PRU
-controller = PRU
-owner = PRU
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

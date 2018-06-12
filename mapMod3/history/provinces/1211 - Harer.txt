@@ -1,42 +1,33 @@
-#1211 - Harer
+# 1211 - Harer
 
+add_core = LIT
 owner = LIT
 controller = LIT
-add_core = LIT
-add_core = LIT
-culture = harari
-religion = sunni
+
+culture = lithuanian
+religion = catholic
+hre = no
+trade_goods = sugar
 capital = "Harer"
 is_city = yes
-base_manpower = 3
-trade_goods = coffee
-hre = no
-base_tax = 3 
-base_production = 3
-discovered_by = east_african
+
+base_tax = 9
+base_production = 4
+base_manpower = 7
+
+
+
+discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
-fort_15th = yes
-
-1473.1.1 = { unrest = 5 } # Raids by Bayda Maryam into Adal to enforce fealty
-1476.1.1 = { unrest = 5 } # Raids by Bayda Maryam into Adal to enforce fealty
-1477.1.1 = { unrest = 0 } # Raids by Bayda Maryam defeated
-1478.1.1 = { unrest = 5 } # Raids by Eskander into Adal to enforce fealty
-1479.1.1 = { unrest = 0 } # Raids by Eskander defeated
-1517.8.1 = { unrest = 9 } # Lebna Dengel destroys Mahfuz' army, succession dispute begins
-1525.1.1 = { unrest = 0 } # Imam Ahmad Gran secures control over Adal
-1550.1.1 = { discovered_by = TUR }
-1554.1.1 = { unrest = 9 } # Invasion by Oromo causes widespread destruction
-1559.1.1 = { unrest = 8 } # Invasion by Galawdewos
-owner = LIT
-1562.1.1 = { unrest = 5 } # Invasion by Oromo
-1567.1.1 = { unrest = 5 } # Invasion by Oromo
-1568.1.1 = { unrest = 0 }
-owner = LIT
-owner = LIT
-1662.1.1 = { unrest = 5 } # Conflict with local Oromo
-1663.1.1 = { unrest = 0 }
-add_core = LIT
-controller = LIT
-owner = LIT
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

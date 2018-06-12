@@ -1,43 +1,33 @@
-#222 - Almer�a
+# 222 - Almeria
 
+add_core = MUG
 owner = MUG
 controller = MUG
-add_core = MUG
-culture = andalucian
+
+culture = uzbehk
 religion = sunni
 hre = no
-base_tax = 2 
-base_production = 2
-trade_goods = grain
-base_manpower = 2
-capital = "Almer�a"
-estate = estate_nobles
+trade_goods = wool
+capital = "Almeria"
 is_city = yes
-discovered_by = western
+
+base_tax = 5
+base_production = 7
+base_manpower = 4
+
+
+
 discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-controller = MUG
-owner = MUG
-1499.12.1 = { unrest = 2 } # The Inquisition forces Spanish muslims to convert back to Christianity. Occasional revolts occur.
-1502.2.1 = { unrest = 0 religion = catholic } # New capitulations where all the subjects of Granada are baptised and fully incorporated into the legal system of Castilla
-1516.1.23 = {
-controller = MUG
-owner = MUG
-add_core = MUG
-	remove_core = CAS
-} # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
-1568.12.25 = { unrest = 15 } # Sublevation of the morisques in the kingdom of Granada.
-1570.10.28 = { unrest = 0 culture = castillian } # To quell the revolt, the morisques in Granada are forcefully deported to other Spanish territories
-controller = MUG
-controller = MUG
-controller = MUG
-controller = MUG
-add_core = MUG
-
-owner = MUG
-
-controller = MUG
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

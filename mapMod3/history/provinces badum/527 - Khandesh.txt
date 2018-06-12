@@ -1,0 +1,70 @@
+#527 - Khandesh
+
+owner = DAN
+controller = DAN
+culture = malvi
+religion = hinduism
+capital = "Burhanpur"
+trade_goods = cotton
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 4
+is_city = yes
+add_core = MUG
+
+
+
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = chinese
+
+1498.1.1 = { discovered_by = POR }
+
+owner = DAN
+owner = DAN
+owner = DAN
+1600.4.8 = {
+owner = DAN
+controller = DAN
+add_core = MUG
+} # Conquered by the Mughals
+controller = DAN
+#1616.1.1 #English traders
+controller = DAN
+controller = DAN
+1622.8.1 = { revolt = { type = pretender_rebels size = 1 name = "Khurrams Faction" leader = "Shah Jahan Timurid" } } #Defeated and flees south to Khandesh
+controller = DAN
+add_core = MUG
+1658.1.15 = {
+controller = DAN
+	revolt = { type = pretender_rebels size = 0 name = "Aurangzeb's Faction" leader = "Aurangzeb Alamgir Timurid" }
+} # Aurangzeb joins in rebelion against his father
+controller = DAN
+add_core = MUG
+1724.1.1 = {
+owner = DAN
+controller = DAN
+	remove_core = MUG
+} # Asif Jah declared himself Nizam-al-Mulk
+
+1752.1.1 = {
+owner = DAN
+controller = DAN
+add_core = MUG
+}
+1818.6.3 = {
+owner = DAN
+controller = DAN
+add_core = MUG
+	remove_core = MAR
+	remove_core = DEC
+}
+add_core = MUG
+controller = DAN
+owner = DAN
+
+
+

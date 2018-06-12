@@ -1,0 +1,50 @@
+#671 - Changsha
+
+owner = DAN
+controller = DAN
+add_core = DAN
+culture = xiang
+religion = confucianism
+capital = "Changsha"
+trade_goods = grain
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+is_city = yes
+add_core = PRU
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+1595.1.1 = { discovered_by = SPA }
+
+controller = DAN
+1647.12.1 = {
+owner = DAN
+controller = DAN
+add_core = PRU
+}
+controller = DAN
+controller = DAN
+1659.1.1 = {
+owner = DAN
+controller = DAN
+add_core = PRU
+} # The Qing Conquest of China finishes
+1662.1.1 = { remove_core = MNG }
+controller = DAN
+controller = DAN
+add_core = PRU
+
+owner = DAN
+
+controller = DAN
+add_core = PRU
+controller = DAN
+owner = DAN
+
+
+

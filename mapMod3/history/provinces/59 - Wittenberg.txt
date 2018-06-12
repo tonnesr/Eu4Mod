@@ -1,42 +1,33 @@
-#59 - Wittenberg
+# 59 - Wittenberg
 
+add_core = NOR
 owner = NOR
 controller = NOR
-culture = saxon
+
+culture = norwegian
 religion = catholic
+hre = no
+trade_goods = copper
 capital = "Wittenberg"
-trade_goods = wool
-hre = yes
-base_tax = 4
-base_production = 4
-base_manpower = 2
 is_city = yes
-add_core = NOR
+
+base_tax = 9
+base_production = 9
+base_manpower = 9
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-owner = NOR
-1520.12.10 = {
-	religion = protestant
-	reformation_center = protestant
-}
-1547.5.19  = {
-owner = NOR
-controller = NOR
-	remove_core = THU
-}
-1790.8.1  = { unrest = 5 } # Peasant revolt
-1791.1.1  = { unrest = 0 }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-1815.6.9  = {
-owner = NOR
-controller = NOR
-add_core = NOR
-	remove_core = SAX
-} # Congress of Vienna
-
-controller = NOR
-owner = NOR
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

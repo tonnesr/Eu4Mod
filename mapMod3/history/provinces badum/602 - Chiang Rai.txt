@@ -1,0 +1,32 @@
+#602 - Chiang Rai
+
+owner = DAN
+controller = DAN
+culture = northern_thai
+religion = buddhism
+capital = "Chiang Rai"
+trade_goods = grain 
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = PRU
+
+
+
+discovered_by = chinese
+discovered_by = indian
+
+1535.1.1 = { discovered_by = POR }
+
+add_core = PRU
+1727.1.1 = { unrest = 6 } # Lan Na revolter against Taungu
+1732.1.1 = { unrest = 0 }
+add_core = PRU
+add_core = PRU
+controller = DAN
+owner = DAN
+
+
+

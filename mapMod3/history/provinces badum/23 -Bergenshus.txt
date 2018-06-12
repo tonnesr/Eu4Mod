@@ -1,0 +1,43 @@
+#Bergenshus, 
+
+owner = DAN
+controller = DAN
+add_core = DAN
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 1
+is_city = yes
+capital = "Bergen"
+estate = estate_burghers
+discovered_by = western
+discovered_by = eastern
+extra_cost = 15
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+
+controller = DAN
+controller = DAN
+1536.1.1 = { religion = protestant} # Unknown date
+owner = DAN
+1814.1.14 = {
+owner = DAN
+	revolt = { type = nationalist_rebels size = 0 }
+controller = DAN
+	remove_core = DAN
+}# Norway is ceded to Sweden following the Treaty of Kiel
+owner = DAN
+add_core = NOR
+controller = DAN
+add_core = NOR
+controller = DAN
+owner = DAN
+
+
+

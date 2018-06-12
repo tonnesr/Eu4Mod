@@ -1,0 +1,36 @@
+#4181 - Higo
+
+owner = PRU
+controller = PRU
+culture = kyushuan
+religion = shinto
+capital = "Kumamoto"
+trade_goods = fish
+hre = no
+base_tax = 2
+base_manpower = 3
+base_production = 3
+is_city = yes
+add_core = PRU
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+1542.1.1 = { discovered_by = POR }
+owner = PRU
+add_core = PRU
+owner = PRU
+1587.5.15 = { fort_15th = yes } # Kumamoto Castle
+owner = PRU
+owner = PRU
+owner = PRU
+add_core = PRU
+controller = PRU
+add_core = PRU
+controller = PRU
+owner = PRU
+
+
+

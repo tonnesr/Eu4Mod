@@ -1,0 +1,31 @@
+#1832 - Yamato
+
+owner = PRU
+controller = PRU
+culture = japanese
+religion = shinto
+capital = "Nara"
+trade_goods = tea
+hre = no
+base_tax = 4
+base_manpower = 2
+base_production = 3
+is_city = yes
+add_core = PRU
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+1542.1.1 = { discovered_by = POR }
+
+owner = PRU
+owner = PRU
+add_core = PRU
+add_core = PRU
+controller = PRU
+owner = PRU
+
+
+

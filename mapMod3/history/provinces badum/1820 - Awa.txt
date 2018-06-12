@@ -1,0 +1,36 @@
+#1820 - Awa
+
+owner = FRA
+controller = FRA
+culture = japanese
+religion = shinto
+capital = "Tokushima"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = FRA
+
+
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+1542.1.1 = { discovered_by = POR }
+
+add_core = FRA
+owner = FRA
+owner = FRA
+owner = FRA
+add_core = FRA
+add_core = FRA
+controller = FRA
+owner = FRA
+
+
+

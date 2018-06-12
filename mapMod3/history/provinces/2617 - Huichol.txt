@@ -1,31 +1,33 @@
-# No previous file for Huichol
+# 2617 - Huichol
 
-culture = piman
+add_core = AZT
+owner = AZT
+controller = AZT
+
+culture = aztek
 religion = nahuatl
-capital = "Huichol"
-trade_goods = wool
 hre = no
+trade_goods = chinaware
+capital = "Huichol"
+is_city = yes
+
 base_tax = 1
-base_production = 1
-base_manpower = 1
-native_size = 5
-native_ferocity = 1
-native_hostileness = 2
+base_production = 3
+base_manpower = 7
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
 discovered_by = mesoamerican
-
-
-1532.1.1 = { 
-	discovered_by = SPA
-owner = AZT
-controller = AZT
-add_core = AZT
-	is_city = yes
-	capital = "Guadalajara"
-}
-owner = AZT
-add_core = AZT
-controller = AZT
-
+discovered_by = south_american
+discovered_by = andean

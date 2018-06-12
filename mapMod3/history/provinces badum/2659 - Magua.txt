@@ -1,0 +1,43 @@
+# No previous file for Magua
+
+culture = arawak
+religion = animism
+capital = "Magua"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = CAB
+discovered_by = ARW
+
+1492.12.5 = { discovered_by = CAS } # Christopher Columbus's arrival
+1502.1.1 = {
+owner = NOV
+controller = NOV
+	culture = castillian
+add_core = NOV
+	religion = catholic
+	is_city = yes
+} #First settlements of Puerto Plata
+1510.1.1 = { trade_goods = sugar }
+1516.1.23 = {
+	discovered_by = SPA
+owner = NOV
+controller = NOV
+add_core = NOV
+	remove_core = CAS
+}
+
+controller = NOV
+owner = NOV
+add_core = NOV
+add_core = NOV
+controller = NOV
+owner = NOV
+
+
+

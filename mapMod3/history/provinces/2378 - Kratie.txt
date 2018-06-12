@@ -1,31 +1,33 @@
-#2378 - Kratie
+# 2378 - Kratie
 
+add_core = MUG
 owner = MUG
 controller = MUG
-culture = khmer
-religion = animism
-capital = "Kratie"
-trade_goods = grain
+
+culture = uzbehk
+religion = sunni
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 1
+trade_goods = livestock
+capital = "Kratie"
 is_city = yes
-add_core = MUG
+
+base_tax = 8
+base_production = 4
+base_manpower = 5
 
 
 
-discovered_by = chinese
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 discovered_by = indian
-
-1535.1.1 = { discovered_by = POR }
-
-add_core = MUG
-1811.1.1 = { unrest = 5 } # The Siamese-Cambodian Rebellion
-1812.1.1 = { unrest = 0 }
-
-controller = MUG
-owner = MUG
-add_core = MUG
-
-
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

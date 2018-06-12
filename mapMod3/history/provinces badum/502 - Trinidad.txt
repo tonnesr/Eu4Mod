@@ -1,0 +1,59 @@
+#502 - Trinidad
+
+culture = carib
+religion = animism
+capital = "Trinidad"
+trade_goods = unknown
+hre = no 
+base_tax = 4 
+base_production = 5
+base_manpower = 1
+native_size = 25
+native_ferocity = 2
+native_hostileness = 9 
+
+
+
+discovered_by = south_american
+
+
+1498.7.31 = {
+	discovered_by = CAS
+owner = DAN
+controller = DAN
+	culture = castillian
+add_core = NOV
+	religion = catholic
+	is_city = yes
+	trade_goods = cocoa
+} # Christopher Columbus
+1516.1.23 = {
+	discovered_by = SPA
+owner = DAN
+controller = DAN
+add_core = NOV
+	remove_core = CAS
+}
+1680.1.1 = { capital = "Port-of-Spain" }
+1690.1.1 = { unrest = 5 } # Religious convertion of the natives
+controller = DAN
+1700.1.1 = {
+	revolt = {}
+controller = DAN
+}
+controller = DAN
+1802.3.25 = {
+owner = DAN
+add_core = NOV
+	remove_core = SPA
+} # Treaty of Amiens
+
+controller = DAN
+owner = DAN
+add_core = NOV
+add_core = NOV
+controller = DAN
+owner = DAN
+
+
+

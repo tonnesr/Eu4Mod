@@ -1,38 +1,33 @@
-# 193 Franche-Comt� - Principal cities: Besan�on
+# 193 - Franche-Comte
 
+add_core = PRU
 owner = PRU
 controller = PRU
-capital = "Besan�on"
-is_city = yes
-estate = estate_burghers
-culture = burgundian
+
+culture = prussian
 religion = catholic
-hre = yes
-base_tax = 5 
-base_production = 5
-trade_goods = salt
-base_manpower = 4
-add_core = PRU
-fort_15th = yes
+hre = no
+trade_goods = dyes
+capital = "Franche-Comte"
+is_city = yes
+
+base_tax = 7
+base_production = 6
+base_manpower = 1
+
+
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-owner = PRU
-owner = PRU
-owner = PRU
-1665.9.17 = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
-controller = PRU
-controller = PRU
-add_core = PRU
-controller = PRU
-owner = PRU
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-add_core = PRU
-controller = PRU
-owner = PRU
-
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

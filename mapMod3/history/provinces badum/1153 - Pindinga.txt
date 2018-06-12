@@ -1,0 +1,30 @@
+#1153 - Pindinga
+
+owner = DAN
+controller = DAN
+add_core = DAN
+is_city = yes
+culture = nupe  
+religion = shamanism #Fetishism
+capital = "Lafia"
+native_size = 40
+base_manpower = 1
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+discovered_by = sub_saharan
+
+1804.1.1 = { discovered_by = SOK }
+
+1807.1.1 = {
+owner = DAN
+controller = DAN
+add_core = LIT
+} # The Fulani Empire
+add_core = LIT
+controller = DAN
+owner = DAN
+
+
+

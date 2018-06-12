@@ -1,32 +1,33 @@
-#1170 - Kongo
+# 1170 - Kongo
 
+add_core = LIT
 owner = LIT
 controller = LIT
-culture = kongolese
-religion = shamanism #Fetishism
-capital = "M'banza Kongo"
-trade_goods = iron
+
+culture = lithuanian
+religion = catholic
 hre = no
-base_tax = 4 
-base_production = 4
-base_manpower = 2
+trade_goods = tea
+capital = "Kongo"
 is_city = yes
-add_core = LIT
+
+base_tax = 9
+base_production = 7
+base_manpower = 6
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
 discovered_by = central_african
-discovered_by = sub_saharan
-add_permanent_province_modifier = {
-	name = inland_center_of_trade_modifier
-	duration = -1
-}
-
-
-1483.1.1 = { discovered_by = POR } # Diogo C�o
-1560.1.1 = { capital = "S�o Salvador do Congo" } # ~1976, The name is changed to Mbanza Kongo again 
-1665.10.30 = { unrest = 8 } #After the Battle of Mbwila the Kongo is torn apart by consecutive civil wars.
-1702.1.1 = { unrest = 0 } #Order more or less restored
-add_core = LIT
-controller = LIT
-owner = LIT
-
-
-
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

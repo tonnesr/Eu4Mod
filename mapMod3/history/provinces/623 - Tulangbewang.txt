@@ -1,44 +1,33 @@
-#623 - Tulangbewang
+# 623 - Tulangbewang
 
-culture = sumatran
+add_core = MUG
+owner = MUG
+controller = MUG
+
+culture = uzbehk
 religion = sunni
-capital = "Tulangbewang"
-trade_goods = unknown
 hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 3
-native_size = 30
-native_ferocity = 9
-native_hostileness = 7
+trade_goods = tea
+capital = "Tulangbewang"
+is_city = yes
+
+base_tax = 1
+base_production = 10
+base_manpower = 9
 
 
 
-discovered_by = chinese
-discovered_by = indian
+discovered_by = eastern
+discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR }
-
-1550.1.1 = {
-owner = MUG
-controller = MUG
-add_core = MUG
-	is_city = yes
-	trade_goods = cloth
-	
-} # Banten Sultanate expanded the influence in South Sumatra
-1752.1.1 = {
-owner = MUG
-controller = MUG
-add_core = MUG
-	remove_core = BAN
-}
-
-controller = MUG
-owner = MUG
-add_core = MUG
-
-
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

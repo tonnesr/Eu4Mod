@@ -1,0 +1,86 @@
+#158 - Maros
+
+owner = DAN
+controller = DAN
+culture = transylvanian #Szeklers
+religion = catholic
+capital = "Targu Mures"
+estate = estate_nobles #Szekelyf�ld
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = TUR
+add_core = TUR
+
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+1526.8.30 = { 
+owner = DAN
+controller = DAN
+} #Hungary fractured after Battle of Mohacs
+add_core = TUR
+1551.7.19 = {
+owner = DAN
+controller = DAN
+add_core = TUR
+} # Ferdinand gains Transylvania from Treaty of Weissenburg
+owner = DAN
+controller = DAN
+1562.6.1 = { remove_core = HAB } # End of Ottoman-Habsburg War
+controller = DAN
+1567.1.1 = { religion = reformed } # Synod of Debrecen
+1599.1.1 = {
+owner = DAN
+controller = DAN
+add_core = TUR
+} # Battle of Selimbar, Michael the brave gained control
+1601.1.1 = {
+owner = DAN
+controller = DAN
+	remove_core = WAL
+} # Michael is assasinated
+owner = DAN
+controller = DAN
+owner = DAN
+1685.1.1 = {
+controller = DAN
+} # Conquered/liberated by Charles of Lorraine, the Ottoman Turks are driven out of Hungary
+1699.1.26 = {
+owner = DAN
+add_core = TUR
+	remove_core = TUR
+} # Treaty of Karlowitz
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+controller = DAN
+add_core = TUR
+
+owner = DAN
+
+controller = DAN
+add_core = DAN
+controller = DAN
+owner = DAN
+
+
+
