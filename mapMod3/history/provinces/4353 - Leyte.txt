@@ -1,18 +1,18 @@
 # 4353 - Leyte
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = fur
 capital = "Leyte"
 is_city = yes
 
-base_tax = 2
-base_production = 2
+base_tax = 9
+base_production = 7
 base_manpower = 9
 
 

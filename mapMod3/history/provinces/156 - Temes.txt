@@ -1,19 +1,19 @@
 # 156 - Temes
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = cocoa
 capital = "Temes"
 is_city = yes
 
-base_tax = 4
-base_production = 4
-base_manpower = 9
+base_tax = 10
+base_production = 7
+base_manpower = 5
 
 
 

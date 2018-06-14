@@ -1,19 +1,19 @@
 # 2065 - Bhattiana
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = gems
 capital = "Bhattiana"
 is_city = yes
 
-base_tax = 4
-base_production = 9
-base_manpower = 1
+base_tax = 7
+base_production = 5
+base_manpower = 10
 
 
 

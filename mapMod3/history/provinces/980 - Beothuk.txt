@@ -1,19 +1,19 @@
 # 980 - Beothuk
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = wool
 capital = "Beothuk"
 is_city = yes
 
-base_tax = 7
-base_production = 10
-base_manpower = 2
+base_tax = 6
+base_production = 6
+base_manpower = 7
 
 
 

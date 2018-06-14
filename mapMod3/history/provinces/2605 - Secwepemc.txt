@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = cloth
 capital = "Secwepemc"
 is_city = yes
 
-base_tax = 10
-base_production = 9
-base_manpower = 5
+base_tax = 7
+base_production = 3
+base_manpower = 8
 
 
 

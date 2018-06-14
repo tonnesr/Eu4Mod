@@ -1,19 +1,19 @@
 # 2883 - Melodia
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = tea
 capital = "Melodia"
 is_city = yes
 
-base_tax = 6
-base_production = 9
-base_manpower = 10
+base_tax = 5
+base_production = 5
+base_manpower = 8
 
 
 

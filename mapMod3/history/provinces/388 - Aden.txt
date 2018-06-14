@@ -1,19 +1,19 @@
 # 388 - Aden
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = silk
 capital = "Aden"
 is_city = yes
 
 base_tax = 7
 base_production = 7
-base_manpower = 2
+base_manpower = 4
 
 
 

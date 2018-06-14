@@ -1,19 +1,19 @@
 # 862 - Yaqui
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = slaves
 capital = "Yaqui"
 is_city = yes
 
-base_tax = 1
-base_production = 3
-base_manpower = 5
+base_tax = 9
+base_production = 1
+base_manpower = 10
 
 
 

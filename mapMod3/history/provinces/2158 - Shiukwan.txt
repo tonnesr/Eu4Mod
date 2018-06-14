@@ -1,19 +1,19 @@
 # 2158 - Shiukwan
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = salt
 capital = "Shiukwan"
 is_city = yes
 
-base_tax = 6
-base_production = 1
-base_manpower = 6
+base_tax = 3
+base_production = 7
+base_manpower = 5
 
 
 

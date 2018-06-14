@@ -1,18 +1,18 @@
 # 2265 - Liptako
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = chinaware
 capital = "Liptako"
 is_city = yes
 
-base_tax = 9
-base_production = 5
+base_tax = 5
+base_production = 2
 base_manpower = 5
 
 

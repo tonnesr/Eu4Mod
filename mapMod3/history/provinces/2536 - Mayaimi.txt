@@ -1,19 +1,19 @@
 # 2536 - Mayaimi
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = sugar
 capital = "Mayaimi"
 is_city = yes
 
-base_tax = 7
-base_production = 10
-base_manpower = 8
+base_tax = 6
+base_production = 2
+base_manpower = 3
 
 
 

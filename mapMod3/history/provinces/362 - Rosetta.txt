@@ -1,19 +1,19 @@
 # 362 - Rosetta
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = cocoa
 capital = "Rosetta"
 is_city = yes
 
-base_tax = 7
-base_production = 5
-base_manpower = 5
+base_tax = 10
+base_production = 4
+base_manpower = 9
 
 
 

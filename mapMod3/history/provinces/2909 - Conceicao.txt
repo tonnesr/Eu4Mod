@@ -1,19 +1,19 @@
 # 2909 - Conceicao
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = paper
 capital = "Conceicao"
 is_city = yes
 
-base_tax = 8
+base_tax = 5
 base_production = 8
-base_manpower = 2
+base_manpower = 4
 
 
 

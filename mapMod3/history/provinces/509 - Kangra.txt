@@ -1,19 +1,19 @@
 # 509 - Kangra
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = coffee
 capital = "Kangra"
 is_city = yes
 
-base_tax = 2
+base_tax = 9
 base_production = 1
-base_manpower = 2
+base_manpower = 1
 
 
 

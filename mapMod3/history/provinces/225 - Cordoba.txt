@@ -1,19 +1,19 @@
 # 225 - Cordoba
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = incense
 capital = "Cordoba"
 is_city = yes
 
-base_tax = 4
+base_tax = 6
 base_production = 7
-base_manpower = 5
+base_manpower = 8
 
 
 

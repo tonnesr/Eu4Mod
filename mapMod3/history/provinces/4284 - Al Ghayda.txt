@@ -1,19 +1,19 @@
 # 4284 - Al Ghayda
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = paper
 capital = "Al Ghayda"
 is_city = yes
 
-base_tax = 1
-base_production = 3
-base_manpower = 6
+base_tax = 6
+base_production = 2
+base_manpower = 4
 
 
 

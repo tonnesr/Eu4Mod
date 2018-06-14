@@ -1,19 +1,19 @@
 # 4156 - The Caucasus
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = paper
 capital = "The Caucasus"
 is_city = yes
 
-base_tax = 1
-base_production = 6
-base_manpower = 5
+base_tax = 8
+base_production = 7
+base_manpower = 1
 
 
 

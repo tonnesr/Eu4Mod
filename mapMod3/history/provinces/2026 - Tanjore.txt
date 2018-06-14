@@ -1,19 +1,19 @@
 # 2026 - Tanjore
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = unknown
 capital = "Tanjore"
 is_city = yes
 
 base_tax = 1
 base_production = 4
-base_manpower = 5
+base_manpower = 9
 
 
 

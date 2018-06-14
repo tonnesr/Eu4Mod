@@ -1,19 +1,19 @@
 # 792 - Copiapo
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = incense
 capital = "Copiapo"
 is_city = yes
 
-base_tax = 6
-base_production = 2
-base_manpower = 7
+base_tax = 8
+base_production = 3
+base_manpower = 1
 
 
 

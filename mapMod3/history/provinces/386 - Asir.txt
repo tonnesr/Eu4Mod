@@ -1,19 +1,19 @@
 # 386 - Asir
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = iron
 capital = "Asir"
 is_city = yes
 
-base_tax = 5
-base_production = 3
-base_manpower = 1
+base_tax = 6
+base_production = 8
+base_manpower = 8
 
 
 

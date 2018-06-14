@@ -1,19 +1,19 @@
 # 2469 - Dukkala
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = spices
 capital = "Dukkala"
 is_city = yes
 
-base_tax = 5
-base_production = 3
-base_manpower = 4
+base_tax = 3
+base_production = 5
+base_manpower = 1
 
 
 

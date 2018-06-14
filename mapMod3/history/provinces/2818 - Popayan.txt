@@ -1,19 +1,19 @@
 # 2818 - Popayan
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = copper
 capital = "Popayan"
 is_city = yes
 
-base_tax = 6
-base_production = 6
-base_manpower = 3
+base_tax = 10
+base_production = 2
+base_manpower = 6
 
 
 

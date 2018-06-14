@@ -1,19 +1,19 @@
 # 915 - Illinois
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = tea
 capital = "Illinois"
 is_city = yes
 
-base_tax = 8
-base_production = 2
-base_manpower = 10
+base_tax = 10
+base_production = 4
+base_manpower = 8
 
 
 

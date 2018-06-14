@@ -1,19 +1,19 @@
 # 71 - Ansbach
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = gems
 capital = "Ansbach"
 is_city = yes
 
-base_tax = 7
-base_production = 1
-base_manpower = 6
+base_tax = 4
+base_production = 8
+base_manpower = 3
 
 
 

@@ -1,19 +1,19 @@
 # 4049 - Ibo
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = cotton
 capital = "Ibo"
 is_city = yes
 
-base_tax = 1
-base_production = 8
-base_manpower = 10
+base_tax = 5
+base_production = 4
+base_manpower = 8
 
 
 

@@ -1,19 +1,19 @@
 # 2935 - Muturu
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = unknown
 capital = "Muturu"
 is_city = yes
 
-base_tax = 8
-base_production = 4
-base_manpower = 5
+base_tax = 4
+base_production = 1
+base_manpower = 3
 
 
 

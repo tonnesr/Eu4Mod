@@ -1,19 +1,19 @@
 # 2645 - Teloloapan
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = chinaware
 capital = "Teloloapan"
 is_city = yes
 
-base_tax = 6
-base_production = 10
-base_manpower = 9
+base_tax = 8
+base_production = 4
+base_manpower = 4
 
 
 

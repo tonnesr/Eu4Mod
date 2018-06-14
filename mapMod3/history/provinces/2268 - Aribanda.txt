@@ -1,18 +1,18 @@
 # 2268 - Aribanda
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = cloth
 capital = "Aribanda"
 is_city = yes
 
-base_tax = 5
-base_production = 4
+base_tax = 1
+base_production = 7
 base_manpower = 5
 
 

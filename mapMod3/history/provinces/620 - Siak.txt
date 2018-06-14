@@ -1,19 +1,19 @@
 # 620 - Siak
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = fur
 capital = "Siak"
 is_city = yes
 
-base_tax = 1
-base_production = 2
-base_manpower = 7
+base_tax = 6
+base_production = 10
+base_manpower = 2
 
 
 

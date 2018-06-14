@@ -1,19 +1,19 @@
 # 809 - Lima
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = iron
 capital = "Lima"
 is_city = yes
 
-base_tax = 5
-base_production = 4
-base_manpower = 1
+base_tax = 4
+base_production = 3
+base_manpower = 8
 
 
 

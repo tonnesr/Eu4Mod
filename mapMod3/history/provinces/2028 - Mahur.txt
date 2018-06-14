@@ -1,19 +1,19 @@
 # 2028 - Mahur
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = paper
 capital = "Mahur"
 is_city = yes
 
 base_tax = 6
-base_production = 2
-base_manpower = 2
+base_production = 5
+base_manpower = 7
 
 
 

@@ -1,18 +1,18 @@
 # 112 - Venezia
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = glass
+trade_goods = livestock
 capital = "Venezia"
 is_city = yes
 
 base_tax = 2
-base_production = 10
+base_production = 9
 base_manpower = 2
 
 

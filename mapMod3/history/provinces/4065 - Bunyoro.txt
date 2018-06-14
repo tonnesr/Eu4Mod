@@ -1,19 +1,19 @@
 # 4065 - Bunyoro
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = iron
 capital = "Bunyoro"
 is_city = yes
 
-base_tax = 7
+base_tax = 6
 base_production = 9
-base_manpower = 6
+base_manpower = 7
 
 
 

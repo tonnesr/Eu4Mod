@@ -1,19 +1,19 @@
 # 2503 - Ashshipite
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = ivory
 capital = "Ashshipite"
 is_city = yes
 
-base_tax = 4
-base_production = 3
-base_manpower = 6
+base_tax = 9
+base_production = 5
+base_manpower = 2
 
 
 

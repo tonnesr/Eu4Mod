@@ -1,19 +1,19 @@
 # 2508 - Skiri
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = coffee
 capital = "Skiri"
 is_city = yes
 
-base_tax = 4
+base_tax = 5
 base_production = 3
-base_manpower = 5
+base_manpower = 7
 
 
 

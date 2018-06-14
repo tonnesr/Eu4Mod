@@ -1,19 +1,19 @@
 # 783 - Patagonia Occidental
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gold
+trade_goods = paper
 capital = "Patagonia Occidental"
 is_city = yes
 
 base_tax = 3
-base_production = 1
-base_manpower = 7
+base_production = 7
+base_manpower = 4
 
 
 

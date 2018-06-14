@@ -1,19 +1,19 @@
 # 2947 - Macaya
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = unknown
 capital = "Macaya"
 is_city = yes
 
-base_tax = 3
-base_production = 10
-base_manpower = 5
+base_tax = 5
+base_production = 5
+base_manpower = 4
 
 
 

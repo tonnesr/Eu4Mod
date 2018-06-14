@@ -1,19 +1,19 @@
 # 4057 - Nyatura
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = spices
 capital = "Nyatura"
 is_city = yes
 
-base_tax = 8
-base_production = 8
-base_manpower = 6
+base_tax = 5
+base_production = 9
+base_manpower = 1
 
 
 

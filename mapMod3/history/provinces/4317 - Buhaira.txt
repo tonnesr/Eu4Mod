@@ -1,19 +1,19 @@
 # 4317 - Buhaira
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = dyes
 capital = "Buhaira"
 is_city = yes
 
-base_tax = 9
-base_production = 9
-base_manpower = 5
+base_tax = 6
+base_production = 4
+base_manpower = 6
 
 
 

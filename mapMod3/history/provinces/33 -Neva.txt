@@ -1,19 +1,19 @@
 # 33 -Neva
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = gems
 capital = "Neva"
 is_city = yes
 
-base_tax = 7
-base_production = 5
-base_manpower = 6
+base_tax = 2
+base_production = 8
+base_manpower = 9
 
 
 

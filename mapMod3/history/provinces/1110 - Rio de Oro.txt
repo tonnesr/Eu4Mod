@@ -1,19 +1,19 @@
 # 1110 - Rio de Oro
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = naval_supplies
 capital = "Rio de Oro"
 is_city = yes
 
-base_tax = 4
+base_tax = 5
 base_production = 8
-base_manpower = 4
+base_manpower = 9
 
 
 

@@ -1,19 +1,19 @@
 # 812 - Chanchan
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = paper
+trade_goods = tropical_wood
 capital = "Chanchan"
 is_city = yes
 
-base_tax = 3
+base_tax = 2
 base_production = 3
-base_manpower = 8
+base_manpower = 1
 
 
 

@@ -1,19 +1,19 @@
 # 922 - Mobile
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = paper
+trade_goods = tea
 capital = "Mobile"
 is_city = yes
 
 base_tax = 9
-base_production = 6
-base_manpower = 1
+base_production = 1
+base_manpower = 8
 
 
 

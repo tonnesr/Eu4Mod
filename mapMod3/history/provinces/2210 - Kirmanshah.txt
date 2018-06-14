@@ -1,19 +1,19 @@
 # 2210 - Kirmanshah
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = copper
 capital = "Kirmanshah"
 is_city = yes
 
-base_tax = 5
-base_production = 7
-base_manpower = 10
+base_tax = 7
+base_production = 10
+base_manpower = 2
 
 
 

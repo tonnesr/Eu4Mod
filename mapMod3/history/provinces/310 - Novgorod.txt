@@ -1,19 +1,19 @@
 # 310 - Novgorod
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = sugar
 capital = "Novgorod"
 is_city = yes
 
-base_tax = 3
-base_production = 6
-base_manpower = 1
+base_tax = 8
+base_production = 3
+base_manpower = 5
 
 
 

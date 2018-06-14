@@ -1,18 +1,18 @@
 # 814 - Huanuco
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = fish
 capital = "Huanuco"
 is_city = yes
 
-base_tax = 9
-base_production = 7
+base_tax = 4
+base_production = 9
 base_manpower = 2
 
 

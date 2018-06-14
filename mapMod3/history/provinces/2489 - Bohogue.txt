@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = grain
 capital = "Bohogue"
 is_city = yes
 
-base_tax = 1
-base_production = 2
-base_manpower = 2
+base_tax = 9
+base_production = 8
+base_manpower = 7
 
 
 

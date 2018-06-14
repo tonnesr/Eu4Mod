@@ -1,19 +1,19 @@
 # 171 - Vannetais
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = naval_supplies
+trade_goods = glass
 capital = "Vannetais"
 is_city = yes
 
-base_tax = 6
-base_production = 1
-base_manpower = 4
+base_tax = 4
+base_production = 6
+base_manpower = 8
 
 
 

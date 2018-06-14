@@ -1,19 +1,19 @@
 # 272 - Lithuania
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = silk
 capital = "Lithuania"
 is_city = yes
 
-base_tax = 2
-base_production = 10
-base_manpower = 6
+base_tax = 3
+base_production = 7
+base_manpower = 8
 
 
 

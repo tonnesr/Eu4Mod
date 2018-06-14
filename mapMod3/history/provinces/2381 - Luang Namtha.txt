@@ -1,19 +1,19 @@
 # 2381 - Luang Namtha
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = wine
 capital = "Luang Namtha"
 is_city = yes
 
-base_tax = 10
-base_production = 9
-base_manpower = 10
+base_tax = 2
+base_production = 6
+base_manpower = 7
 
 
 

@@ -1,19 +1,19 @@
 # 797 - Caracara
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
 trade_goods = unknown
 capital = "Caracara"
 is_city = yes
 
-base_tax = 7
-base_production = 2
-base_manpower = 10
+base_tax = 2
+base_production = 7
+base_manpower = 7
 
 
 

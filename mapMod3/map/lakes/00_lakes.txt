@@ -32,3 +32,10 @@ lake = {
 	height = 33
 	#height = 3
 }
+
+# Volcano
+lake = {
+	triangle_strip = { 3291 1336 3301 1337 3302 1330 3295 1326 }
+	height = 27
+	#height = 3
+}

@@ -1,19 +1,19 @@
 # 1019 - Harima
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = copper
 capital = "Harima"
 is_city = yes
 
-base_tax = 6
-base_production = 8
-base_manpower = 10
+base_tax = 7
+base_production = 4
+base_manpower = 3
 
 
 

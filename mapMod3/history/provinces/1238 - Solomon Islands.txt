@@ -1,19 +1,19 @@
 # 1238 - Solomon Islands
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cloth
+trade_goods = paper
 capital = "Solomon Islands"
 is_city = yes
 
-base_tax = 7
-base_production = 2
-base_manpower = 7
+base_tax = 9
+base_production = 10
+base_manpower = 10
 
 
 

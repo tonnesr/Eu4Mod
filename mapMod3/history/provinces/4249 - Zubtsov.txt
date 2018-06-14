@@ -1,19 +1,19 @@
 # 4249 - Zubtsov
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = cotton
 capital = "Zubtsov"
 is_city = yes
 
-base_tax = 1
-base_production = 10
-base_manpower = 4
+base_tax = 2
+base_production = 9
+base_manpower = 6
 
 
 

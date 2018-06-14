@@ -1,19 +1,19 @@
 # 4085 - Yaka
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
 trade_goods = spices
 capital = "Yaka"
 is_city = yes
 
-base_tax = 8
-base_production = 4
-base_manpower = 1
+base_tax = 10
+base_production = 7
+base_manpower = 4
 
 
 

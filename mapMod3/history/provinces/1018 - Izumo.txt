@@ -1,19 +1,19 @@
 # 1018 - Izumo
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cotton
+trade_goods = tobacco
 capital = "Izumo"
 is_city = yes
 
-base_tax = 1
-base_production = 3
-base_manpower = 9
+base_tax = 2
+base_production = 7
+base_manpower = 7
 
 
 

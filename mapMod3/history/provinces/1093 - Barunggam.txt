@@ -1,19 +1,19 @@
 # 1093 - Barunggam
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = gold
 capital = "Barunggam"
 is_city = yes
 
-base_tax = 7
+base_tax = 9
 base_production = 3
-base_manpower = 10
+base_manpower = 3
 
 
 

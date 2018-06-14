@@ -1,19 +1,19 @@
 # 155 - Bekes
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = incense
 capital = "Bekes"
 is_city = yes
 
-base_tax = 8
-base_production = 6
-base_manpower = 10
+base_tax = 4
+base_production = 9
+base_manpower = 9
 
 
 

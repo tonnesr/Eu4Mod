@@ -1,19 +1,19 @@
 # 4055 - Shamba
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = grain
 capital = "Shamba"
 is_city = yes
 
-base_tax = 4
-base_production = 7
-base_manpower = 1
+base_tax = 9
+base_production = 3
+base_manpower = 3
 
 
 

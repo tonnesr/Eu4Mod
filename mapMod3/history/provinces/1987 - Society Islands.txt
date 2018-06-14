@@ -1,19 +1,19 @@
 # 1987 - Society Islands
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = grain
 capital = "Society Islands"
 is_city = yes
 
 base_tax = 4
-base_production = 2
-base_manpower = 3
+base_production = 4
+base_manpower = 2
 
 
 

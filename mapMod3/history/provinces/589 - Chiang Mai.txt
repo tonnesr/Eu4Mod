@@ -1,19 +1,19 @@
 # 589 - Chiang Mai
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = copper
 capital = "Chiang Mai"
 is_city = yes
 
-base_tax = 8
+base_tax = 6
 base_production = 6
-base_manpower = 2
+base_manpower = 6
 
 
 

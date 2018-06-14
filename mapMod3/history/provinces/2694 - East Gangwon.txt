@@ -1,19 +1,19 @@
 # 2694 - East Gangwon
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fish
+trade_goods = tea
 capital = "East Gangwon"
 is_city = yes
 
-base_tax = 8
-base_production = 9
-base_manpower = 7
+base_tax = 6
+base_production = 3
+base_manpower = 9
 
 
 

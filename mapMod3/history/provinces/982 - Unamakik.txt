@@ -1,19 +1,19 @@
 # 982 - Unamakik
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = sugar
 capital = "Unamakik"
 is_city = yes
 
 base_tax = 2
-base_production = 9
-base_manpower = 10
+base_production = 5
+base_manpower = 3
 
 
 

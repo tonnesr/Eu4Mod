@@ -1,19 +1,19 @@
 # 488 - Les Cayes
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = wool
 capital = "Les Cayes"
 is_city = yes
 
-base_tax = 2
-base_production = 4
-base_manpower = 1
+base_tax = 3
+base_production = 10
+base_manpower = 7
 
 
 

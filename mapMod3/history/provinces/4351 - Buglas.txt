@@ -1,18 +1,18 @@
 # 4351 - Buglas
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cotton
+trade_goods = fur
 capital = "Buglas"
 is_city = yes
 
-base_tax = 8
-base_production = 8
+base_tax = 6
+base_production = 2
 base_manpower = 1
 
 

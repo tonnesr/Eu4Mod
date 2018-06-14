@@ -1,19 +1,19 @@
 # 736 - Sangju
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = cotton
 capital = "Sangju"
 is_city = yes
 
-base_tax = 3
-base_production = 5
-base_manpower = 7
+base_tax = 6
+base_production = 7
+base_manpower = 10
 
 
 

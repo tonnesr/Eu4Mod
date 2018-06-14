@@ -1,19 +1,19 @@
 # 2852 - Salto
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = tropical_wood
 capital = "Salto"
 is_city = yes
 
 base_tax = 9
-base_production = 10
-base_manpower = 5
+base_production = 2
+base_manpower = 7
 
 
 

@@ -1,19 +1,19 @@
 # 600 - Ayutthaya
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = copper
 capital = "Ayutthaya"
 is_city = yes
 
-base_tax = 10
-base_production = 4
-base_manpower = 10
+base_tax = 4
+base_production = 1
+base_manpower = 9
 
 
 

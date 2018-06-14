@@ -1,19 +1,19 @@
 # 732 - South Hamgyeong
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = wine
 capital = "South Hamgyeong"
 is_city = yes
 
-base_tax = 4
+base_tax = 5
 base_production = 2
-base_manpower = 5
+base_manpower = 6
 
 
 

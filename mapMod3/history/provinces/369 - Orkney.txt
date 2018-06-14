@@ -1,19 +1,19 @@
 # 369 - Orkney
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = cloth
 capital = "Orkney"
 is_city = yes
 
-base_tax = 1
-base_production = 6
-base_manpower = 1
+base_tax = 4
+base_production = 4
+base_manpower = 3
 
 
 

@@ -1,19 +1,19 @@
 # 2449 - Jufra
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = tobacco
 capital = "Jufra"
 is_city = yes
 
-base_tax = 10
-base_production = 6
-base_manpower = 4
+base_tax = 7
+base_production = 9
+base_manpower = 6
 
 
 

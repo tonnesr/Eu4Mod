@@ -1,19 +1,19 @@
 # 2654 - Baracoa
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = naval_supplies
 capital = "Baracoa"
 is_city = yes
 
-base_tax = 5
+base_tax = 8
 base_production = 6
-base_manpower = 9
+base_manpower = 8
 
 
 

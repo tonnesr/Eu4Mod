@@ -1,19 +1,19 @@
 # 4381 - Oversticht
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = wine
 capital = "Oversticht"
 is_city = yes
 
-base_tax = 3
-base_production = 6
-base_manpower = 7
+base_tax = 7
+base_production = 1
+base_manpower = 4
 
 
 

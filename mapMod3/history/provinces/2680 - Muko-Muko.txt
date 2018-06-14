@@ -1,19 +1,19 @@
 # 2680 - Muko-Muko
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = incense
 capital = "Muko-Muko"
 is_city = yes
 
 base_tax = 1
-base_production = 4
-base_manpower = 6
+base_production = 7
+base_manpower = 5
 
 
 

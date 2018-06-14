@@ -1,19 +1,19 @@
 # 2641 - Tziccoac
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = gems
 capital = "Tziccoac"
 is_city = yes
 
-base_tax = 10
-base_production = 8
-base_manpower = 2
+base_tax = 1
+base_production = 10
+base_manpower = 9
 
 
 

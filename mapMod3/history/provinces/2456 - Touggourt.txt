@@ -1,19 +1,19 @@
 # 2456 - Touggourt
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = cotton
 capital = "Touggourt"
 is_city = yes
 
-base_tax = 1
-base_production = 8
-base_manpower = 8
+base_tax = 9
+base_production = 5
+base_manpower = 4
 
 
 

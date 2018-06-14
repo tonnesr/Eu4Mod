@@ -1,19 +1,19 @@
 # 1232 - Suakin
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gold
+trade_goods = salt
 capital = "Suakin"
 is_city = yes
 
-base_tax = 3
-base_production = 8
-base_manpower = 6
+base_tax = 1
+base_production = 4
+base_manpower = 10
 
 
 

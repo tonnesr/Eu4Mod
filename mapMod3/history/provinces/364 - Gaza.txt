@@ -1,19 +1,19 @@
 # 364 - Gaza
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = chinaware
 capital = "Gaza"
 is_city = yes
 
-base_tax = 3
-base_production = 10
-base_manpower = 4
+base_tax = 8
+base_production = 7
+base_manpower = 5
 
 
 

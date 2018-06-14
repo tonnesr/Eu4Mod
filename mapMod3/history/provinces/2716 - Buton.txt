@@ -1,19 +1,19 @@
 # 2716 - Buton
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = glass
 capital = "Buton"
 is_city = yes
 
-base_tax = 9
-base_production = 5
-base_manpower = 2
+base_tax = 3
+base_production = 7
+base_manpower = 5
 
 
 

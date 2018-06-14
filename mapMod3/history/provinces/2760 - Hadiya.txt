@@ -1,19 +1,19 @@
 # 2760 - Hadiya
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = iron
 capital = "Hadiya"
 is_city = yes
 
-base_tax = 3
-base_production = 3
-base_manpower = 5
+base_tax = 4
+base_production = 9
+base_manpower = 4
 
 
 

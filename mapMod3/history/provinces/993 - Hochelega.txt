@@ -1,19 +1,19 @@
 # 993 - Hochelega
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = spices
 capital = "Hochelega"
 is_city = yes
 
-base_tax = 4
-base_production = 1
-base_manpower = 3
+base_tax = 3
+base_production = 2
+base_manpower = 2
 
 
 

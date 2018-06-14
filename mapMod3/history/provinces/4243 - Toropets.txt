@@ -1,19 +1,19 @@
 # 4243 - Toropets
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = glass
+trade_goods = slaves
 capital = "Toropets"
 is_city = yes
 
-base_tax = 8
-base_production = 4
-base_manpower = 10
+base_tax = 4
+base_production = 7
+base_manpower = 8
 
 
 

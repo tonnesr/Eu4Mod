@@ -1,19 +1,19 @@
 # 2983 - Salerno
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = naval_supplies
 capital = "Salerno"
 is_city = yes
 
-base_tax = 6
-base_production = 4
-base_manpower = 6
+base_tax = 4
+base_production = 9
+base_manpower = 8
 
 
 

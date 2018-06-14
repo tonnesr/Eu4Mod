@@ -1,19 +1,19 @@
 # 652 - Maguindanao
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = fish
 capital = "Maguindanao"
 is_city = yes
 
-base_tax = 10
-base_production = 10
-base_manpower = 1
+base_tax = 2
+base_production = 8
+base_manpower = 7
 
 
 

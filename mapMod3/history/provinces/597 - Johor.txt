@@ -1,19 +1,19 @@
 # 597 - Johor
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = incense
 capital = "Johor"
 is_city = yes
 
-base_tax = 3
-base_production = 2
-base_manpower = 6
+base_tax = 4
+base_production = 3
+base_manpower = 5
 
 
 

@@ -1,19 +1,19 @@
 # 1184 - Zimbabwe
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = wool
 capital = "Zimbabwe"
 is_city = yes
 
-base_tax = 10
-base_production = 10
-base_manpower = 7
+base_tax = 5
+base_production = 5
+base_manpower = 6
 
 
 

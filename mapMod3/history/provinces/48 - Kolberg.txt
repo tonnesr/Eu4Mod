@@ -1,19 +1,19 @@
 # 48 - Kolberg
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = tobacco
 capital = "Kolberg"
 is_city = yes
 
-base_tax = 5
+base_tax = 2
 base_production = 7
-base_manpower = 10
+base_manpower = 3
 
 
 

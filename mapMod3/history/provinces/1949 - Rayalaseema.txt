@@ -1,19 +1,19 @@
 # 1949 - Rayalaseema
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = cocoa
 capital = "Rayalaseema"
 is_city = yes
 
-base_tax = 1
-base_production = 8
-base_manpower = 7
+base_tax = 7
+base_production = 2
+base_manpower = 6
 
 
 

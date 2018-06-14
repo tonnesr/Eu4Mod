@@ -1,19 +1,19 @@
 # 250 - Perth
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = wool
 capital = "Perth"
 is_city = yes
 
-base_tax = 5
-base_production = 3
-base_manpower = 9
+base_tax = 1
+base_production = 8
+base_manpower = 5
 
 
 

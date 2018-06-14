@@ -1,19 +1,19 @@
 # 323 - Konya
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = glass
 capital = "Konya"
 is_city = yes
 
-base_tax = 1
+base_tax = 5
 base_production = 9
-base_manpower = 7
+base_manpower = 3
 
 
 

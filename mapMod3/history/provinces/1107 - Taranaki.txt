@@ -1,19 +1,19 @@
 # 1107 - Taranaki
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = wool
 capital = "Taranaki"
 is_city = yes
 
-base_tax = 7
-base_production = 5
-base_manpower = 1
+base_tax = 3
+base_production = 10
+base_manpower = 8
 
 
 

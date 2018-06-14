@@ -1,19 +1,19 @@
 # 2074 - Ladakh
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = tea
 capital = "Ladakh"
 is_city = yes
 
-base_tax = 8
-base_production = 1
-base_manpower = 8
+base_tax = 5
+base_production = 6
+base_manpower = 5
 
 
 

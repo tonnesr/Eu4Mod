@@ -1,18 +1,18 @@
 # 157 - Bihar
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = unknown
 capital = "Bihar"
 is_city = yes
 
 base_tax = 10
-base_production = 2
+base_production = 10
 base_manpower = 8
 
 

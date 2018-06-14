@@ -1,19 +1,19 @@
 # 543 - Velanadu
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = fur
 capital = "Velanadu"
 is_city = yes
 
-base_tax = 2
-base_production = 9
-base_manpower = 10
+base_tax = 5
+base_production = 1
+base_manpower = 4
 
 
 

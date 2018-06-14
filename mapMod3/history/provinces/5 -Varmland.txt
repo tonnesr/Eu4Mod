@@ -1,19 +1,19 @@
 # 5 -Varmland
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = coffee
 capital = "Varmland"
 is_city = yes
 
-base_tax = 5
+base_tax = 6
 base_production = 1
-base_manpower = 4
+base_manpower = 8
 
 
 

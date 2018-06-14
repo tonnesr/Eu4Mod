@@ -1,19 +1,19 @@
 # 4244 - Starodub
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = cloth
 capital = "Starodub"
 is_city = yes
 
-base_tax = 10
+base_tax = 2
 base_production = 9
-base_manpower = 3
+base_manpower = 6
 
 
 

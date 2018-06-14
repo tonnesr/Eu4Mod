@@ -1,19 +1,19 @@
 # 823 - Cauca
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = naval_supplies
+trade_goods = glass
 capital = "Cauca"
 is_city = yes
 
-base_tax = 4
-base_production = 1
-base_manpower = 6
+base_tax = 1
+base_production = 3
+base_manpower = 10
 
 
 

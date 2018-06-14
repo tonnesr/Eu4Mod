@@ -1,19 +1,19 @@
 # 1231 - Aswan
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gold
+trade_goods = chinaware
 capital = "Aswan"
 is_city = yes
 
-base_tax = 6
-base_production = 2
-base_manpower = 4
+base_tax = 4
+base_production = 10
+base_manpower = 6
 
 
 

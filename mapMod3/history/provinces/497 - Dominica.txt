@@ -1,19 +1,19 @@
 # 497 - Dominica
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = spices
 capital = "Dominica"
 is_city = yes
 
-base_tax = 4
-base_production = 7
-base_manpower = 2
+base_tax = 3
+base_production = 10
+base_manpower = 1
 
 
 

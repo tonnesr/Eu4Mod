@@ -1,19 +1,19 @@
 # 27 -Finland
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = cloth
 capital = "Finland"
 is_city = yes
 
-base_tax = 1
+base_tax = 2
 base_production = 4
-base_manpower = 7
+base_manpower = 8
 
 
 

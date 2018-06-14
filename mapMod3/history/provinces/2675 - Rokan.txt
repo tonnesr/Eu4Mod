@@ -1,19 +1,19 @@
 # 2675 - Rokan
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = ivory
 capital = "Rokan"
 is_city = yes
 
-base_tax = 6
-base_production = 3
-base_manpower = 9
+base_tax = 1
+base_production = 1
+base_manpower = 3
 
 
 

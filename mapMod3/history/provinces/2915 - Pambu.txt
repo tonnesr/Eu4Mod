@@ -1,18 +1,18 @@
 # 2915 - Pambu
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = ivory
 capital = "Pambu"
 is_city = yes
 
-base_tax = 8
-base_production = 3
+base_tax = 1
+base_production = 9
 base_manpower = 7
 
 

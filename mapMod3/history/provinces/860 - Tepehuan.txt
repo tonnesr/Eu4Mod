@@ -1,19 +1,19 @@
 # 860 - Tepehuan
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = cotton
 capital = "Tepehuan"
 is_city = yes
 
-base_tax = 10
-base_production = 9
-base_manpower = 3
+base_tax = 7
+base_production = 5
+base_manpower = 1
 
 
 

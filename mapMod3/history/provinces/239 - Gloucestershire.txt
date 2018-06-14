@@ -1,18 +1,18 @@
 # 239 - Gloucestershire
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = tea
 capital = "Gloucestershire"
 is_city = yes
 
-base_tax = 8
-base_production = 10
+base_tax = 1
+base_production = 2
 base_manpower = 1
 
 

@@ -1,19 +1,19 @@
 # 1814 - Columbia
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = fur
 capital = "Columbia"
 is_city = yes
 
-base_tax = 10
-base_production = 4
-base_manpower = 10
+base_tax = 8
+base_production = 3
+base_manpower = 7
 
 
 

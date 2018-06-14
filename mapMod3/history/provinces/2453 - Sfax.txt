@@ -1,19 +1,19 @@
 # 2453 - Sfax
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = cloth
 capital = "Sfax"
 is_city = yes
 
 base_tax = 6
-base_production = 8
-base_manpower = 1
+base_production = 9
+base_manpower = 9
 
 
 

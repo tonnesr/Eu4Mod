@@ -1,19 +1,19 @@
 # 298 - Kursk
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = paper
 capital = "Kursk"
 is_city = yes
 
-base_tax = 3
-base_production = 2
-base_manpower = 1
+base_tax = 1
+base_production = 10
+base_manpower = 5
 
 
 

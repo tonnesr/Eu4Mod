@@ -1,19 +1,19 @@
 # 232 - Braganca
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = paper
+trade_goods = silk
 capital = "Braganca"
 is_city = yes
 
-base_tax = 3
-base_production = 3
-base_manpower = 7
+base_tax = 7
+base_production = 9
+base_manpower = 3
 
 
 

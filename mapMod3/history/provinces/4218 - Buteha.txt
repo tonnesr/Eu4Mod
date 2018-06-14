@@ -1,19 +1,19 @@
 # 4218 - Buteha
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = wine
 capital = "Buteha"
 is_city = yes
 
-base_tax = 4
-base_production = 1
-base_manpower = 2
+base_tax = 3
+base_production = 7
+base_manpower = 3
 
 
 

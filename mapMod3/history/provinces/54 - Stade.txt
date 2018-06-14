@@ -1,18 +1,18 @@
 # 54 - Stade
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = paper
 capital = "Stade"
 is_city = yes
 
-base_tax = 8
-base_production = 4
+base_tax = 2
+base_production = 3
 base_manpower = 2
 
 

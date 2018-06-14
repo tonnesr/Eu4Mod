@@ -1,19 +1,19 @@
 # 110 - Trent
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = wool
 capital = "Trent"
 is_city = yes
 
-base_tax = 3
-base_production = 9
-base_manpower = 10
+base_tax = 1
+base_production = 4
+base_manpower = 9
 
 
 

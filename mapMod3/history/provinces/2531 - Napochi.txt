@@ -1,19 +1,19 @@
 # 2531 - Napochi
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = slaves
 capital = "Napochi"
 is_city = yes
 
-base_tax = 8
-base_production = 6
-base_manpower = 10
+base_tax = 10
+base_production = 4
+base_manpower = 8
 
 
 

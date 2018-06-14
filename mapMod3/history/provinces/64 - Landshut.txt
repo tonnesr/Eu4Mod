@@ -1,19 +1,19 @@
 # 64 - Landshut
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = coffee
 capital = "Landshut"
 is_city = yes
 
-base_tax = 3
-base_production = 1
-base_manpower = 9
+base_tax = 1
+base_production = 9
+base_manpower = 8
 
 
 

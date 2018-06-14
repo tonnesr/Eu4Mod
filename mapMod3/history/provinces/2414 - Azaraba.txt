@@ -1,19 +1,19 @@
 # 2414 - Azaraba
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = cloth
 capital = "Azaraba"
 is_city = yes
 
-base_tax = 6
-base_production = 6
-base_manpower = 2
+base_tax = 8
+base_production = 1
+base_manpower = 9
 
 
 

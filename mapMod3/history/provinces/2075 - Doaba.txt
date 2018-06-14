@@ -1,19 +1,19 @@
 # 2075 - Doaba
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cloth
+trade_goods = salt
 capital = "Doaba"
 is_city = yes
 
-base_tax = 2
-base_production = 10
-base_manpower = 7
+base_tax = 4
+base_production = 2
+base_manpower = 8
 
 
 

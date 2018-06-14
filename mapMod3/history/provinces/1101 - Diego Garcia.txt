@@ -1,28 +1,33 @@
-#1101 - Diego Garcia
+# 1101 - Diego Garcia
 
-capital = "Diego Garcia"
-trade_goods = unknown
+add_core = ETH
+owner = ETH
+controller = ETH
+
+culture = amhara
+religion = coptic
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
-native_size = 0
-native_ferocity = 0
-native_hostileness = 0
+trade_goods = tea
+capital = "Diego Garcia"
+is_city = yes
 
-1510.1.1 = { discovered_by = POR } # Diego Gracia
-1780.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	culture = cosmopolitan_french
-	religion = catholic
-}
-1800.1.1 = { trade_goods = slaves }
-1814.4.11 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Actually confirmed in the Treaty of Paris
+base_tax = 5
+base_production = 2
+base_manpower = 2
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

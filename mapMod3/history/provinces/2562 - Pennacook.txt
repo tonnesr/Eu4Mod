@@ -1,19 +1,19 @@
 # 2562 - Pennacook
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = coffee
 capital = "Pennacook"
 is_city = yes
 
 base_tax = 1
-base_production = 8
-base_manpower = 7
+base_production = 10
+base_manpower = 1
 
 
 

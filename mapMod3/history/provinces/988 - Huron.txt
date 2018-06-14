@@ -1,38 +1,33 @@
-#988 - Huron
+# 988 - Huron
 
-owner = HUR
-controller = HUR
-culture = huron
-religion = totemism
-capital = "Huron"
-trade_goods = fur
+add_core = ETH
+owner = ETH
+controller = ETH
+
+culture = amhara
+religion = coptic
 hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 4
+trade_goods = gems
+capital = "Huron"
 is_city = yes
-add_core = HUR
-native_size = 10
-native_ferocity = 5
-native_hostileness = 2
+
+base_tax = 2
+base_production = 9
+base_manpower = 2
 
 
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
 discovered_by = north_american
-
-1609.1.1 = { discovered_by = FRA } # Samuel de Champlain
-1611.1.1 = { discovered_by = ENG } # Henry Hudson claimed the area
-
-1649.1.1 = {
-	owner = IRO
-	controller = IRO
-	add_core = IRO
-	culture = iroquois
-} #Taken by Iroquois in Beaver Wars.
-1650.1.1 = {
-	owner = OJI
-	controller = OJI
-	add_core = OJI
-	culture = anishinabe
-} #Iroquois focus on Lake Ontario, Ojibwe moves in
-1707.5.12 = { discovered_by = GBR }
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

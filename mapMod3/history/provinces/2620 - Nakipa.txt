@@ -1,19 +1,19 @@
 # 2620 - Nakipa
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = unknown
 capital = "Nakipa"
 is_city = yes
 
-base_tax = 5
-base_production = 7
-base_manpower = 9
+base_tax = 8
+base_production = 10
+base_manpower = 1
 
 
 

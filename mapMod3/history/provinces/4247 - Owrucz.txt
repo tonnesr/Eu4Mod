@@ -1,19 +1,19 @@
 # 4247 - Owrucz
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = iron
 capital = "Owrucz"
 is_city = yes
 
-base_tax = 1
-base_production = 4
-base_manpower = 6
+base_tax = 2
+base_production = 5
+base_manpower = 1
 
 
 

@@ -1,19 +1,19 @@
 # 4054 - Kuria
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = cloth
 capital = "Kuria"
 is_city = yes
 
-base_tax = 4
-base_production = 4
-base_manpower = 4
+base_tax = 9
+base_production = 2
+base_manpower = 2
 
 
 

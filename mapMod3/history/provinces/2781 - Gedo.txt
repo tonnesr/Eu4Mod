@@ -1,19 +1,19 @@
 # 2781 - Gedo
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = glass
 capital = "Gedo"
 is_city = yes
 
-base_tax = 3
-base_production = 10
-base_manpower = 7
+base_tax = 5
+base_production = 7
+base_manpower = 4
 
 
 

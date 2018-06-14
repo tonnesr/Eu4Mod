@@ -1,18 +1,18 @@
 # 2732 - Wulgurukaba
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = naval_supplies
+trade_goods = iron
 capital = "Wulgurukaba"
 is_city = yes
 
-base_tax = 2
-base_production = 3
+base_tax = 3
+base_production = 5
 base_manpower = 2
 
 

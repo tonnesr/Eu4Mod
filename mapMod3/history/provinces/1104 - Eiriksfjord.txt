@@ -1,19 +1,19 @@
 # 1104 - Eiriksfjord
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = salt
 capital = "Eiriksfjord"
 is_city = yes
 
-base_tax = 9
-base_production = 8
-base_manpower = 10
+base_tax = 10
+base_production = 2
+base_manpower = 4
 
 
 

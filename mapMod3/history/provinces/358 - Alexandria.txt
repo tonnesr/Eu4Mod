@@ -1,18 +1,18 @@
 # 358 - Alexandria
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cotton
+trade_goods = fish
 capital = "Alexandria"
 is_city = yes
 
-base_tax = 3
-base_production = 9
+base_tax = 7
+base_production = 1
 base_manpower = 1
 
 

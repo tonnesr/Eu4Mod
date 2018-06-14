@@ -1,19 +1,19 @@
 # 863 - Suma
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = tea
 capital = "Suma"
 is_city = yes
 
 base_tax = 8
-base_production = 8
-base_manpower = 10
+base_production = 5
+base_manpower = 7
 
 
 

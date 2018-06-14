@@ -1,19 +1,19 @@
 # 1802 - Western Amazonas
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = coffee
 capital = "Western Amazonas"
 is_city = yes
 
-base_tax = 10
-base_production = 2
-base_manpower = 7
+base_tax = 2
+base_production = 1
+base_manpower = 2
 
 
 

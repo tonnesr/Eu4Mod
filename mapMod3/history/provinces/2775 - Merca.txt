@@ -1,19 +1,19 @@
 # 2775 - Merca
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = copper
 capital = "Merca"
 is_city = yes
 
-base_tax = 4
-base_production = 9
-base_manpower = 7
+base_tax = 10
+base_production = 4
+base_manpower = 4
 
 
 

@@ -1,19 +1,19 @@
 # 2326 - Bardiyah
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = cotton
 capital = "Bardiyah"
 is_city = yes
 
-base_tax = 7
-base_production = 1
-base_manpower = 3
+base_tax = 2
+base_production = 7
+base_manpower = 6
 
 
 

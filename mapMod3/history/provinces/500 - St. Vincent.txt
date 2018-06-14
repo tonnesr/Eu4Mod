@@ -1,19 +1,19 @@
 # 500 - St. Vincent
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = cocoa
 capital = "St. Vincent"
 is_city = yes
 
-base_tax = 1
-base_production = 10
-base_manpower = 3
+base_tax = 3
+base_production = 4
+base_manpower = 2
 
 
 

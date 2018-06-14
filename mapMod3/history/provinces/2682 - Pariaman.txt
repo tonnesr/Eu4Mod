@@ -1,19 +1,19 @@
 # 2682 - Pariaman
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = fur
 capital = "Pariaman"
 is_city = yes
 
-base_tax = 8
+base_tax = 1
 base_production = 7
-base_manpower = 1
+base_manpower = 7
 
 
 

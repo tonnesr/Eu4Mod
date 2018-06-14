@@ -1,19 +1,19 @@
 # 664 - Lingyun
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = slaves
 capital = "Lingyun"
 is_city = yes
 
-base_tax = 7
-base_production = 10
-base_manpower = 6
+base_tax = 4
+base_production = 4
+base_manpower = 10
 
 
 

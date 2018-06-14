@@ -1,19 +1,19 @@
 # 686 - Anqing
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = sugar
 capital = "Anqing"
 is_city = yes
 
 base_tax = 2
 base_production = 3
-base_manpower = 7
+base_manpower = 8
 
 
 

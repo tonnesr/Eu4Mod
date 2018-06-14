@@ -1,19 +1,19 @@
 # 4155 - The Carpathians
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = ivory
 capital = "The Carpathians"
 is_city = yes
 
-base_tax = 4
-base_production = 2
-base_manpower = 3
+base_tax = 7
+base_production = 10
+base_manpower = 1
 
 
 

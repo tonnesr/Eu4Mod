@@ -1,18 +1,18 @@
 # 2485 - Chehalis
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = silk
 capital = "Chehalis"
 is_city = yes
 
-base_tax = 6
-base_production = 5
+base_tax = 5
+base_production = 2
 base_manpower = 5
 
 

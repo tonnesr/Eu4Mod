@@ -1,19 +1,19 @@
 # 1011 - Woods Cree
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = silk
 capital = "Woods Cree"
 is_city = yes
 
-base_tax = 10
-base_production = 10
-base_manpower = 2
+base_tax = 4
+base_production = 9
+base_manpower = 5
 
 
 

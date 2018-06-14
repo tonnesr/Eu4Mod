@@ -1,19 +1,19 @@
 # 4269 - Al Wajh
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = incense
 capital = "Al Wajh"
 is_city = yes
 
-base_tax = 1
+base_tax = 4
 base_production = 4
-base_manpower = 10
+base_manpower = 6
 
 
 

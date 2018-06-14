@@ -1,19 +1,19 @@
 # 563 - Gauda
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = slaves
 capital = "Gauda"
 is_city = yes
 
-base_tax = 5
-base_production = 8
-base_manpower = 8
+base_tax = 2
+base_production = 2
+base_manpower = 5
 
 
 

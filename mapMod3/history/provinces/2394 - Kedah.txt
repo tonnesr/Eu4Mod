@@ -1,18 +1,18 @@
 # 2394 - Kedah
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = cloth
 capital = "Kedah"
 is_city = yes
 
-base_tax = 4
-base_production = 2
+base_tax = 7
+base_production = 7
 base_manpower = 1
 
 

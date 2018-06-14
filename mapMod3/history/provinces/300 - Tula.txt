@@ -1,19 +1,19 @@
 # 300 - Tula
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = coffee
 capital = "Tula"
 is_city = yes
 
-base_tax = 10
-base_production = 10
-base_manpower = 6
+base_tax = 8
+base_production = 1
+base_manpower = 4
 
 
 

@@ -1,19 +1,19 @@
 # 910 - Chippewa
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cloth
+trade_goods = paper
 capital = "Chippewa"
 is_city = yes
 
-base_tax = 6
-base_production = 6
-base_manpower = 5
+base_tax = 1
+base_production = 8
+base_manpower = 7
 
 
 

@@ -1,19 +1,19 @@
 # 4340 - Astara
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = cotton
 capital = "Astara"
 is_city = yes
 
-base_tax = 4
-base_production = 8
-base_manpower = 3
+base_tax = 6
+base_production = 10
+base_manpower = 9
 
 
 

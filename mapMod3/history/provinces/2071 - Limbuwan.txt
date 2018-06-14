@@ -1,19 +1,19 @@
 # 2071 - Limbuwan
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = tea
 capital = "Limbuwan"
 is_city = yes
 
-base_tax = 10
-base_production = 9
-base_manpower = 6
+base_tax = 7
+base_production = 6
+base_manpower = 10
 
 
 

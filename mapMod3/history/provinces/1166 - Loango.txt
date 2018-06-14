@@ -1,19 +1,19 @@
 # 1166 - Loango
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = incense
 capital = "Loango"
 is_city = yes
 
-base_tax = 10
-base_production = 1
-base_manpower = 7
+base_tax = 7
+base_production = 6
+base_manpower = 8
 
 
 

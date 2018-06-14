@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = fish
 capital = "Rabaul"
 is_city = yes
 
-base_tax = 10
-base_production = 9
-base_manpower = 8
+base_tax = 9
+base_production = 2
+base_manpower = 2
 
 
 

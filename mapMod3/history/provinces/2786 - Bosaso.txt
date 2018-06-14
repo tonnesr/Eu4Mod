@@ -1,13 +1,13 @@
 # 2786 - Bosaso
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = copper
 capital = "Bosaso"
 is_city = yes
 

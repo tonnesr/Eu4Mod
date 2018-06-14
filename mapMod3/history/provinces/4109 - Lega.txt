@@ -1,19 +1,19 @@
 # 4109 - Lega
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cloth
+trade_goods = wine
 capital = "Lega"
 is_city = yes
 
-base_tax = 4
-base_production = 9
-base_manpower = 5
+base_tax = 2
+base_production = 10
+base_manpower = 4
 
 
 

@@ -1,19 +1,19 @@
 # 1079 - Viatka
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = incense
 capital = "Viatka"
 is_city = yes
 
-base_tax = 4
+base_tax = 3
 base_production = 6
-base_manpower = 7
+base_manpower = 5
 
 
 

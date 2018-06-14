@@ -1,19 +1,19 @@
 # 2097 - Bagelkhand
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gold
+trade_goods = fish
 capital = "Bagelkhand"
 is_city = yes
 
-base_tax = 2
-base_production = 7
-base_manpower = 7
+base_tax = 10
+base_production = 3
+base_manpower = 9
 
 
 

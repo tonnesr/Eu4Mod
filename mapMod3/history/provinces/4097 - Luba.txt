@@ -1,19 +1,19 @@
 # 4097 - Luba
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = coffee
 capital = "Luba"
 is_city = yes
 
-base_tax = 9
-base_production = 4
-base_manpower = 7
+base_tax = 4
+base_production = 1
+base_manpower = 5
 
 
 

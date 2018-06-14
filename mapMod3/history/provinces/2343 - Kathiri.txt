@@ -1,19 +1,19 @@
 # 2343 - Kathiri
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = glass
 capital = "Kathiri"
 is_city = yes
 
-base_tax = 7
-base_production = 3
-base_manpower = 8
+base_tax = 8
+base_production = 4
+base_manpower = 7
 
 
 

@@ -1,18 +1,18 @@
 # 2776 - Afgooye
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = slaves
 capital = "Afgooye"
 is_city = yes
 
 base_tax = 1
-base_production = 9
+base_production = 10
 base_manpower = 4
 
 

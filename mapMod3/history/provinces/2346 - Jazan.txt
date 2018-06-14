@@ -1,19 +1,19 @@
 # 2346 - Jazan
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = sugar
 capital = "Jazan"
 is_city = yes
 
-base_tax = 7
-base_production = 4
-base_manpower = 4
+base_tax = 6
+base_production = 6
+base_manpower = 5
 
 
 

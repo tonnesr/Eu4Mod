@@ -1,19 +1,19 @@
 # 2733 - Baiali
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = unknown
 capital = "Baiali"
 is_city = yes
 
-base_tax = 5
-base_production = 5
-base_manpower = 10
+base_tax = 6
+base_production = 3
+base_manpower = 4
 
 
 

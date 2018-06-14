@@ -7,12 +7,12 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = ivory
 capital = "Saskatchewan"
 is_city = yes
 
-base_tax = 7
-base_production = 4
+base_tax = 9
+base_production = 7
 base_manpower = 7
 
 

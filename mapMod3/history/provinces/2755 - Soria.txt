@@ -1,19 +1,19 @@
 # 2755 - Soria
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = dyes
 capital = "Soria"
 is_city = yes
 
-base_tax = 4
-base_production = 4
-base_manpower = 5
+base_tax = 1
+base_production = 6
+base_manpower = 9
 
 
 

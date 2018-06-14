@@ -1,19 +1,19 @@
 # 4061 - Buzinza
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = cocoa
 capital = "Buzinza"
 is_city = yes
 
-base_tax = 6
-base_production = 8
-base_manpower = 8
+base_tax = 10
+base_production = 3
+base_manpower = 5
 
 
 

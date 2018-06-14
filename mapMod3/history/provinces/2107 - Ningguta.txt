@@ -1,19 +1,19 @@
 # 2107 - Ningguta
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = coal
 capital = "Ningguta"
 is_city = yes
 
-base_tax = 6
-base_production = 3
-base_manpower = 6
+base_tax = 7
+base_production = 8
+base_manpower = 9
 
 
 

@@ -1,19 +1,19 @@
 # 2676 - Indragiri
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = glass
 capital = "Indragiri"
 is_city = yes
 
-base_tax = 4
+base_tax = 2
 base_production = 7
-base_manpower = 1
+base_manpower = 5
 
 
 

@@ -1,19 +1,19 @@
 # 930 - Yamasee
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = silk
 capital = "Yamasee"
 is_city = yes
 
-base_tax = 4
-base_production = 10
-base_manpower = 6
+base_tax = 9
+base_production = 1
+base_manpower = 3
 
 
 

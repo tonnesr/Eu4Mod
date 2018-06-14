@@ -1,19 +1,19 @@
 # 755 - Pernambuco
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = wine
 capital = "Pernambuco"
 is_city = yes
 
-base_tax = 4
-base_production = 8
-base_manpower = 1
+base_tax = 2
+base_production = 4
+base_manpower = 6
 
 
 

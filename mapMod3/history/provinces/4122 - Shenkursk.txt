@@ -1,18 +1,18 @@
 # 4122 - Shenkursk
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = gold
 capital = "Shenkursk"
 is_city = yes
 
-base_tax = 8
-base_production = 7
+base_tax = 6
+base_production = 4
 base_manpower = 9
 
 

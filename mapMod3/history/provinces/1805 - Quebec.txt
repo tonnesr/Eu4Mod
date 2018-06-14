@@ -1,19 +1,19 @@
 # 1805 - Quebec
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = dyes
 capital = "Quebec"
 is_city = yes
 
-base_tax = 2
-base_production = 3
-base_manpower = 8
+base_tax = 6
+base_production = 9
+base_manpower = 5
 
 
 

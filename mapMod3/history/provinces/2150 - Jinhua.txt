@@ -1,19 +1,19 @@
 # 2150 - Jinhua
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = livestock
 capital = "Jinhua"
 is_city = yes
 
-base_tax = 4
-base_production = 1
-base_manpower = 5
+base_tax = 8
+base_production = 9
+base_manpower = 7
 
 
 

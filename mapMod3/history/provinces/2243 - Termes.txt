@@ -1,19 +1,19 @@
 # 2243 - Termes
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = paper
 capital = "Termes"
 is_city = yes
 
-base_tax = 3
-base_production = 7
-base_manpower = 5
+base_tax = 5
+base_production = 1
+base_manpower = 8
 
 
 

@@ -1,19 +1,19 @@
 # 1873 - Chur
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = salt
 capital = "Chur"
 is_city = yes
 
-base_tax = 2
-base_production = 7
-base_manpower = 9
+base_tax = 7
+base_production = 9
+base_manpower = 4
 
 
 

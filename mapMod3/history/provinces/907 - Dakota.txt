@@ -1,19 +1,19 @@
 # 907 - Dakota
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = fur
 capital = "Dakota"
 is_city = yes
 
-base_tax = 5
-base_production = 9
-base_manpower = 4
+base_tax = 8
+base_production = 5
+base_manpower = 9
 
 
 

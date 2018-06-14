@@ -1,19 +1,19 @@
 # 592 - Ratchaburi
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = cocoa
 capital = "Ratchaburi"
 is_city = yes
 
-base_tax = 4
-base_production = 6
-base_manpower = 4
+base_tax = 8
+base_production = 9
+base_manpower = 9
 
 
 

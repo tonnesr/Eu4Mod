@@ -1,19 +1,19 @@
 # 932 - Santee
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = dyes
 capital = "Santee"
 is_city = yes
 
-base_tax = 5
-base_production = 7
-base_manpower = 5
+base_tax = 1
+base_production = 8
+base_manpower = 9
 
 
 

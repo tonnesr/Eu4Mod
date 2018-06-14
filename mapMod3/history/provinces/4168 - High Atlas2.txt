@@ -1,18 +1,18 @@
 # 4168 - High Atlas2
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = slaves
 capital = "High Atlas"
 is_city = yes
 
-base_tax = 7
-base_production = 6
+base_tax = 6
+base_production = 3
 base_manpower = 5
 
 

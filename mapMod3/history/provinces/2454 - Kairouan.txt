@@ -1,19 +1,19 @@
 # 2454 - Kairouan
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = gems
 capital = "Kairouan"
 is_city = yes
 
-base_tax = 6
-base_production = 2
-base_manpower = 1
+base_tax = 3
+base_production = 6
+base_manpower = 9
 
 
 

@@ -1,19 +1,19 @@
 # 15 -Jylland
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = fur
 capital = "Jylland"
 is_city = yes
 
-base_tax = 1
-base_production = 10
-base_manpower = 7
+base_tax = 10
+base_production = 9
+base_manpower = 3
 
 
 

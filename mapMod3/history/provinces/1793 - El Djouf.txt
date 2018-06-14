@@ -1,19 +1,19 @@
 # 1793 - El Djouf
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = glass
 capital = "El Djouf"
 is_city = yes
 
-base_tax = 8
+base_tax = 3
 base_production = 8
-base_manpower = 7
+base_manpower = 2
 
 
 

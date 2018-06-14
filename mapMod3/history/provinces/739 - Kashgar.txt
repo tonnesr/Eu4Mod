@@ -1,19 +1,19 @@
 # 739 - Kashgar
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = wool
 capital = "Kashgar"
 is_city = yes
 
-base_tax = 2
-base_production = 7
-base_manpower = 1
+base_tax = 10
+base_production = 2
+base_manpower = 6
 
 
 

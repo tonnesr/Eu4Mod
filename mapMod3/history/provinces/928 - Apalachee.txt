@@ -1,19 +1,19 @@
 # 928 - Apalachee
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = glass
 capital = "Apalachee"
 is_city = yes
 
 base_tax = 4
-base_production = 7
-base_manpower = 8
+base_production = 6
+base_manpower = 3
 
 
 

@@ -1,19 +1,19 @@
 # 2822 - Tucume
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = fish
 capital = "Tucume"
 is_city = yes
 
-base_tax = 5
-base_production = 10
-base_manpower = 4
+base_tax = 1
+base_production = 8
+base_manpower = 6
 
 
 

@@ -1,19 +1,19 @@
 # 359 - Faiyum
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = paper
+trade_goods = coal
 capital = "Faiyum"
 is_city = yes
 
-base_tax = 5
-base_production = 5
-base_manpower = 3
+base_tax = 3
+base_production = 1
+base_manpower = 4
 
 
 

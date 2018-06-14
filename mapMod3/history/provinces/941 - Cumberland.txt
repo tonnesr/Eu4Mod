@@ -1,18 +1,18 @@
 # 941 - Cumberland
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = dyes
 capital = "Cumberland"
 is_city = yes
 
-base_tax = 2
-base_production = 10
+base_tax = 1
+base_production = 8
 base_manpower = 6
 
 

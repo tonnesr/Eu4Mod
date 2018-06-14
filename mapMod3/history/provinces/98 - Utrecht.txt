@@ -1,19 +1,19 @@
 # 98 - Utrecht
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
 trade_goods = incense
 capital = "Utrecht"
 is_city = yes
 
-base_tax = 4
+base_tax = 2
 base_production = 5
-base_manpower = 8
+base_manpower = 10
 
 
 

@@ -1,19 +1,19 @@
 # 2473 - Souss
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = naval_supplies
 capital = "Souss"
 is_city = yes
 
-base_tax = 8
-base_production = 6
-base_manpower = 3
+base_tax = 10
+base_production = 4
+base_manpower = 10
 
 
 

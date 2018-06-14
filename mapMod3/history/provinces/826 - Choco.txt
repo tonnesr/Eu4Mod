@@ -1,18 +1,18 @@
 # 826 - Choco
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = naval_supplies
 capital = "Choco"
 is_city = yes
 
 base_tax = 6
-base_production = 6
+base_production = 4
 base_manpower = 3
 
 

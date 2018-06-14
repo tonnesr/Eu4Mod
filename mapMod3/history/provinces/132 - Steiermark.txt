@@ -1,19 +1,19 @@
 # 132 - Steiermark
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = wool
 capital = "Steiermark"
 is_city = yes
 
-base_tax = 4
-base_production = 2
-base_manpower = 7
+base_tax = 1
+base_production = 8
+base_manpower = 9
 
 
 

@@ -1,19 +1,19 @@
 # 595 - Perak
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = fur
 capital = "Perak"
 is_city = yes
 
-base_tax = 3
-base_production = 7
-base_manpower = 1
+base_tax = 9
+base_production = 1
+base_manpower = 7
 
 
 

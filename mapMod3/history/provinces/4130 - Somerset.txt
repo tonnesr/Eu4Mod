@@ -1,19 +1,19 @@
 # 4130 - Somerset
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = cotton
 capital = "Somerset"
 is_city = yes
 
-base_tax = 10
-base_production = 5
-base_manpower = 1
+base_tax = 3
+base_production = 10
+base_manpower = 5
 
 
 

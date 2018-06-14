@@ -1,19 +1,19 @@
 # 2039 - Sunderbans
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = tea
 capital = "Sunderbans"
 is_city = yes
 
-base_tax = 5
-base_production = 8
-base_manpower = 2
+base_tax = 1
+base_production = 1
+base_manpower = 8
 
 
 

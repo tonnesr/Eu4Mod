@@ -1,18 +1,18 @@
 # 2632 - Xicallanco
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = naval_supplies
 capital = "Xicallanco"
 is_city = yes
 
-base_tax = 6
-base_production = 3
+base_tax = 9
+base_production = 8
 base_manpower = 3
 
 

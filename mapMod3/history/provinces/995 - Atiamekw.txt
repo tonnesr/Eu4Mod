@@ -1,19 +1,19 @@
 # 995 - Atiamekw
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = glass
+trade_goods = gold
 capital = "Atiamekw"
 is_city = yes
 
-base_tax = 9
-base_production = 7
-base_manpower = 4
+base_tax = 8
+base_production = 10
+base_manpower = 8
 
 
 

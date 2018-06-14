@@ -1,19 +1,19 @@
 # 378 - Tripoli
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
 trade_goods = coffee
 capital = "Tripoli"
 is_city = yes
 
-base_tax = 7
-base_production = 9
-base_manpower = 9
+base_tax = 3
+base_production = 4
+base_manpower = 2
 
 
 

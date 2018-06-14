@@ -1,19 +1,19 @@
 # 199 - Auvergne
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = paper
 capital = "Auvergne"
 is_city = yes
 
-base_tax = 8
-base_production = 1
-base_manpower = 3
+base_tax = 5
+base_production = 9
+base_manpower = 10
 
 
 

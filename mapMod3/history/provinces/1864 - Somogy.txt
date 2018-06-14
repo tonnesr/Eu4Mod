@@ -1,18 +1,18 @@
 # 1864 - Somogy
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = glass
 capital = "Somogy"
 is_city = yes
 
-base_tax = 1
-base_production = 5
+base_tax = 4
+base_production = 9
 base_manpower = 6
 
 

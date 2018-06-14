@@ -1,18 +1,18 @@
 # 2470 - Haha
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = tobacco
 capital = "Haha"
 is_city = yes
 
 base_tax = 5
-base_production = 5
+base_production = 1
 base_manpower = 10
 
 

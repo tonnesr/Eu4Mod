@@ -1,19 +1,19 @@
 # 2498 - Jumao
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = tea
 capital = "Jumao"
 is_city = yes
 
-base_tax = 9
-base_production = 1
-base_manpower = 3
+base_tax = 7
+base_production = 3
+base_manpower = 4
 
 
 

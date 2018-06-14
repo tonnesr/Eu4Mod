@@ -1,19 +1,19 @@
 # 2124 - Yarkand
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = sugar
 capital = "Yarkand"
 is_city = yes
 
 base_tax = 3
-base_production = 4
-base_manpower = 10
+base_production = 6
+base_manpower = 2
 
 
 

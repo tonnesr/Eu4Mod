@@ -1,19 +1,19 @@
 # 4313 - Cangiri
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = wool
 capital = "Cangiri"
 is_city = yes
 
-base_tax = 4
-base_production = 9
-base_manpower = 1
+base_tax = 10
+base_production = 1
+base_manpower = 10
 
 
 

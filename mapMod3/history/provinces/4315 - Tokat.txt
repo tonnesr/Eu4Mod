@@ -1,19 +1,19 @@
 # 4315 - Tokat
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = dyes
 capital = "Tokat"
 is_city = yes
 
-base_tax = 8
-base_production = 2
-base_manpower = 10
+base_tax = 7
+base_production = 1
+base_manpower = 1
 
 
 

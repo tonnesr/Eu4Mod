@@ -1,18 +1,18 @@
 # 565 - Bhutan
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = chinaware
 capital = "Bhutan"
 is_city = yes
 
-base_tax = 10
-base_production = 2
+base_tax = 2
+base_production = 3
 base_manpower = 4
 
 

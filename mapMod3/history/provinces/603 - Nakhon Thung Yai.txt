@@ -1,19 +1,19 @@
 # 603 - Nakhon Thung Yai
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = chinaware
 capital = "Nakhon Thung Yai"
 is_city = yes
 
-base_tax = 7
-base_production = 6
-base_manpower = 4
+base_tax = 8
+base_production = 2
+base_manpower = 1
 
 
 

@@ -1,19 +1,19 @@
 # 1937 - Grodno
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = sugar
 capital = "Grodno"
 is_city = yes
 
-base_tax = 4
-base_production = 10
-base_manpower = 7
+base_tax = 7
+base_production = 2
+base_manpower = 2
 
 
 

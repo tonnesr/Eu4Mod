@@ -1,19 +1,19 @@
 # 173 - Labourd
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = glass
 capital = "Labourd"
 is_city = yes
 
-base_tax = 7
-base_production = 2
-base_manpower = 5
+base_tax = 10
+base_production = 5
+base_manpower = 6
 
 
 

@@ -1,19 +1,19 @@
 # 2987 - Urgell
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = fur
 capital = "Urgell"
 is_city = yes
 
-base_tax = 8
-base_production = 8
-base_manpower = 10
+base_tax = 10
+base_production = 3
+base_manpower = 9
 
 
 

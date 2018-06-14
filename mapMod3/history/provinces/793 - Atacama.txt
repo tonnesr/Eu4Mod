@@ -1,17 +1,17 @@
 # 793 - Atacama
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = fish
 capital = "Atacama"
 is_city = yes
 
-base_tax = 2
+base_tax = 3
 base_production = 4
 base_manpower = 5
 

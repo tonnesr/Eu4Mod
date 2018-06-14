@@ -1,19 +1,19 @@
 # 1971 - Tsaritsyn
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = cotton
 capital = "Tsaritsyn"
 is_city = yes
 
-base_tax = 5
-base_production = 9
-base_manpower = 6
+base_tax = 4
+base_production = 5
+base_manpower = 10
 
 
 

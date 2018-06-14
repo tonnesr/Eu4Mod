@@ -1,18 +1,18 @@
 # 2617 - Huichol
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = unknown
 capital = "Huichol"
 is_city = yes
 
-base_tax = 1
-base_production = 3
+base_tax = 6
+base_production = 9
 base_manpower = 7
 
 

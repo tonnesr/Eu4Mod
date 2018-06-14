@@ -1,19 +1,19 @@
 # 694 - Pingyang
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = cotton
 capital = "Pingyang"
 is_city = yes
 
-base_tax = 2
-base_production = 8
-base_manpower = 9
+base_tax = 5
+base_production = 3
+base_manpower = 2
 
 
 

@@ -1,19 +1,19 @@
 # 1150 - Zamfara
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = cloth
 capital = "Zamfara"
 is_city = yes
 
-base_tax = 8
-base_production = 5
-base_manpower = 8
+base_tax = 2
+base_production = 8
+base_manpower = 9
 
 
 

@@ -1,19 +1,19 @@
 # 2196 - Guria
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = fur
 capital = "Guria"
 is_city = yes
 
-base_tax = 4
-base_production = 1
-base_manpower = 5
+base_tax = 1
+base_production = 6
+base_manpower = 2
 
 
 

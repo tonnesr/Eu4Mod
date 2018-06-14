@@ -1,19 +1,19 @@
 # 636 - Brunei
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = fish
 capital = "Brunei"
 is_city = yes
 
-base_tax = 3
-base_production = 2
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 7
 
 
 

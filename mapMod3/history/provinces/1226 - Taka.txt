@@ -1,19 +1,19 @@
 # 1226 - Taka
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = paper
 capital = "Taka"
 is_city = yes
 
-base_tax = 2
-base_production = 9
-base_manpower = 6
+base_tax = 8
+base_production = 4
+base_manpower = 9
 
 
 

@@ -1,18 +1,18 @@
 # 1988 - Rapa Nui
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = copper
 capital = "Rapa Nui"
 is_city = yes
 
-base_tax = 1
-base_production = 8
+base_tax = 8
+base_production = 10
 base_manpower = 1
 
 

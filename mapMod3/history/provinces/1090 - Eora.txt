@@ -1,19 +1,19 @@
 # 1090 - Eora
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = naval_supplies
+trade_goods = tea
 capital = "Eora"
 is_city = yes
 
-base_tax = 9
-base_production = 1
-base_manpower = 2
+base_tax = 3
+base_production = 9
+base_manpower = 3
 
 
 

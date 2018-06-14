@@ -1,19 +1,19 @@
 # 2561 - Wampanoag
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = cotton
 capital = "Wampanoag"
 is_city = yes
 
-base_tax = 8
+base_tax = 5
 base_production = 9
-base_manpower = 4
+base_manpower = 5
 
 
 

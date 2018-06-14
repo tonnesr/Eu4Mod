@@ -1,19 +1,19 @@
 # 816 - Tumbes
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = naval_supplies
 capital = "Tumbes"
 is_city = yes
 
-base_tax = 6
-base_production = 10
-base_manpower = 5
+base_tax = 10
+base_production = 6
+base_manpower = 7
 
 
 

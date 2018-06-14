@@ -1,19 +1,19 @@
 # 2426 - Yamal
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = tobacco
 capital = "Yamal"
 is_city = yes
 
-base_tax = 4
-base_production = 6
-base_manpower = 2
+base_tax = 5
+base_production = 8
+base_manpower = 7
 
 
 

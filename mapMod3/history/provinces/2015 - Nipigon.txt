@@ -1,19 +1,19 @@
 # 2015 - Nipigon
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = silk
 capital = "Nipigon"
 is_city = yes
 
-base_tax = 10
-base_production = 1
-base_manpower = 4
+base_tax = 7
+base_production = 8
+base_manpower = 8
 
 
 

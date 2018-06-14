@@ -1,19 +1,19 @@
 # 2621 - Tizapan
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = silk
 capital = "Tizapan"
 is_city = yes
 
-base_tax = 6
+base_tax = 1
 base_production = 2
-base_manpower = 2
+base_manpower = 5
 
 
 

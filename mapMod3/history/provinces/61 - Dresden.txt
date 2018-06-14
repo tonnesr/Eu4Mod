@@ -1,19 +1,19 @@
 # 61 - Dresden
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = gems
 capital = "Dresden"
 is_city = yes
 
-base_tax = 3
-base_production = 8
-base_manpower = 2
+base_tax = 2
+base_production = 2
+base_manpower = 7
 
 
 

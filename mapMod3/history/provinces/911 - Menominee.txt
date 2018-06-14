@@ -1,19 +1,19 @@
 # 911 - Menominee
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = silk
 capital = "Menominee"
 is_city = yes
 
-base_tax = 8
-base_production = 8
-base_manpower = 3
+base_tax = 7
+base_production = 2
+base_manpower = 7
 
 
 

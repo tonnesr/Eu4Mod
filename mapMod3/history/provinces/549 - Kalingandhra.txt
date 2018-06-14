@@ -1,19 +1,19 @@
 # 549 - Kalingandhra
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = unknown
 capital = "Kalingandhra"
 is_city = yes
 
-base_tax = 5
-base_production = 3
-base_manpower = 2
+base_tax = 9
+base_production = 9
+base_manpower = 4
 
 
 

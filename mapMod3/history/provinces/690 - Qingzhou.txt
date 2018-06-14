@@ -1,19 +1,19 @@
 # 690 - Qingzhou
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = tropical_wood
 capital = "Qingzhou"
 is_city = yes
 
-base_tax = 1
-base_production = 3
-base_manpower = 7
+base_tax = 3
+base_production = 6
+base_manpower = 10
 
 
 

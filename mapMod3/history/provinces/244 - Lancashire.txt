@@ -1,19 +1,19 @@
 # 244 - Lancashire
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = unknown
 capital = "Lancashire"
 is_city = yes
 
-base_tax = 6
+base_tax = 5
 base_production = 7
-base_manpower = 8
+base_manpower = 1
 
 
 

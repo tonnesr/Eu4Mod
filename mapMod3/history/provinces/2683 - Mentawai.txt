@@ -1,19 +1,19 @@
 # 2683 - Mentawai
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = paper
 capital = "Mentawai"
 is_city = yes
 
-base_tax = 6
-base_production = 2
-base_manpower = 7
+base_tax = 4
+base_production = 5
+base_manpower = 1
 
 
 

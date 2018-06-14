@@ -1,18 +1,18 @@
 # 608 - Champassak
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = chinaware
 capital = "Champassak"
 is_city = yes
 
-base_tax = 4
-base_production = 7
+base_tax = 2
+base_production = 6
 base_manpower = 10
 
 

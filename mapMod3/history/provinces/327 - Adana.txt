@@ -1,19 +1,19 @@
 # 327 - Adana
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = chinaware
 capital = "Adana"
 is_city = yes
 
 base_tax = 10
-base_production = 9
-base_manpower = 10
+base_production = 5
+base_manpower = 8
 
 
 

@@ -1,19 +1,19 @@
 # 605 - Prey Nokor
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = paper
+trade_goods = silk
 capital = "Prey Nokor"
 is_city = yes
 
 base_tax = 2
-base_production = 3
-base_manpower = 10
+base_production = 10
+base_manpower = 3
 
 
 

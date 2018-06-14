@@ -1,19 +1,19 @@
 # 1807 - Baffin
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = spices
 capital = "Baffin"
 is_city = yes
 
-base_tax = 9
-base_production = 9
-base_manpower = 3
+base_tax = 4
+base_production = 5
+base_manpower = 7
 
 
 

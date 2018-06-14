@@ -1,19 +1,19 @@
 # 42 - Warmia
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = glass
 capital = "Warmia"
 is_city = yes
 
-base_tax = 7
-base_production = 2
-base_manpower = 5
+base_tax = 9
+base_production = 9
+base_manpower = 8
 
 
 

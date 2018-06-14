@@ -1,19 +1,19 @@
 # 2868 - Pambu
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = fish
 capital = "Pambu"
 is_city = yes
 
-base_tax = 6
+base_tax = 2
 base_production = 5
-base_manpower = 6
+base_manpower = 4
 
 
 

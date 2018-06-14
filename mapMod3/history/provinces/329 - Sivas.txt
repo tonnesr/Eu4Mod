@@ -1,19 +1,19 @@
 # 329 - Sivas
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = chinaware
 capital = "Sivas"
 is_city = yes
 
-base_tax = 2
-base_production = 4
-base_manpower = 2
+base_tax = 9
+base_production = 8
+base_manpower = 3
 
 
 

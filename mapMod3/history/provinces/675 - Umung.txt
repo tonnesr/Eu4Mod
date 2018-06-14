@@ -1,19 +1,19 @@
 # 675 - Umung
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = grain
 capital = "Umung"
 is_city = yes
 
 base_tax = 7
-base_production = 7
-base_manpower = 7
+base_production = 10
+base_manpower = 9
 
 
 

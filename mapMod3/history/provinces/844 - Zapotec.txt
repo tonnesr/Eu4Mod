@@ -1,19 +1,19 @@
 # 844 - Zapotec
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = silk
 capital = "Zapotec"
 is_city = yes
 
-base_tax = 2
-base_production = 8
-base_manpower = 8
+base_tax = 1
+base_production = 6
+base_manpower = 10
 
 
 

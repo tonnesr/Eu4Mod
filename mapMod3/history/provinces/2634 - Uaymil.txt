@@ -1,18 +1,18 @@
 # 2634 - Uaymil
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = tropical_wood
 capital = "Uaymil"
 is_city = yes
 
-base_tax = 7
-base_production = 3
+base_tax = 8
+base_production = 9
 base_manpower = 1
 
 

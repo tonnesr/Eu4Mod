@@ -1,19 +1,19 @@
 # 671 - Changsha
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = iron
 capital = "Changsha"
 is_city = yes
 
 base_tax = 8
-base_production = 4
-base_manpower = 2
+base_production = 1
+base_manpower = 7
 
 
 

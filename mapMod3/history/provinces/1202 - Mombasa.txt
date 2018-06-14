@@ -1,18 +1,18 @@
 # 1202 - Mombasa
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = cloth
 capital = "Mombasa"
 is_city = yes
 
-base_tax = 2
-base_production = 6
+base_tax = 7
+base_production = 4
 base_manpower = 3
 
 

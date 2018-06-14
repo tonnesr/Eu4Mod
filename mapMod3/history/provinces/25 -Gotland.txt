@@ -1,19 +1,19 @@
 # 25 -Gotland
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = cloth
 capital = "Gotland"
 is_city = yes
 
-base_tax = 3
-base_production = 10
-base_manpower = 10
+base_tax = 7
+base_production = 8
+base_manpower = 3
 
 
 

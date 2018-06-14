@@ -1,18 +1,18 @@
 # 4373 - Devon
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fish
+trade_goods = copper
 capital = "Devon"
 is_city = yes
 
-base_tax = 8
-base_production = 8
+base_tax = 1
+base_production = 3
 base_manpower = 1
 
 

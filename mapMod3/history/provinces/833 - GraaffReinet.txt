@@ -1,19 +1,19 @@
 # 833 - GraaffReinet
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = slaves
 capital = "GraaffReinet"
 is_city = yes
 
 base_tax = 3
-base_production = 9
-base_manpower = 4
+base_production = 2
+base_manpower = 5
 
 
 

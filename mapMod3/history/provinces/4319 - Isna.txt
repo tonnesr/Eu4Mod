@@ -1,18 +1,18 @@
 # 4319 - Isna
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cotton
+trade_goods = chinaware
 capital = "Isna"
 is_city = yes
 
 base_tax = 7
-base_production = 5
+base_production = 4
 base_manpower = 5
 
 

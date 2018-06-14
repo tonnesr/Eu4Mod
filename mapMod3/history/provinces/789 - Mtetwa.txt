@@ -1,19 +1,19 @@
 # 789 - Mtetwa
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cotton
+trade_goods = wine
 capital = "Mtetwa"
 is_city = yes
 
-base_tax = 1
-base_production = 2
-base_manpower = 1
+base_tax = 7
+base_production = 9
+base_manpower = 8
 
 
 

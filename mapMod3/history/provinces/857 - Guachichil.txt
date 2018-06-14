@@ -1,19 +1,19 @@
 # 857 - Guachichil
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = salt
 capital = "Guachichil"
 is_city = yes
 
-base_tax = 4
-base_production = 9
-base_manpower = 8
+base_tax = 10
+base_production = 3
+base_manpower = 3
 
 
 

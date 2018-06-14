@@ -1,19 +1,19 @@
 # 1023 - Echizen
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = glass
 capital = "Echizen"
 is_city = yes
 
-base_tax = 6
+base_tax = 3
 base_production = 4
-base_manpower = 6
+base_manpower = 4
 
 
 

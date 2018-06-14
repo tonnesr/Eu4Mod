@@ -1,19 +1,19 @@
 # 249 - Ayrshire
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cloth
+trade_goods = gems
 capital = "Ayrshire"
 is_city = yes
 
-base_tax = 7
-base_production = 10
-base_manpower = 8
+base_tax = 6
+base_production = 4
+base_manpower = 4
 
 
 

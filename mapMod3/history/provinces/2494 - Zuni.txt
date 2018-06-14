@@ -1,19 +1,19 @@
 # 2494 - Zuni
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = fur
 capital = "Zuni"
 is_city = yes
 
-base_tax = 8
-base_production = 10
-base_manpower = 5
+base_tax = 2
+base_production = 7
+base_manpower = 8
 
 
 

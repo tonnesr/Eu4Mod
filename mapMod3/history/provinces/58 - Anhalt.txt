@@ -1,18 +1,18 @@
 # 58 - Anhalt
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = dyes
 capital = "Anhalt"
 is_city = yes
 
-base_tax = 7
-base_production = 10
+base_tax = 10
+base_production = 5
 base_manpower = 3
 
 

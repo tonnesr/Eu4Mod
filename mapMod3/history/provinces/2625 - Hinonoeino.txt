@@ -1,18 +1,18 @@
 # 2625 - Hinonoeino
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = tobacco
 capital = "Hinonoeino"
 is_city = yes
 
-base_tax = 5
-base_production = 2
+base_tax = 1
+base_production = 8
 base_manpower = 10
 
 

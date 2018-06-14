@@ -1,19 +1,19 @@
 # 2013 - Kennebec
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = copper
 capital = "Kennebec"
 is_city = yes
 
-base_tax = 2
-base_production = 10
-base_manpower = 5
+base_tax = 6
+base_production = 9
+base_manpower = 10
 
 
 

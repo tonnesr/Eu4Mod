@@ -1,19 +1,19 @@
 # 1005 - Swampy Cree
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
 trade_goods = spices
 capital = "Swampy Cree"
 is_city = yes
 
-base_tax = 2
-base_production = 4
-base_manpower = 9
+base_tax = 5
+base_production = 8
+base_manpower = 10
 
 
 

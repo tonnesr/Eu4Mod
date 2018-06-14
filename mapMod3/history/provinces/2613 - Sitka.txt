@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = wine
 capital = "Sitka"
 is_city = yes
 
 base_tax = 8
-base_production = 10
-base_manpower = 7
+base_production = 8
+base_manpower = 3
 
 
 

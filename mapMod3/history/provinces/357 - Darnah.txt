@@ -1,19 +1,19 @@
 # 357 - Darnah
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = spices
 capital = "Darnah"
 is_city = yes
 
-base_tax = 3
-base_production = 4
-base_manpower = 3
+base_tax = 2
+base_production = 6
+base_manpower = 8
 
 
 

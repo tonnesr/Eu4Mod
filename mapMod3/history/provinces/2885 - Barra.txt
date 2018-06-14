@@ -1,19 +1,19 @@
 # 2885 - Barra
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = naval_supplies
+trade_goods = iron
 capital = "Barra"
 is_city = yes
 
-base_tax = 3
-base_production = 1
-base_manpower = 8
+base_tax = 7
+base_production = 3
+base_manpower = 4
 
 
 

@@ -1,19 +1,19 @@
 # 855 - Huichol
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = iron
 capital = "Huichol"
 is_city = yes
 
-base_tax = 3
-base_production = 4
-base_manpower = 7
+base_tax = 7
+base_production = 9
+base_manpower = 6
 
 
 

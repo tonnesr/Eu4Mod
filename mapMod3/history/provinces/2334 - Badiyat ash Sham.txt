@@ -1,18 +1,18 @@
 # 2334 - Badiyat ash Sham
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = incense
 capital = "Badiyat ash Sham"
 is_city = yes
 
 base_tax = 1
-base_production = 9
+base_production = 8
 base_manpower = 5
 
 

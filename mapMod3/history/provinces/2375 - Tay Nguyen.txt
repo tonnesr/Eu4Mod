@@ -1,19 +1,19 @@
 # 2375 - Tay Nguyen
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = grain
 capital = "Tay Nguyen"
 is_city = yes
 
-base_tax = 2
-base_production = 4
-base_manpower = 9
+base_tax = 8
+base_production = 8
+base_manpower = 6
 
 
 

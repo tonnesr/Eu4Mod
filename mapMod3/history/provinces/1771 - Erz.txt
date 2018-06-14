@@ -1,18 +1,18 @@
 # 1771 - Erz
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = cloth
 capital = "Erz"
 is_city = yes
 
-base_tax = 10
-base_production = 7
+base_tax = 4
+base_production = 10
 base_manpower = 5
 
 

@@ -1,19 +1,19 @@
 # 1958 - Kargopol
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = tea
 capital = "Kargopol"
 is_city = yes
 
 base_tax = 10
-base_production = 6
-base_manpower = 1
+base_production = 8
+base_manpower = 10
 
 
 

@@ -1,19 +1,19 @@
 # 4223 - Hetao
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = paper
 capital = "Hetao"
 is_city = yes
 
-base_tax = 2
-base_production = 6
-base_manpower = 6
+base_tax = 4
+base_production = 7
+base_manpower = 7
 
 
 

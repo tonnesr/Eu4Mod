@@ -1,19 +1,19 @@
 # 624 - Banten
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = wool
 capital = "Banten"
 is_city = yes
 
-base_tax = 4
-base_production = 2
-base_manpower = 4
+base_tax = 6
+base_production = 7
+base_manpower = 7
 
 
 

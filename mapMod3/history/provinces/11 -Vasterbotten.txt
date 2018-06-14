@@ -1,19 +1,19 @@
 # 11 -Vasterbotten
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = glass
 capital = "Vasterbotten"
 is_city = yes
 
-base_tax = 10
-base_production = 4
-base_manpower = 6
+base_tax = 4
+base_production = 5
+base_manpower = 2
 
 
 

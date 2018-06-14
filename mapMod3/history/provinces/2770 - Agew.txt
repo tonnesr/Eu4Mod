@@ -1,19 +1,19 @@
 # 2770 - Agew
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = livestock
 capital = "Agew"
 is_city = yes
 
-base_tax = 6
-base_production = 4
-base_manpower = 10
+base_tax = 8
+base_production = 9
+base_manpower = 6
 
 
 

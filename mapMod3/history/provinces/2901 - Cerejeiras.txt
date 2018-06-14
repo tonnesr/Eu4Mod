@@ -1,19 +1,19 @@
 # 2901 - Cerejeiras
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = glass
+trade_goods = fish
 capital = "Cerejeiras"
 is_city = yes
 
-base_tax = 2
-base_production = 4
-base_manpower = 5
+base_tax = 7
+base_production = 3
+base_manpower = 8
 
 
 

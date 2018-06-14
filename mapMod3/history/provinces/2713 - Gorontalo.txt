@@ -1,19 +1,19 @@
 # 2713 - Gorontalo
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = wool
 capital = "Gorontalo"
 is_city = yes
 
-base_tax = 10
-base_production = 8
-base_manpower = 10
+base_tax = 3
+base_production = 9
+base_manpower = 9
 
 
 

@@ -1,19 +1,19 @@
 # 4173 - Syrmia
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = paper
 capital = "Syrmia"
 is_city = yes
 
-base_tax = 1
-base_production = 4
-base_manpower = 8
+base_tax = 10
+base_production = 9
+base_manpower = 10
 
 
 

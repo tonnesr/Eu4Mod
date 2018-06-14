@@ -1,19 +1,19 @@
 # 493 - St. Thomas
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = livestock
 capital = "St. Thomas"
 is_city = yes
 
-base_tax = 9
-base_production = 8
-base_manpower = 4
+base_tax = 3
+base_production = 10
+base_manpower = 6
 
 
 

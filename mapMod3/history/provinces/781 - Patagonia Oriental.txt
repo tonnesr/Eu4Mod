@@ -1,19 +1,19 @@
 # 781 - Patagonia Oriental
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = spices
 capital = "Patagonia Oriental"
 is_city = yes
 
-base_tax = 5
+base_tax = 2
 base_production = 4
-base_manpower = 9
+base_manpower = 7
 
 
 

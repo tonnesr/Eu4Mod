@@ -1,19 +1,19 @@
 # 2579 - Piekougami
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = cloth
 capital = "Piekougami"
 is_city = yes
 
-base_tax = 3
-base_production = 9
-base_manpower = 3
+base_tax = 6
+base_production = 7
+base_manpower = 1
 
 
 

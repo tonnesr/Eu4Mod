@@ -1,19 +1,19 @@
 # 2884 - Povos das Missoes
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = incense
 capital = "Povos das Missoes"
 is_city = yes
 
-base_tax = 3
-base_production = 4
-base_manpower = 4
+base_tax = 6
+base_production = 7
+base_manpower = 10
 
 
 

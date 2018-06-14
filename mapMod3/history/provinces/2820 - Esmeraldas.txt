@@ -1,19 +1,19 @@
 # 2820 - Esmeraldas
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = incense
 capital = "Esmeraldas"
 is_city = yes
 
-base_tax = 3
-base_production = 5
-base_manpower = 4
+base_tax = 10
+base_production = 9
+base_manpower = 10
 
 
 

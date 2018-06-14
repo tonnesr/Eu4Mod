@@ -1,19 +1,19 @@
 # 2964 - Altmark
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = sugar
 capital = "Altmark"
 is_city = yes
 
-base_tax = 10
-base_production = 4
-base_manpower = 5
+base_tax = 6
+base_production = 9
+base_manpower = 7
 
 
 

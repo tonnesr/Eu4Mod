@@ -1,19 +1,19 @@
 # 2830 - Quero
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = ivory
 capital = "Quero"
 is_city = yes
 
-base_tax = 6
-base_production = 8
-base_manpower = 3
+base_tax = 4
+base_production = 4
+base_manpower = 6
 
 
 

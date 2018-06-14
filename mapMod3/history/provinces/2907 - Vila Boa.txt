@@ -1,19 +1,19 @@
 # 2907 - Vila Boa
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = copper
 capital = "Vila Boa"
 is_city = yes
 
-base_tax = 7
-base_production = 5
-base_manpower = 10
+base_tax = 1
+base_production = 8
+base_manpower = 4
 
 
 

@@ -1,19 +1,19 @@
 # 867 - Mojave
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = gems
 capital = "Mojave"
 is_city = yes
 
-base_tax = 10
-base_production = 5
-base_manpower = 10
+base_tax = 1
+base_production = 7
+base_manpower = 3
 
 
 

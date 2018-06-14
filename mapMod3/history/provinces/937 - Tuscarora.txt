@@ -1,19 +1,19 @@
 # 937 - Tuscarora
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = incense
 capital = "Tuscarora"
 is_city = yes
 
-base_tax = 4
-base_production = 1
-base_manpower = 5
+base_tax = 6
+base_production = 8
+base_manpower = 7
 
 
 

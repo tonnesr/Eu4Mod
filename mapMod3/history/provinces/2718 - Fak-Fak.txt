@@ -1,19 +1,19 @@
 # 2718 - Fak-Fak
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = sugar
 capital = "Fak-Fak"
 is_city = yes
 
-base_tax = 4
-base_production = 1
-base_manpower = 2
+base_tax = 7
+base_production = 4
+base_manpower = 6
 
 
 

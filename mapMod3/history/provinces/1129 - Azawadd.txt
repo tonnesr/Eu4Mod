@@ -1,18 +1,18 @@
 # 1129 - Azawadd
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = cocoa
 capital = "Azawadd"
 is_city = yes
 
 base_tax = 3
-base_production = 5
+base_production = 7
 base_manpower = 1
 
 

@@ -1,19 +1,19 @@
 # 2811 - Atabapo
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = iron
 capital = "Atabapo"
 is_city = yes
 
-base_tax = 9
-base_production = 8
-base_manpower = 7
+base_tax = 3
+base_production = 4
+base_manpower = 3
 
 
 

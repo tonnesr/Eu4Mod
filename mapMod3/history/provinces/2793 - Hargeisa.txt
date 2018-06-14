@@ -1,19 +1,19 @@
 # 2793 - Hargeisa
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = dyes
 capital = "Hargeisa"
 is_city = yes
 
 base_tax = 6
-base_production = 7
-base_manpower = 5
+base_production = 5
+base_manpower = 2
 
 
 

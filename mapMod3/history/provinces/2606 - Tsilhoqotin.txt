@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = spices
 capital = "Tsilhoqotin"
 is_city = yes
 
-base_tax = 10
-base_production = 9
-base_manpower = 6
+base_tax = 1
+base_production = 3
+base_manpower = 8
 
 
 

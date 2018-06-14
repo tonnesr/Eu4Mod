@@ -1,19 +1,19 @@
 # 324 - Karaman
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cloth
+trade_goods = gems
 capital = "Karaman"
 is_city = yes
 
-base_tax = 7
-base_production = 9
-base_manpower = 3
+base_tax = 10
+base_production = 6
+base_manpower = 8
 
 
 

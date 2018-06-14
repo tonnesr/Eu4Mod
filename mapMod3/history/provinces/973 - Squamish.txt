@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = wool
 capital = "Squamish"
 is_city = yes
 
-base_tax = 3
+base_tax = 8
 base_production = 3
-base_manpower = 6
+base_manpower = 3
 
 
 

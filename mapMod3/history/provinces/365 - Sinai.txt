@@ -1,19 +1,19 @@
 # 365 - Sinai
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = tea
 capital = "Sinai"
 is_city = yes
 
-base_tax = 5
+base_tax = 3
 base_production = 10
-base_manpower = 5
+base_manpower = 8
 
 
 

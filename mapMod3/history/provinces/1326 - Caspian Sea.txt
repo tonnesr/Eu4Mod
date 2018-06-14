@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = naval_supplies
+trade_goods = fur
 capital = "Caspian Sea"
 is_city = yes
 
-base_tax = 9
-base_production = 4
-base_manpower = 1
+base_tax = 2
+base_production = 9
+base_manpower = 4
 
 
 

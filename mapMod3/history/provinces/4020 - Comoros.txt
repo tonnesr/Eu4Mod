@@ -1,19 +1,19 @@
 # 4020 - Comoros
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gold
+trade_goods = copper
 capital = "Comoros"
 is_city = yes
 
-base_tax = 7
-base_production = 5
-base_manpower = 9
+base_tax = 5
+base_production = 9
+base_manpower = 3
 
 
 

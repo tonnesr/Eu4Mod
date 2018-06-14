@@ -1,19 +1,19 @@
 # 750 - Alpercatas
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = tea
 capital = "Alpercatas"
 is_city = yes
 
-base_tax = 2
-base_production = 6
-base_manpower = 2
+base_tax = 7
+base_production = 5
+base_manpower = 10
 
 
 

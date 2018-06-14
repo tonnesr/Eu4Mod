@@ -1,17 +1,17 @@
 # 4058 - Zigua
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = chinaware
 capital = "Zigua"
 is_city = yes
 
-base_tax = 6
+base_tax = 7
 base_production = 8
 base_manpower = 6
 

@@ -1,19 +1,19 @@
 # 616 - Cao Bang
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = ivory
 capital = "Cao Bang"
 is_city = yes
 
-base_tax = 8
-base_production = 8
-base_manpower = 5
+base_tax = 6
+base_production = 3
+base_manpower = 10
 
 
 

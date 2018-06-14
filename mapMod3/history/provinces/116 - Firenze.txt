@@ -1,19 +1,19 @@
 # 116 - Firenze
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cotton
+trade_goods = gems
 capital = "Firenze"
 is_city = yes
 
-base_tax = 2
-base_production = 6
-base_manpower = 6
+base_tax = 10
+base_production = 10
+base_manpower = 3
 
 
 

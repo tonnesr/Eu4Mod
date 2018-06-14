@@ -1,19 +1,19 @@
 # 2544 - Yadkin
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fish
+trade_goods = copper
 capital = "Yadkin"
 is_city = yes
 
-base_tax = 4
-base_production = 7
-base_manpower = 6
+base_tax = 1
+base_production = 9
+base_manpower = 5
 
 
 

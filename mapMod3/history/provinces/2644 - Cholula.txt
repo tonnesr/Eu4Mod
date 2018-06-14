@@ -1,19 +1,19 @@
 # 2644 - Cholula
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = glass
 capital = "Cholula"
 is_city = yes
 
-base_tax = 7
-base_production = 5
-base_manpower = 2
+base_tax = 9
+base_production = 4
+base_manpower = 1
 
 
 

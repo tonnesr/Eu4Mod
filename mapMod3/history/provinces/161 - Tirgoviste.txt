@@ -1,19 +1,19 @@
 # 161 - Tirgoviste
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = incense
 capital = "Tirgoviste"
 is_city = yes
 
-base_tax = 1
-base_production = 8
-base_manpower = 3
+base_tax = 6
+base_production = 3
+base_manpower = 7
 
 
 

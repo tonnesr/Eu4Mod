@@ -1,19 +1,19 @@
 # 1171 - Ndongo
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = naval_supplies
 capital = "Ndongo"
 is_city = yes
 
-base_tax = 4
-base_production = 7
-base_manpower = 2
+base_tax = 2
+base_production = 9
+base_manpower = 8
 
 
 

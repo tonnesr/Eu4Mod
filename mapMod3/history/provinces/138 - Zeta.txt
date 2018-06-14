@@ -1,19 +1,19 @@
 # 138 - Zeta
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = cocoa
 capital = "Zeta"
 is_city = yes
 
 base_tax = 8
-base_production = 6
-base_manpower = 4
+base_production = 5
+base_manpower = 5
 
 
 

@@ -1,19 +1,19 @@
 # 4035 - Ngindo
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = slaves
 capital = "Ngindo"
 is_city = yes
 
-base_tax = 6
-base_production = 9
-base_manpower = 2
+base_tax = 5
+base_production = 7
+base_manpower = 3
 
 
 

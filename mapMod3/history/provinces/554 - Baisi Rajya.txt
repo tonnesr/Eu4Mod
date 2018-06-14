@@ -1,19 +1,19 @@
 # 554 - Baisi Rajya
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = fur
 capital = "Baisi Rajya"
 is_city = yes
 
-base_tax = 3
-base_production = 10
-base_manpower = 3
+base_tax = 1
+base_production = 9
+base_manpower = 10
 
 
 

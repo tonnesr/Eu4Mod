@@ -1,19 +1,19 @@
 # 1815 - Pathein
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = gems
 capital = "Pathein"
 is_city = yes
 
-base_tax = 6
-base_production = 5
-base_manpower = 5
+base_tax = 8
+base_production = 1
+base_manpower = 10
 
 
 

@@ -1,19 +1,19 @@
 # 2200 - Suleiman Range
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = grain
 capital = "Suleiman Range"
 is_city = yes
 
-base_tax = 7
-base_production = 5
-base_manpower = 7
+base_tax = 2
+base_production = 3
+base_manpower = 10
 
 
 

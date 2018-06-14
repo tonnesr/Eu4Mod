@@ -1,19 +1,19 @@
 # 1106 - Whangarei
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = fur
 capital = "Whangarei"
 is_city = yes
 
-base_tax = 1
-base_production = 4
-base_manpower = 4
+base_tax = 6
+base_production = 9
+base_manpower = 5
 
 
 

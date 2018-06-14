@@ -1,19 +1,19 @@
 # 700 - Xi'an
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = sugar
 capital = "Xi'an"
 is_city = yes
 
-base_tax = 8
-base_production = 8
-base_manpower = 9
+base_tax = 7
+base_production = 10
+base_manpower = 4
 
 
 

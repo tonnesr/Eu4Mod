@@ -1,19 +1,19 @@
 # 2762 - Damot
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = tobacco
 capital = "Damot"
 is_city = yes
 
-base_tax = 5
-base_production = 2
-base_manpower = 4
+base_tax = 6
+base_production = 4
+base_manpower = 10
 
 
 

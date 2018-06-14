@@ -1,19 +1,19 @@
 # 7 - Skaraborg
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = gems
 capital = "Skaraborg"
 is_city = yes
 
-base_tax = 1
-base_production = 7
-base_manpower = 3
+base_tax = 7
+base_production = 4
+base_manpower = 10
 
 
 

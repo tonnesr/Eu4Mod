@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = grain
 capital = "Chickasaw"
 is_city = yes
 
 base_tax = 4
 base_production = 6
-base_manpower = 7
+base_manpower = 1
 
 
 

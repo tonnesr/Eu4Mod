@@ -1,19 +1,19 @@
 # 1758 - Hannover
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = gold
 capital = "Hannover"
 is_city = yes
 
-base_tax = 2
-base_production = 3
-base_manpower = 2
+base_tax = 1
+base_production = 9
+base_manpower = 3
 
 
 

@@ -1,19 +1,19 @@
 # 795 - Potosi
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = incense
 capital = "Potosi"
 is_city = yes
 
 base_tax = 1
-base_production = 1
-base_manpower = 9
+base_production = 7
+base_manpower = 6
 
 
 

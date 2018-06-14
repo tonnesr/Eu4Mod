@@ -1,19 +1,19 @@
 # 1984 -Nordjylland
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = paper
 capital = "Nordjylland"
 is_city = yes
 
-base_tax = 1
-base_production = 7
-base_manpower = 6
+base_tax = 2
+base_production = 10
+base_manpower = 5
 
 
 

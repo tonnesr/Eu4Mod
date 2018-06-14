@@ -1,18 +1,18 @@
 # 2687 - Pakuan
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = salt
 capital = "Pakuan"
 is_city = yes
 
-base_tax = 5
-base_production = 1
+base_tax = 2
+base_production = 7
 base_manpower = 6
 
 

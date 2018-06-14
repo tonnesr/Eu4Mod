@@ -1,19 +1,19 @@
 # 2273 - Ader
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = slaves
 capital = "Ader"
 is_city = yes
 
-base_tax = 9
-base_production = 8
-base_manpower = 4
+base_tax = 4
+base_production = 9
+base_manpower = 9
 
 
 

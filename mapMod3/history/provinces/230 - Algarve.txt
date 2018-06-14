@@ -1,19 +1,19 @@
 # 230 - Algarve
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = silk
 capital = "Algarve"
 is_city = yes
 
-base_tax = 1
-base_production = 3
-base_manpower = 7
+base_tax = 8
+base_production = 8
+base_manpower = 8
 
 
 

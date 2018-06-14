@@ -1,19 +1,19 @@
 # 2661 - Uluas
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = wine
 capital = "Uluas"
 is_city = yes
 
-base_tax = 8
-base_production = 4
-base_manpower = 9
+base_tax = 6
+base_production = 8
+base_manpower = 7
 
 
 

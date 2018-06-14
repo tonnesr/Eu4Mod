@@ -1,19 +1,19 @@
 # 4153 - The Skands
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = spices
 capital = "The Skands"
 is_city = yes
 
-base_tax = 2
-base_production = 5
-base_manpower = 10
+base_tax = 1
+base_production = 6
+base_manpower = 6
 
 
 

@@ -1,18 +1,18 @@
 # 2714 - Palu
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = livestock
 capital = "Palu"
 is_city = yes
 
-base_tax = 6
-base_production = 4
+base_tax = 4
+base_production = 10
 base_manpower = 9
 
 

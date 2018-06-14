@@ -1,19 +1,19 @@
 # 499 - St. Lucia
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = tobacco
 capital = "St. Lucia"
 is_city = yes
 
 base_tax = 3
-base_production = 3
-base_manpower = 3
+base_production = 1
+base_manpower = 7
 
 
 

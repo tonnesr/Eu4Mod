@@ -1,19 +1,19 @@
 # 96 - Zeeland
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cloth
+trade_goods = gold
 capital = "Zeeland"
 is_city = yes
 
-base_tax = 1
-base_production = 1
-base_manpower = 4
+base_tax = 4
+base_production = 8
+base_manpower = 6
 
 
 

@@ -1,19 +1,19 @@
 # 2297 - Saruhan
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cloth
+trade_goods = salt
 capital = "Saruhan"
 is_city = yes
 
-base_tax = 1
+base_tax = 2
 base_production = 3
-base_manpower = 3
+base_manpower = 1
 
 
 

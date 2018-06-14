@@ -1,19 +1,19 @@
 # 2739 - Kirikiriroa
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fish
+trade_goods = copper
 capital = "Kirikiriroa"
 is_city = yes
 
-base_tax = 4
-base_production = 1
-base_manpower = 8
+base_tax = 1
+base_production = 3
+base_manpower = 1
 
 
 

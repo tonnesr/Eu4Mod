@@ -1,19 +1,19 @@
 # 218 - Badajoz
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = fur
 capital = "Badajoz"
 is_city = yes
 
-base_tax = 4
-base_production = 7
-base_manpower = 2
+base_tax = 9
+base_production = 9
+base_manpower = 5
 
 
 

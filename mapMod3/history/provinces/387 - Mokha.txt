@@ -1,19 +1,19 @@
 # 387 - Mokha
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = naval_supplies
 capital = "Mokha"
 is_city = yes
 
-base_tax = 3
-base_production = 10
-base_manpower = 3
+base_tax = 4
+base_production = 2
+base_manpower = 6
 
 
 

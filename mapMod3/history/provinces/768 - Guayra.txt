@@ -1,19 +1,19 @@
 # 768 - Guayra
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = unknown
 capital = "Guayra"
 is_city = yes
 
 base_tax = 1
-base_production = 8
-base_manpower = 9
+base_production = 7
+base_manpower = 1
 
 
 

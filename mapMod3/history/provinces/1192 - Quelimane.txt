@@ -1,19 +1,19 @@
 # 1192 - Quelimane
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = sugar
 capital = "Quelimane"
 is_city = yes
 
 base_tax = 3
-base_production = 2
-base_manpower = 3
+base_production = 9
+base_manpower = 4
 
 
 

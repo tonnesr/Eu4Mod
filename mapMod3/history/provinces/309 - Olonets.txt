@@ -1,19 +1,19 @@
 # 309 - Olonets
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = grain
 capital = "Olonets"
 is_city = yes
 
-base_tax = 9
-base_production = 3
-base_manpower = 2
+base_tax = 8
+base_production = 1
+base_manpower = 3
 
 
 

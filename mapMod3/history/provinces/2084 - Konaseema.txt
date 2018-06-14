@@ -1,19 +1,19 @@
 # 2084 - Konaseema
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = paper
 capital = "Konaseema"
 is_city = yes
 
-base_tax = 10
-base_production = 8
-base_manpower = 9
+base_tax = 4
+base_production = 7
+base_manpower = 5
 
 
 

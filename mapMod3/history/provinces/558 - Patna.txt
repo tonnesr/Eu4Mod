@@ -1,19 +1,19 @@
 # 558 - Patna
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = sugar
 capital = "Patna"
 is_city = yes
 
-base_tax = 10
-base_production = 6
-base_manpower = 10
+base_tax = 3
+base_production = 3
+base_manpower = 8
 
 
 

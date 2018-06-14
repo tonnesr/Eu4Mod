@@ -1,19 +1,19 @@
 # 1239 - Vanuatu
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = fish
 capital = "Vanuatu"
 is_city = yes
 
-base_tax = 1
-base_production = 5
-base_manpower = 10
+base_tax = 4
+base_production = 8
+base_manpower = 6
 
 
 

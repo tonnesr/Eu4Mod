@@ -1,18 +1,18 @@
 # 2404 - Mergui
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = gems
 capital = "Mergui"
 is_city = yes
 
-base_tax = 3
-base_production = 9
+base_tax = 5
+base_production = 5
 base_manpower = 5
 
 

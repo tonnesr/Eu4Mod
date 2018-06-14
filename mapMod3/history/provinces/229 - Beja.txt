@@ -1,19 +1,19 @@
 # 229 - Beja
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = chinaware
+trade_goods = slaves
 capital = "Beja"
 is_city = yes
 
-base_tax = 7
-base_production = 6
-base_manpower = 10
+base_tax = 9
+base_production = 5
+base_manpower = 3
 
 
 

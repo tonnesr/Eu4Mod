@@ -1,18 +1,18 @@
 # 2047 - Tirhut
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = unknown
 capital = "Tirhut"
 is_city = yes
 
-base_tax = 1
-base_production = 6
+base_tax = 4
+base_production = 10
 base_manpower = 10
 
 

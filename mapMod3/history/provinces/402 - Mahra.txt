@@ -1,19 +1,19 @@
 # 402 - Mahra
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = glass
+trade_goods = cocoa
 capital = "Mahra"
 is_city = yes
 
-base_tax = 9
-base_production = 9
-base_manpower = 9
+base_tax = 8
+base_production = 7
+base_manpower = 7
 
 
 

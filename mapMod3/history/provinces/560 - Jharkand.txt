@@ -1,19 +1,19 @@
 # 560 - Jharkand
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = cocoa
 capital = "Jharkand"
 is_city = yes
 
-base_tax = 5
+base_tax = 2
 base_production = 10
-base_manpower = 1
+base_manpower = 6
 
 
 

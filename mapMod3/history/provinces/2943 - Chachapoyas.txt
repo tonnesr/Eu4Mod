@@ -1,19 +1,19 @@
 # 2943 - Chachapoyas
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fish
+trade_goods = cocoa
 capital = "Chachapoyas"
 is_city = yes
 
-base_tax = 4
-base_production = 6
-base_manpower = 10
+base_tax = 7
+base_production = 9
+base_manpower = 7
 
 
 

@@ -1,18 +1,18 @@
 # 582 - Mong Yang
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = salt
 capital = "Mong Yang"
 is_city = yes
 
-base_tax = 6
-base_production = 4
+base_tax = 2
+base_production = 7
 base_manpower = 3
 
 

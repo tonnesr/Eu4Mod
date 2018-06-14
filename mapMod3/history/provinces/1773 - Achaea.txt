@@ -1,19 +1,19 @@
 # 1773 - Achaea
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = sugar
 capital = "Achaea"
 is_city = yes
 
-base_tax = 3
-base_production = 6
-base_manpower = 7
+base_tax = 2
+base_production = 7
+base_manpower = 3
 
 
 

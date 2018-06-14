@@ -1,19 +1,19 @@
 # 4165 - Goinge
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = paper
+trade_goods = spices
 capital = "Goinge"
 is_city = yes
 
-base_tax = 2
-base_production = 1
-base_manpower = 10
+base_tax = 5
+base_production = 3
+base_manpower = 2
 
 
 

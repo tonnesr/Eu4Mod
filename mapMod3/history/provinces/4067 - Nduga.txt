@@ -1,19 +1,19 @@
 # 4067 - Nduga
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = gold
 capital = "Nduga"
 is_city = yes
 
-base_tax = 2
+base_tax = 7
 base_production = 4
-base_manpower = 8
+base_manpower = 10
 
 
 

@@ -1,19 +1,19 @@
 # 2526 - Shatteras
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = chinaware
 capital = "Shatteras"
 is_city = yes
 
 base_tax = 4
-base_production = 3
-base_manpower = 7
+base_production = 8
+base_manpower = 9
 
 
 

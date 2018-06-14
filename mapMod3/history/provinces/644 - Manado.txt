@@ -1,19 +1,19 @@
 # 644 - Manado
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = iron
 capital = "Manado"
 is_city = yes
 
-base_tax = 4
+base_tax = 1
 base_production = 9
-base_manpower = 7
+base_manpower = 10
 
 
 

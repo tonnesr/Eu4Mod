@@ -1,19 +1,19 @@
 # 159 - Silistria
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = spices
 capital = "Silistria"
 is_city = yes
 
-base_tax = 4
-base_production = 10
-base_manpower = 4
+base_tax = 7
+base_production = 5
+base_manpower = 1
 
 
 

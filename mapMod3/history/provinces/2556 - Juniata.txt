@@ -1,18 +1,18 @@
 # 2556 - Juniata
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = slaves
 capital = "Juniata"
 is_city = yes
 
-base_tax = 2
-base_production = 2
+base_tax = 4
+base_production = 1
 base_manpower = 10
 
 

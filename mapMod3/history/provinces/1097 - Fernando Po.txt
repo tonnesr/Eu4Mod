@@ -1,31 +1,33 @@
-#1097 - Fernando Po
+# 1097 - Fernando Po
 
-culture = yorumba
-religion = shamanism #Fetishism
-capital = "Fernando Po"
-trade_goods = unknown
+add_core = ETH
+owner = ETH
+controller = ETH
+
+culture = amhara
+religion = coptic
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 1
-native_size = 5
-native_ferocity = 2
-native_hostileness = 7
+trade_goods = unknown
+capital = "Fernando Po"
+is_city = yes
 
-1472.1.1 = {
-	discovered_by = POR
-	owner = POR
-	controller = POR
-	add_core = POR
-	culture = portugese
-	religion = catholic
-	is_city = yes
-	trade_goods = slaves
-} # Fernão do Pó
-1778.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = POR
-	culture = castillian
-} # Ceded to Spain, Treaty of El Pardo
+base_tax = 4
+base_production = 9
+base_manpower = 7
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = west_african
+discovered_by = central_african
+discovered_by = north_american
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = andean

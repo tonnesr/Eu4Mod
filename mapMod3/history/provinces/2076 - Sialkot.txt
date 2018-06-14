@@ -1,19 +1,19 @@
 # 2076 - Sialkot
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = tea
 capital = "Sialkot"
 is_city = yes
 
-base_tax = 2
-base_production = 10
-base_manpower = 2
+base_tax = 8
+base_production = 5
+base_manpower = 9
 
 
 

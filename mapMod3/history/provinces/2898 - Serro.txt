@@ -1,19 +1,19 @@
 # 2898 - Serro
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = chinaware
 capital = "Serro"
 is_city = yes
 
-base_tax = 6
-base_production = 5
-base_manpower = 9
+base_tax = 2
+base_production = 2
+base_manpower = 10
 
 
 

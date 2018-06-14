@@ -1,19 +1,19 @@
 # 742 - Guayana
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = slaves
+trade_goods = iron
 capital = "Guayana"
 is_city = yes
 
 base_tax = 4
-base_production = 4
-base_manpower = 5
+base_production = 9
+base_manpower = 7
 
 
 

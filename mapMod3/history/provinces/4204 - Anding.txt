@@ -1,18 +1,18 @@
 # 4204 - Anding
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = silk
 capital = "Anding"
 is_city = yes
 
-base_tax = 4
-base_production = 1
+base_tax = 10
+base_production = 5
 base_manpower = 1
 
 

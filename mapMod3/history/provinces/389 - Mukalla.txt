@@ -1,19 +1,19 @@
 # 389 - Mukalla
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = sugar
 capital = "Mukalla"
 is_city = yes
 
 base_tax = 9
-base_production = 5
-base_manpower = 3
+base_production = 2
+base_manpower = 9
 
 
 

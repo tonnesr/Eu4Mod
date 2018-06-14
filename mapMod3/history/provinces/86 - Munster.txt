@@ -1,19 +1,19 @@
 # 86 - Munster
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = copper
 capital = "Munster"
 is_city = yes
 
-base_tax = 4
-base_production = 8
-base_manpower = 10
+base_tax = 3
+base_production = 3
+base_manpower = 9
 
 
 

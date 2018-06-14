@@ -1,19 +1,19 @@
 # 987 - Niagara
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = fur
 capital = "Niagara"
 is_city = yes
 
-base_tax = 3
-base_production = 9
-base_manpower = 1
+base_tax = 10
+base_production = 1
+base_manpower = 4
 
 
 

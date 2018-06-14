@@ -1,19 +1,19 @@
 # 2391 -  Thalang
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = wine
 capital = " Thalang"
 is_city = yes
 
-base_tax = 10
-base_production = 5
-base_manpower = 9
+base_tax = 8
+base_production = 10
+base_manpower = 7
 
 
 

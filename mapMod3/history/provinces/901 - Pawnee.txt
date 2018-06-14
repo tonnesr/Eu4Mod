@@ -1,19 +1,19 @@
 # 901 - Pawnee
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = dyes
 capital = "Pawnee"
 is_city = yes
 
-base_tax = 8
-base_production = 10
-base_manpower = 8
+base_tax = 7
+base_production = 9
+base_manpower = 4
 
 
 

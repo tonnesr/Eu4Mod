@@ -1,19 +1,19 @@
 # 1749 - Cadiz
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = paper
+trade_goods = silk
 capital = "Cadiz"
 is_city = yes
 
-base_tax = 6
-base_production = 1
-base_manpower = 2
+base_tax = 9
+base_production = 4
+base_manpower = 8
 
 
 

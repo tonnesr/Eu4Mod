@@ -1,19 +1,19 @@
 # 831 - Caracas
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = tropical_wood
 capital = "Caracas"
 is_city = yes
 
-base_tax = 7
-base_production = 9
-base_manpower = 2
+base_tax = 5
+base_production = 6
+base_manpower = 1
 
 
 

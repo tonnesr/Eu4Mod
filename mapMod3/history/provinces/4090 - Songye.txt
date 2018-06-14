@@ -1,19 +1,19 @@
 # 4090 - Songye
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = fur
 capital = "Songye"
 is_city = yes
 
-base_tax = 6
-base_production = 8
-base_manpower = 1
+base_tax = 3
+base_production = 1
+base_manpower = 6
 
 
 

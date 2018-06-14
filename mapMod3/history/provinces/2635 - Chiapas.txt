@@ -1,17 +1,17 @@
 # 2635 - Chiapas
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = glass
 capital = "Chiapas"
 is_city = yes
 
-base_tax = 5
+base_tax = 1
 base_production = 1
 base_manpower = 6
 

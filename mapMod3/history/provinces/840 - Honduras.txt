@@ -1,19 +1,19 @@
 # 840 - Honduras
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = tobacco
 capital = "Honduras"
 is_city = yes
 
-base_tax = 6
-base_production = 7
-base_manpower = 4
+base_tax = 8
+base_production = 2
+base_manpower = 7
 
 
 

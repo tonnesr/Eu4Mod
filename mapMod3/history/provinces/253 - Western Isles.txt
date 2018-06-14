@@ -1,19 +1,19 @@
 # 253 - Western Isles
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = spices
 capital = "Western Isles"
 is_city = yes
 
-base_tax = 6
-base_production = 5
-base_manpower = 9
+base_tax = 4
+base_production = 6
+base_manpower = 8
 
 
 

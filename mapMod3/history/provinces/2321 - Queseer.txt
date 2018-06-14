@@ -1,19 +1,19 @@
 # 2321 - Queseer
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = tobacco
 capital = "Queseer"
 is_city = yes
 
-base_tax = 8
-base_production = 9
-base_manpower = 8
+base_tax = 7
+base_production = 10
+base_manpower = 9
 
 
 

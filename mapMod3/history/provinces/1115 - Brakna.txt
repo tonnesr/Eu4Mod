@@ -1,19 +1,19 @@
 # 1115 - Brakna
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = copper
 capital = "Brakna"
 is_city = yes
 
-base_tax = 6
-base_production = 8
-base_manpower = 1
+base_tax = 1
+base_production = 4
+base_manpower = 2
 
 
 

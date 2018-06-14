@@ -1,19 +1,19 @@
 # 1137 - Wagadugi
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = silk
 capital = "Wagadugi"
 is_city = yes
 
-base_tax = 2
-base_production = 1
-base_manpower = 10
+base_tax = 4
+base_production = 4
+base_manpower = 3
 
 
 

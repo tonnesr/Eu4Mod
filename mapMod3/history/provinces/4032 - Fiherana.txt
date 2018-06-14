@@ -1,19 +1,19 @@
 # 4032 - Fiherana
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = chinaware
 capital = "Fiherana"
 is_city = yes
 
-base_tax = 9
-base_production = 7
-base_manpower = 4
+base_tax = 8
+base_production = 9
+base_manpower = 3
 
 
 

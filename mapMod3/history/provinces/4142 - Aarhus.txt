@@ -1,19 +1,19 @@
 # 4142 - Aarhus
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = spices
 capital = "Aarhus"
 is_city = yes
 
-base_tax = 9
-base_production = 4
-base_manpower = 9
+base_tax = 1
+base_production = 1
+base_manpower = 4
 
 
 

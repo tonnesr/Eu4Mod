@@ -1,18 +1,18 @@
 # 2100 - Vanni
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = iron
 capital = "Vanni"
 is_city = yes
 
 base_tax = 8
-base_production = 5
+base_production = 3
 base_manpower = 8
 
 

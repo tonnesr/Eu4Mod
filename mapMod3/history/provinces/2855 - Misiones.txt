@@ -1,19 +1,19 @@
 # 2855 - Misiones
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = cocoa
 capital = "Misiones"
 is_city = yes
 
-base_tax = 6
-base_production = 2
-base_manpower = 6
+base_tax = 1
+base_production = 8
+base_manpower = 1
 
 
 

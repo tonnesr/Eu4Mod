@@ -1,19 +1,19 @@
 # 2674 - Peureulak
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
 trade_goods = fur
 capital = "Peureulak"
 is_city = yes
 
-base_tax = 9
-base_production = 5
-base_manpower = 4
+base_tax = 8
+base_production = 8
+base_manpower = 5
 
 
 

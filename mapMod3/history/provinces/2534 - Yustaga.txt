@@ -1,19 +1,19 @@
 # 2534 - Yustaga
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = livestock
 capital = "Yustaga"
 is_city = yes
 
 base_tax = 4
-base_production = 1
-base_manpower = 6
+base_production = 6
+base_manpower = 7
 
 
 

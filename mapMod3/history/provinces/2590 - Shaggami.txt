@@ -1,19 +1,19 @@
 # 2590 - Shaggami
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = spices
 capital = "Shaggami"
 is_city = yes
 
-base_tax = 8
-base_production = 2
-base_manpower = 9
+base_tax = 10
+base_production = 8
+base_manpower = 2
 
 
 

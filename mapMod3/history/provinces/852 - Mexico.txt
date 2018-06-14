@@ -1,19 +1,19 @@
 # 852 - Mexico
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = coal
 capital = "Mexico"
 is_city = yes
 
-base_tax = 2
-base_production = 3
-base_manpower = 4
+base_tax = 6
+base_production = 8
+base_manpower = 7
 
 
 

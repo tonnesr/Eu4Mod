@@ -1,19 +1,19 @@
 # 4160 - The Alps3
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = naval_supplies
+trade_goods = iron
 capital = "The Alps"
 is_city = yes
 
-base_tax = 6
-base_production = 4
-base_manpower = 5
+base_tax = 9
+base_production = 5
+base_manpower = 2
 
 
 

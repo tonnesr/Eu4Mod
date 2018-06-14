@@ -1,19 +1,19 @@
 # 1140 - Abomey
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = salt
 capital = "Abomey"
 is_city = yes
 
-base_tax = 2
-base_production = 7
-base_manpower = 8
+base_tax = 10
+base_production = 8
+base_manpower = 9
 
 
 

@@ -1,19 +1,19 @@
 # 2896 - Campinas
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = coal
 capital = "Campinas"
 is_city = yes
 
-base_tax = 8
-base_production = 7
-base_manpower = 3
+base_tax = 10
+base_production = 3
+base_manpower = 10
 
 
 

@@ -1,19 +1,19 @@
 # 146 - Athens
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = iron
 capital = "Athens"
 is_city = yes
 
 base_tax = 2
-base_production = 9
-base_manpower = 5
+base_production = 10
+base_manpower = 10
 
 
 

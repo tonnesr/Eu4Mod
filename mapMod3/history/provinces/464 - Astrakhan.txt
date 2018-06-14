@@ -1,19 +1,19 @@
 # 464 - Astrakhan
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = slaves
 capital = "Astrakhan"
 is_city = yes
 
 base_tax = 3
-base_production = 7
-base_manpower = 2
+base_production = 9
+base_manpower = 6
 
 
 

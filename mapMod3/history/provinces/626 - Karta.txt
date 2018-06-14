@@ -1,19 +1,19 @@
 # 626 - Karta
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = wool
 capital = "Karta"
 is_city = yes
 
-base_tax = 6
-base_production = 4
-base_manpower = 7
+base_tax = 1
+base_production = 6
+base_manpower = 6
 
 
 

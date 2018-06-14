@@ -1,19 +1,19 @@
 # 2127 - Yashilkul
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = livestock
 capital = "Yashilkul"
 is_city = yes
 
-base_tax = 3
-base_production = 4
-base_manpower = 7
+base_tax = 8
+base_production = 9
+base_manpower = 4
 
 
 

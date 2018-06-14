@@ -1,19 +1,19 @@
 # 4371 - Sussex
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = fish
 capital = "Sussex"
 is_city = yes
 
-base_tax = 6
-base_production = 4
-base_manpower = 7
+base_tax = 5
+base_production = 7
+base_manpower = 3
 
 
 

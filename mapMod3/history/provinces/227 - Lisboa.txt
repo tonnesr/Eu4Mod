@@ -1,19 +1,19 @@
 # 227 - Lisboa
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = coffee
 capital = "Lisboa"
 is_city = yes
 
-base_tax = 6
-base_production = 5
-base_manpower = 10
+base_tax = 10
+base_production = 2
+base_manpower = 9
 
 
 

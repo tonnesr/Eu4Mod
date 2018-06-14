@@ -1,19 +1,19 @@
 # 940 - Kentucky
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cloth
+trade_goods = salt
 capital = "Kentucky"
 is_city = yes
 
-base_tax = 8
-base_production = 8
-base_manpower = 1
+base_tax = 9
+base_production = 9
+base_manpower = 9
 
 
 

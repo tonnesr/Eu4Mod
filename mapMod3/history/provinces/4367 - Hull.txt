@@ -1,19 +1,19 @@
 # 4367 - Hull
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = paper
+trade_goods = livestock
 capital = "Hull"
 is_city = yes
 
 base_tax = 3
-base_production = 7
-base_manpower = 7
+base_production = 1
+base_manpower = 10
 
 
 

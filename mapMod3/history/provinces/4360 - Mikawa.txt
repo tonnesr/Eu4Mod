@@ -1,19 +1,19 @@
 # 4360 - Mikawa
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = fish
 capital = "Mikawa"
 is_city = yes
 
-base_tax = 8
-base_production = 5
-base_manpower = 3
+base_tax = 5
+base_production = 7
+base_manpower = 5
 
 
 

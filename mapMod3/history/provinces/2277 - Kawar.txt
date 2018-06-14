@@ -1,19 +1,19 @@
 # 2277 - Kawar
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = tobacco
 capital = "Kawar"
 is_city = yes
 
-base_tax = 10
-base_production = 9
-base_manpower = 8
+base_tax = 3
+base_production = 10
+base_manpower = 3
 
 
 

@@ -1,19 +1,19 @@
 # 1092 - Bundjalung
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cotton
+trade_goods = fur
 capital = "Bundjalung"
 is_city = yes
 
-base_tax = 8
-base_production = 8
-base_manpower = 6
+base_tax = 10
+base_production = 9
+base_manpower = 3
 
 
 

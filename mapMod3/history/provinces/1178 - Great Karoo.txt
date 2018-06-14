@@ -1,19 +1,19 @@
 # 1178 - Great Karoo
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = cotton
 capital = "Great Karoo"
 is_city = yes
 
 base_tax = 9
-base_production = 3
-base_manpower = 8
+base_production = 8
+base_manpower = 9
 
 
 

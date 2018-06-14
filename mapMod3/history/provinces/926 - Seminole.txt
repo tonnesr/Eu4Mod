@@ -1,19 +1,19 @@
 # 926 - Seminole
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fish
+trade_goods = livestock
 capital = "Seminole"
 is_city = yes
 
-base_tax = 7
-base_production = 4
-base_manpower = 10
+base_tax = 5
+base_production = 5
+base_manpower = 4
 
 
 

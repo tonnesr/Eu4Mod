@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = incense
 capital = "Siksikawa"
 is_city = yes
 
-base_tax = 5
-base_production = 2
-base_manpower = 8
+base_tax = 10
+base_production = 7
+base_manpower = 2
 
 
 

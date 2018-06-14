@@ -1,19 +1,19 @@
 # 1026 - Rikuzen
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = fish
 capital = "Rikuzen"
 is_city = yes
 
-base_tax = 6
-base_production = 7
-base_manpower = 8
+base_tax = 1
+base_production = 4
+base_manpower = 1
 
 
 

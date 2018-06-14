@@ -1,19 +1,19 @@
 # 2409 - Bahmut
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = wool
 capital = "Bahmut"
 is_city = yes
 
-base_tax = 3
-base_production = 9
-base_manpower = 8
+base_tax = 2
+base_production = 6
+base_manpower = 4
 
 
 

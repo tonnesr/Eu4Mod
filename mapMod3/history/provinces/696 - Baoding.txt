@@ -1,19 +1,19 @@
 # 696 - Baoding
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = paper
 capital = "Baoding"
 is_city = yes
 
-base_tax = 9
-base_production = 10
-base_manpower = 7
+base_tax = 3
+base_production = 4
+base_manpower = 2
 
 
 

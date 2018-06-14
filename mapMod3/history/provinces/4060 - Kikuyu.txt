@@ -1,19 +1,19 @@
 # 4060 - Kikuyu
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = grain
 capital = "Kikuyu"
 is_city = yes
 
-base_tax = 5
+base_tax = 8
 base_production = 9
-base_manpower = 6
+base_manpower = 2
 
 
 

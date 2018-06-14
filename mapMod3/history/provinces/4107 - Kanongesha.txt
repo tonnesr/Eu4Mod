@@ -1,19 +1,19 @@
 # 4107 - Kanongesha
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = naval_supplies
 capital = "Kanongesha"
 is_city = yes
 
 base_tax = 7
-base_production = 5
-base_manpower = 4
+base_production = 1
+base_manpower = 10
 
 
 

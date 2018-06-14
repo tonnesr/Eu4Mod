@@ -1,19 +1,19 @@
 # 1823 - Stung Treng
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = unknown
 capital = "Stung Treng"
 is_city = yes
 
-base_tax = 1
+base_tax = 5
 base_production = 6
-base_manpower = 6
+base_manpower = 9
 
 
 

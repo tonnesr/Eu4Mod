@@ -1,19 +1,19 @@
 # 1945 - Novgorod-Seversky
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = fish
 capital = "Novgorod-Seversky"
 is_city = yes
 
-base_tax = 1
-base_production = 1
-base_manpower = 3
+base_tax = 7
+base_production = 7
+base_manpower = 6
 
 
 

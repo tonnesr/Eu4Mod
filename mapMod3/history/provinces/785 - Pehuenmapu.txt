@@ -1,19 +1,19 @@
 # 785 - Pehuenmapu
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = slaves
 capital = "Pehuenmapu"
 is_city = yes
 
-base_tax = 10
-base_production = 3
-base_manpower = 3
+base_tax = 5
+base_production = 2
+base_manpower = 7
 
 
 

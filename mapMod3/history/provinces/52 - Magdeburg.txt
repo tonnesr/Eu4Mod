@@ -1,19 +1,19 @@
 # 52 - Magdeburg
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = wine
 capital = "Magdeburg"
 is_city = yes
 
-base_tax = 5
-base_production = 8
-base_manpower = 3
+base_tax = 10
+base_production = 10
+base_manpower = 9
 
 
 

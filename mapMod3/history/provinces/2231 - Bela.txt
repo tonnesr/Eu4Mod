@@ -1,18 +1,18 @@
 # 2231 - Bela
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = sugar
 capital = "Bela"
 is_city = yes
 
-base_tax = 8
-base_production = 5
+base_tax = 7
+base_production = 1
 base_manpower = 1
 
 

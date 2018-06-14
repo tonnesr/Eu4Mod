@@ -1,18 +1,18 @@
 # 4382 - Ommeland
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = gold
 capital = "Ommeland"
 is_city = yes
 
 base_tax = 5
-base_production = 7
+base_production = 8
 base_manpower = 10
 
 

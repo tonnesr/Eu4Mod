@@ -1,19 +1,19 @@
 # 533 - Mysore
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = grain
 capital = "Mysore"
 is_city = yes
 
-base_tax = 4
-base_production = 9
-base_manpower = 2
+base_tax = 5
+base_production = 7
+base_manpower = 10
 
 
 

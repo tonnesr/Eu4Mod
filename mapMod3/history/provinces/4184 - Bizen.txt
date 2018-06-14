@@ -1,19 +1,19 @@
 # 4184 - Bizen
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = silk
 capital = "Bizen"
 is_city = yes
 
-base_tax = 7
-base_production = 3
-base_manpower = 5
+base_tax = 5
+base_production = 9
+base_manpower = 2
 
 
 

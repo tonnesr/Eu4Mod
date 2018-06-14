@@ -1,18 +1,18 @@
 # 2930 - Santarem
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = naval_supplies
+trade_goods = unknown
 capital = "Santarem"
 is_city = yes
 
-base_tax = 6
-base_production = 7
+base_tax = 9
+base_production = 9
 base_manpower = 2
 
 

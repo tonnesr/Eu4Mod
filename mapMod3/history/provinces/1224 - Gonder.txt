@@ -1,19 +1,19 @@
 # 1224 - Gonder
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = gems
 capital = "Gonder"
 is_city = yes
 
-base_tax = 2
-base_production = 10
-base_manpower = 1
+base_tax = 5
+base_production = 9
+base_manpower = 10
 
 
 

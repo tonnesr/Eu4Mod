@@ -1,19 +1,19 @@
 # 2077 - Margalla
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = tea
 capital = "Margalla"
 is_city = yes
 
-base_tax = 7
-base_production = 9
-base_manpower = 2
+base_tax = 8
+base_production = 3
+base_manpower = 1
 
 
 

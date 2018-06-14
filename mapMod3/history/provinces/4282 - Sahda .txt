@@ -1,18 +1,18 @@
 # 4282 - Sahda 
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
 trade_goods = gold
 capital = "Sahda "
 is_city = yes
 
-base_tax = 5
-base_production = 10
+base_tax = 6
+base_production = 9
 base_manpower = 9
 
 

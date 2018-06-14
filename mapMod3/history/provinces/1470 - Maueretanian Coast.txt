@@ -1,19 +1,19 @@
 # 1470 - Maueretanian Coast
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = salt
 capital = "Maueretanian Coast"
 is_city = yes
 
-base_tax = 5
-base_production = 5
-base_manpower = 7
+base_tax = 10
+base_production = 1
+base_manpower = 3
 
 
 

@@ -1,18 +1,18 @@
 # 4127 - Turda
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = sugar
 capital = "Turda"
 is_city = yes
 
 base_tax = 4
-base_production = 9
+base_production = 3
 base_manpower = 5
 
 

@@ -1,19 +1,19 @@
 # 2347 - Hofuf
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = glass
 capital = "Hofuf"
 is_city = yes
 
 base_tax = 8
-base_production = 6
-base_manpower = 5
+base_production = 2
+base_manpower = 1
 
 
 

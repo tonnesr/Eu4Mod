@@ -1,19 +1,19 @@
 # 2535 - Calusa
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gold
+trade_goods = livestock
 capital = "Calusa"
 is_city = yes
 
-base_tax = 10
-base_production = 4
-base_manpower = 4
+base_tax = 9
+base_production = 3
+base_manpower = 3
 
 
 

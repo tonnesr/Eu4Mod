@@ -1,19 +1,19 @@
 # 1748 - La Mancha
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = tobacco
 capital = "La Mancha"
 is_city = yes
 
-base_tax = 10
-base_production = 7
-base_manpower = 10
+base_tax = 1
+base_production = 2
+base_manpower = 6
 
 
 

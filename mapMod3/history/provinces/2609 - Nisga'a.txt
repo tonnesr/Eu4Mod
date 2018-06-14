@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = cotton
 capital = "Nisga'a"
 is_city = yes
 
-base_tax = 5
-base_production = 6
-base_manpower = 3
+base_tax = 1
+base_production = 4
+base_manpower = 2
 
 
 

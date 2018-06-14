@@ -1,18 +1,18 @@
 # 2838 - Tarija
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = wool
 capital = "Tarija"
 is_city = yes
 
-base_tax = 4
-base_production = 4
+base_tax = 3
+base_production = 1
 base_manpower = 6
 
 

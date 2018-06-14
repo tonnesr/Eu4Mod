@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = silk
 capital = "Haida"
 is_city = yes
 
 base_tax = 9
-base_production = 5
-base_manpower = 10
+base_production = 6
+base_manpower = 8
 
 
 

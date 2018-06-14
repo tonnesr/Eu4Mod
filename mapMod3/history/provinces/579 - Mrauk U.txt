@@ -1,19 +1,19 @@
 # 579 - Mrauk U
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = iron
 capital = "Mrauk U"
 is_city = yes
 
-base_tax = 9
+base_tax = 1
 base_production = 8
-base_manpower = 10
+base_manpower = 4
 
 
 

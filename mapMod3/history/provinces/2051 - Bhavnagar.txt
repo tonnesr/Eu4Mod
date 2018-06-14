@@ -1,19 +1,19 @@
 # 2051 - Bhavnagar
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = cotton
 capital = "Bhavnagar"
 is_city = yes
 
-base_tax = 4
-base_production = 3
-base_manpower = 9
+base_tax = 2
+base_production = 4
+base_manpower = 5
 
 
 

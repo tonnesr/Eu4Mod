@@ -1,19 +1,19 @@
 # 266 - Prague
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = silk
 capital = "Prague"
 is_city = yes
 
 base_tax = 6
-base_production = 6
-base_manpower = 8
+base_production = 10
+base_manpower = 2
 
 
 

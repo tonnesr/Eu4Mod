@@ -1,19 +1,19 @@
 # 2700 - Panay
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = ivory
 capital = "Panay"
 is_city = yes
 
-base_tax = 9
-base_production = 6
-base_manpower = 3
+base_tax = 1
+base_production = 8
+base_manpower = 7
 
 
 

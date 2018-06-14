@@ -1,19 +1,19 @@
 # 953 - Conoy
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = copper
 capital = "Conoy"
 is_city = yes
 
-base_tax = 3
+base_tax = 8
 base_production = 8
-base_manpower = 4
+base_manpower = 8
 
 
 

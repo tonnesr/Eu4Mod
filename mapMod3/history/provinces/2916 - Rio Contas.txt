@@ -1,18 +1,18 @@
 # 2916 - Rio Contas
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = gold
 capital = "Rio Contas"
 is_city = yes
 
-base_tax = 5
-base_production = 10
+base_tax = 1
+base_production = 5
 base_manpower = 4
 
 

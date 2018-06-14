@@ -1,19 +1,19 @@
 # 4316 - Mansura
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = copper
 capital = "Mansura"
 is_city = yes
 
 base_tax = 3
-base_production = 2
-base_manpower = 3
+base_production = 3
+base_manpower = 8
 
 
 

@@ -1,19 +1,19 @@
 # 2167 - Lijiang
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = coffee
 capital = "Lijiang"
 is_city = yes
 
 base_tax = 5
-base_production = 6
-base_manpower = 9
+base_production = 9
+base_manpower = 1
 
 
 

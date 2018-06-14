@@ -1,19 +1,19 @@
 # 2198 - Khundzia
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = ivory
 capital = "Khundzia"
 is_city = yes
 
-base_tax = 8
-base_production = 1
-base_manpower = 6
+base_tax = 7
+base_production = 5
+base_manpower = 1
 
 
 

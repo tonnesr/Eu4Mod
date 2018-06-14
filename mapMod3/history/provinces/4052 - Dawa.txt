@@ -1,19 +1,19 @@
 # 4052 - Dawa
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = salt
 capital = "Dawa"
 is_city = yes
 
-base_tax = 9
-base_production = 10
-base_manpower = 3
+base_tax = 8
+base_production = 3
+base_manpower = 8
 
 
 

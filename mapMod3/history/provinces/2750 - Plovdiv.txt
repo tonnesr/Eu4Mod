@@ -1,19 +1,19 @@
 # 2750 - Plovdiv
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = fur
 capital = "Plovdiv"
 is_city = yes
 
-base_tax = 1
+base_tax = 8
 base_production = 10
-base_manpower = 7
+base_manpower = 10
 
 
 

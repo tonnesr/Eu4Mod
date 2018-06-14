@@ -1,19 +1,19 @@
 # 2697 - Tondo
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tobacco
+trade_goods = silk
 capital = "Tondo"
 is_city = yes
 
-base_tax = 10
-base_production = 9
-base_manpower = 4
+base_tax = 6
+base_production = 10
+base_manpower = 3
 
 
 

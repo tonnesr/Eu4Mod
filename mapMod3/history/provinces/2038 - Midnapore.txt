@@ -1,19 +1,19 @@
 # 2038 - Midnapore
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = glass
+trade_goods = cocoa
 capital = "Midnapore"
 is_city = yes
 
 base_tax = 4
-base_production = 7
-base_manpower = 4
+base_production = 10
+base_manpower = 8
 
 
 

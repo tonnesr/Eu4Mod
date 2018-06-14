@@ -1,19 +1,19 @@
 # 1029 - Kai
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = cocoa
 capital = "Kai"
 is_city = yes
 
-base_tax = 6
-base_production = 6
-base_manpower = 10
+base_tax = 3
+base_production = 7
+base_manpower = 9
 
 
 

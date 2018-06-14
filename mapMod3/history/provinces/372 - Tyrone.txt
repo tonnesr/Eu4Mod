@@ -1,19 +1,19 @@
 # 372 - Tyrone
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = coffee
 capital = "Tyrone"
 is_city = yes
 
-base_tax = 3
-base_production = 4
-base_manpower = 1
+base_tax = 10
+base_production = 6
+base_manpower = 7
 
 
 

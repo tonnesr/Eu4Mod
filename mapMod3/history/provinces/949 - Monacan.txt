@@ -1,19 +1,19 @@
 # 949 - Monacan
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = glass
 capital = "Monacan"
 is_city = yes
 
-base_tax = 2
-base_production = 9
-base_manpower = 5
+base_tax = 5
+base_production = 2
+base_manpower = 6
 
 
 

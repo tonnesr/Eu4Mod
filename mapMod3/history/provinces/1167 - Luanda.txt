@@ -1,19 +1,19 @@
 # 1167 - Luanda
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = tobacco
 capital = "Luanda"
 is_city = yes
 
-base_tax = 9
-base_production = 3
-base_manpower = 1
+base_tax = 2
+base_production = 10
+base_manpower = 7
 
 
 

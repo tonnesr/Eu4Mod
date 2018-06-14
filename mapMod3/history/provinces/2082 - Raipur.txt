@@ -1,19 +1,19 @@
 # 2082 - Raipur
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = wine
 capital = "Raipur"
 is_city = yes
 
-base_tax = 8
-base_production = 10
-base_manpower = 5
+base_tax = 7
+base_production = 1
+base_manpower = 2
 
 
 

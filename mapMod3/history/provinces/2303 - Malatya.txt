@@ -1,19 +1,19 @@
 # 2303 - Malatya
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = paper
 capital = "Malatya"
 is_city = yes
 
-base_tax = 6
-base_production = 4
-base_manpower = 6
+base_tax = 8
+base_production = 3
+base_manpower = 3
 
 
 

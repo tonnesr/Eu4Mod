@@ -1,19 +1,19 @@
 # 1087 - Wurundjeri
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = sugar
 capital = "Wurundjeri"
 is_city = yes
 
-base_tax = 6
-base_production = 2
-base_manpower = 1
+base_tax = 2
+base_production = 8
+base_manpower = 6
 
 
 

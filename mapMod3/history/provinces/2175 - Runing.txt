@@ -1,19 +1,19 @@
 # 2175 - Runing
 
-add_core = PRU
-owner = PRU
-controller = PRU
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = glass
 capital = "Runing"
 is_city = yes
 
-base_tax = 8
-base_production = 6
-base_manpower = 2
+base_tax = 7
+base_production = 3
+base_manpower = 9
 
 
 

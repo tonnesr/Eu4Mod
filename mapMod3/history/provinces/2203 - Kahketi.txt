@@ -1,19 +1,19 @@
 # 2203 - Kahketi
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = salt
 capital = "Kahketi"
 is_city = yes
 
 base_tax = 8
-base_production = 10
-base_manpower = 4
+base_production = 5
+base_manpower = 5
 
 
 

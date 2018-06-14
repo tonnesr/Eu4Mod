@@ -1,19 +1,19 @@
 # 780 - Tehuelmapu
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = gold
 capital = "Tehuelmapu"
 is_city = yes
 
-base_tax = 3
-base_production = 3
-base_manpower = 10
+base_tax = 8
+base_production = 5
+base_manpower = 4
 
 
 

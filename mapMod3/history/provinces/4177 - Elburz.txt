@@ -1,19 +1,19 @@
 # 4177 - Elburz
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = ivory
 capital = "Elburz"
 is_city = yes
 
-base_tax = 2
-base_production = 7
-base_manpower = 2
+base_tax = 7
+base_production = 2
+base_manpower = 1
 
 
 

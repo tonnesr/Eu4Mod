@@ -1,18 +1,18 @@
 # 2835 - Sucre
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = unknown
 capital = "Sucre"
 is_city = yes
 
-base_tax = 4
-base_production = 10
+base_tax = 7
+base_production = 4
 base_manpower = 2
 
 

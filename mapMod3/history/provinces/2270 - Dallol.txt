@@ -1,18 +1,18 @@
 # 2270 - Dallol
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = fur
 capital = "Dallol"
 is_city = yes
 
-base_tax = 5
-base_production = 9
+base_tax = 6
+base_production = 4
 base_manpower = 10
 
 

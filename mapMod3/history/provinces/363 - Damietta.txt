@@ -1,19 +1,19 @@
 # 363 - Damietta
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = naval_supplies
+trade_goods = wine
 capital = "Damietta"
 is_city = yes
 
 base_tax = 4
-base_production = 7
-base_manpower = 4
+base_production = 3
+base_manpower = 9
 
 
 

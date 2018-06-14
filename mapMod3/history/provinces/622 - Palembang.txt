@@ -1,19 +1,19 @@
 # 622 - Palembang
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = cloth
 capital = "Palembang"
 is_city = yes
 
-base_tax = 6
+base_tax = 3
 base_production = 7
-base_manpower = 10
+base_manpower = 3
 
 
 

@@ -1,18 +1,18 @@
 # 2784 - Galkayo
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = glass
+trade_goods = paper
 capital = "Galkayo"
 is_city = yes
 
-base_tax = 8
-base_production = 10
+base_tax = 6
+base_production = 3
 base_manpower = 8
 
 

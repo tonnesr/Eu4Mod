@@ -1,19 +1,19 @@
 # 4346 - Qamr Bay
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = sugar
 capital = "Qamr Bay"
 is_city = yes
 
-base_tax = 3
-base_production = 4
-base_manpower = 6
+base_tax = 1
+base_production = 3
+base_manpower = 4
 
 
 

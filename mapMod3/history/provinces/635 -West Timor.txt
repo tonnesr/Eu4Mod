@@ -1,19 +1,19 @@
 # 635 -West Timor
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gold
+trade_goods = incense
 capital = "West Timor"
 is_city = yes
 
-base_tax = 6
-base_production = 9
-base_manpower = 9
+base_tax = 7
+base_production = 8
+base_manpower = 5
 
 
 

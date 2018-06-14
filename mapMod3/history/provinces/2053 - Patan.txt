@@ -1,19 +1,19 @@
 # 2053 - Patan
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fish
+trade_goods = slaves
 capital = "Patan"
 is_city = yes
 
-base_tax = 10
-base_production = 2
-base_manpower = 5
+base_tax = 7
+base_production = 9
+base_manpower = 4
 
 
 

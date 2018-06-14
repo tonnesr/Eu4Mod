@@ -1,19 +1,19 @@
 # 2212 - Zanjan
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = wine
 capital = "Zanjan"
 is_city = yes
 
-base_tax = 1
-base_production = 7
-base_manpower = 6
+base_tax = 8
+base_production = 8
+base_manpower = 9
 
 
 

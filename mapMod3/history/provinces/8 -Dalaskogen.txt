@@ -1,19 +1,19 @@
 # 8 -Dalaskogen
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
 trade_goods = glass
 capital = "Dalaskogen"
 is_city = yes
 
-base_tax = 3
-base_production = 8
-base_manpower = 3
+base_tax = 10
+base_production = 10
+base_manpower = 5
 
 
 

@@ -1,17 +1,17 @@
 # 2914 - Inhambupe
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = tobacco
 capital = "Inhambupe"
 is_city = yes
 
-base_tax = 6
+base_tax = 5
 base_production = 1
 base_manpower = 10
 

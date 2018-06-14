@@ -1,19 +1,19 @@
 # 4123 - Birkaland
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = glass
 capital = "Birkaland"
 is_city = yes
 
-base_tax = 8
-base_production = 8
-base_manpower = 8
+base_tax = 7
+base_production = 9
+base_manpower = 4
 
 
 

@@ -1,18 +1,18 @@
 # 1133 - Gao
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tea
+trade_goods = sugar
 capital = "Gao"
 is_city = yes
 
-base_tax = 5
-base_production = 9
+base_tax = 9
+base_production = 3
 base_manpower = 2
 
 

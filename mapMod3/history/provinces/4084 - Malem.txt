@@ -1,19 +1,19 @@
 # 4084 - Malem
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = sugar
+trade_goods = wine
 capital = "Malem"
 is_city = yes
 
-base_tax = 10
-base_production = 8
-base_manpower = 10
+base_tax = 3
+base_production = 2
+base_manpower = 9
 
 
 

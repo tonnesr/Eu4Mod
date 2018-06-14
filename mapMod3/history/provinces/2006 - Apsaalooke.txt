@@ -1,19 +1,19 @@
 # 2006 - Apsaalooke
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = gems
 capital = "Apsaalooke"
 is_city = yes
 
-base_tax = 2
+base_tax = 1
 base_production = 4
-base_manpower = 2
+base_manpower = 8
 
 
 

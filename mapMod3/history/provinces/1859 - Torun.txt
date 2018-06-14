@@ -1,19 +1,19 @@
 # 1859 - Torun
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = wine
 capital = "Torun"
 is_city = yes
 
-base_tax = 2
-base_production = 1
-base_manpower = 2
+base_tax = 5
+base_production = 5
+base_manpower = 9
 
 
 

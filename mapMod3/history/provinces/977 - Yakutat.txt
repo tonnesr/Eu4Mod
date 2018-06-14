@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = wine
+trade_goods = grain
 capital = "Yakutat"
 is_city = yes
 
-base_tax = 6
-base_production = 7
-base_manpower = 9
+base_tax = 5
+base_production = 5
+base_manpower = 3
 
 
 

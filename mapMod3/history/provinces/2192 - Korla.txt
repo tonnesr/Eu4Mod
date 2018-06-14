@@ -1,19 +1,19 @@
 # 2192 - Korla
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fish
+trade_goods = tea
 capital = "Korla"
 is_city = yes
 
-base_tax = 7
-base_production = 7
-base_manpower = 3
+base_tax = 1
+base_production = 1
+base_manpower = 7
 
 
 

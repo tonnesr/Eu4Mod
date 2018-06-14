@@ -1,18 +1,18 @@
 # 1206 - Qardho
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = wool
+trade_goods = livestock
 capital = "Qardho"
 is_city = yes
 
-base_tax = 7
-base_production = 1
+base_tax = 6
+base_production = 7
 base_manpower = 8
 
 

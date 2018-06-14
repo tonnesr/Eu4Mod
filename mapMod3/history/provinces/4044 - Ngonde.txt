@@ -1,19 +1,19 @@
 # 4044 - Ngonde
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cocoa
+trade_goods = paper
 capital = "Ngonde"
 is_city = yes
 
-base_tax = 2
-base_production = 7
-base_manpower = 9
+base_tax = 8
+base_production = 4
+base_manpower = 1
 
 
 

@@ -1,18 +1,18 @@
 # 4033 - Al Qadirif
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = incense
 capital = "Al Qadirif"
 is_city = yes
 
-base_tax = 7
-base_production = 5
+base_tax = 10
+base_production = 6
 base_manpower = 9
 
 

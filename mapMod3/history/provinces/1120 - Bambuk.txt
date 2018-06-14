@@ -1,19 +1,19 @@
 # 1120 - Bambuk
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = grain
+trade_goods = gold
 capital = "Bambuk"
 is_city = yes
 
-base_tax = 4
-base_production = 4
-base_manpower = 2
+base_tax = 8
+base_production = 2
+base_manpower = 4
 
 
 

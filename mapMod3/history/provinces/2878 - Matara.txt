@@ -1,19 +1,19 @@
 # 2878 - Matara
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = cotton
 capital = "Matara"
 is_city = yes
 
-base_tax = 10
-base_production = 8
-base_manpower = 9
+base_tax = 6
+base_production = 5
+base_manpower = 5
 
 
 

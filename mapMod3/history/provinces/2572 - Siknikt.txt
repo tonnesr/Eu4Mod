@@ -1,19 +1,19 @@
 # 2572 - Siknikt
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = tropical_wood
+trade_goods = unknown
 capital = "Siknikt"
 is_city = yes
 
-base_tax = 10
-base_production = 8
-base_manpower = 9
+base_tax = 3
+base_production = 2
+base_manpower = 7
 
 
 

@@ -1,19 +1,19 @@
 # 4279 - Zabid
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cotton
+trade_goods = wool
 capital = "Zabid"
 is_city = yes
 
-base_tax = 8
-base_production = 8
-base_manpower = 7
+base_tax = 5
+base_production = 9
+base_manpower = 6
 
 
 

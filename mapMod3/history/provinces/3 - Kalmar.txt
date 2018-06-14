@@ -1,19 +1,19 @@
 # 3 - Kalmar
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = copper
+trade_goods = ivory
 capital = "Kalmar"
 is_city = yes
 
-base_tax = 7
-base_production = 9
-base_manpower = 9
+base_tax = 2
+base_production = 6
+base_manpower = 10
 
 
 

@@ -1,19 +1,19 @@
 # 291 - Kharkov
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = tea
 capital = "Kharkov"
 is_city = yes
 
 base_tax = 2
-base_production = 4
-base_manpower = 3
+base_production = 6
+base_manpower = 2
 
 
 

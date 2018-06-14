@@ -1,18 +1,18 @@
 # 2882 - Fuerte Borbon
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = fish
 capital = "Fuerte Borbon"
 is_city = yes
 
-base_tax = 8
-base_production = 7
+base_tax = 7
+base_production = 8
 base_manpower = 1
 
 

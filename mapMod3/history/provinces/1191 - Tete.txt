@@ -1,19 +1,19 @@
 # 1191 - Tete
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = livestock
+trade_goods = tropical_wood
 capital = "Tete"
 is_city = yes
 
-base_tax = 7
-base_production = 7
-base_manpower = 4
+base_tax = 9
+base_production = 1
+base_manpower = 10
 
 
 

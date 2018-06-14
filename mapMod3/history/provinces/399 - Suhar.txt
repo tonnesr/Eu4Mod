@@ -1,19 +1,19 @@
 # 399 - Suhar
 
-add_core = MAM
-owner = MAM
-controller = MAM
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = al_misr_arabic
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = tropical_wood
 capital = "Suhar"
 is_city = yes
 
 base_tax = 6
 base_production = 1
-base_manpower = 4
+base_manpower = 3
 
 
 

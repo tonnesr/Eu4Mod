@@ -1,19 +1,19 @@
 # 254 - Poznan
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = incense
+trade_goods = iron
 capital = "Poznan"
 is_city = yes
 
-base_tax = 10
-base_production = 7
-base_manpower = 6
+base_tax = 3
+base_production = 8
+base_manpower = 5
 
 
 

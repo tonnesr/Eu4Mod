@@ -1,19 +1,19 @@
 # 18 -Lappland
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gold
+trade_goods = fur
 capital = "Lappland"
 is_city = yes
 
-base_tax = 2
+base_tax = 3
 base_production = 5
-base_manpower = 2
+base_manpower = 5
 
 
 

@@ -1,19 +1,19 @@
 # 340 - Constantine
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = unknown
+trade_goods = cocoa
 capital = "Constantine"
 is_city = yes
 
-base_tax = 2
-base_production = 8
-base_manpower = 5
+base_tax = 10
+base_production = 9
+base_manpower = 9
 
 
 

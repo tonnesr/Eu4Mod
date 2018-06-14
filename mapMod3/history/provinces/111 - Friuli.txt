@@ -1,19 +1,19 @@
 # 111 - Friuli
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = norwegian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = gems
+trade_goods = incense
 capital = "Friuli"
 is_city = yes
 
-base_tax = 7
-base_production = 10
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 9
 
 
 

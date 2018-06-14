@@ -1,19 +1,19 @@
 # 4038 - Lolo
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = livestock
 capital = "Lolo"
 is_city = yes
 
-base_tax = 3
-base_production = 9
-base_manpower = 1
+base_tax = 4
+base_production = 1
+base_manpower = 8
 
 
 

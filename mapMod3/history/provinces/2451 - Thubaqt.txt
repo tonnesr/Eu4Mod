@@ -1,19 +1,19 @@
 # 2451 - Thubaqt
 
-add_core = TUN
-owner = TUN
-controller = TUN
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = tunisian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = spices
 capital = "Thubaqt"
 is_city = yes
 
-base_tax = 7
-base_production = 8
-base_manpower = 6
+base_tax = 1
+base_production = 1
+base_manpower = 1
 
 
 

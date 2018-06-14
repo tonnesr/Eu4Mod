@@ -1,19 +1,19 @@
 # 346 - Figuig
 
-add_core = LIT
-owner = LIT
-controller = LIT
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = lithuanian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = coffee
 capital = "Figuig"
 is_city = yes
 
-base_tax = 10
-base_production = 5
-base_manpower = 10
+base_tax = 4
+base_production = 8
+base_manpower = 2
 
 
 

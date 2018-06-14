@@ -1,19 +1,19 @@
 # 1953 - Szabolcs
 
-add_core = MUG
-owner = MUG
-controller = MUG
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = uzbehk
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coffee
+trade_goods = gold
 capital = "Szabolcs"
 is_city = yes
 
-base_tax = 6
-base_production = 5
-base_manpower = 9
+base_tax = 8
+base_production = 4
+base_manpower = 10
 
 
 

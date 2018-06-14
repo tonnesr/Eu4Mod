@@ -1,17 +1,17 @@
 # 4281 - Dhamar
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = coal
+trade_goods = tobacco
 capital = "Dhamar"
 is_city = yes
 
-base_tax = 1
+base_tax = 5
 base_production = 8
 base_manpower = 1
 

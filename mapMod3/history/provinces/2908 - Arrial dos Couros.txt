@@ -1,19 +1,19 @@
 # 2908 - Arrial dos Couros
 
-add_core = PAP
-owner = PAP
-controller = PAP
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = umbrian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = ivory
+trade_goods = fur
 capital = "Arrial dos Couros"
 is_city = yes
 
-base_tax = 10
-base_production = 8
-base_manpower = 8
+base_tax = 4
+base_production = 10
+base_manpower = 5
 
 
 

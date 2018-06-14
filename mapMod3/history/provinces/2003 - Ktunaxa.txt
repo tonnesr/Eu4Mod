@@ -7,13 +7,13 @@ controller = ETH
 culture = amhara
 religion = coptic
 hre = no
-trade_goods = spices
+trade_goods = coal
 capital = "Ktunaxa"
 is_city = yes
 
-base_tax = 1
-base_production = 3
-base_manpower = 5
+base_tax = 4
+base_production = 1
+base_manpower = 9
 
 
 

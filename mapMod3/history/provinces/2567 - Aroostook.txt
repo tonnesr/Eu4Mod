@@ -1,18 +1,18 @@
 # 2567 - Aroostook
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = swedish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = dyes
+trade_goods = salt
 capital = "Aroostook"
 is_city = yes
 
 base_tax = 9
-base_production = 4
+base_production = 6
 base_manpower = 1
 
 

@@ -1,19 +1,19 @@
 # 4280 - Taiz
 
-add_core = BRA
-owner = BRA
-controller = BRA
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = prussian
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fish
+trade_goods = coal
 capital = "Taiz"
 is_city = yes
 
-base_tax = 10
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 6
+base_manpower = 5
 
 
 

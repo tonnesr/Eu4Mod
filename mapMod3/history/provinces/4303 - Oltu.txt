@@ -1,19 +1,19 @@
 # 4303 - Oltu
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = LRI
+owner = LRI
+controller = LRI
 
-culture = danish
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = salt
+trade_goods = incense
 capital = "Oltu"
 is_city = yes
 
 base_tax = 1
-base_production = 8
-base_manpower = 7
+base_production = 10
+base_manpower = 3
 
 
 

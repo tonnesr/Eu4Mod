@@ -1,19 +1,19 @@
 # 2638 - Xoconochco
 
-add_core = AZT
-owner = AZT
-controller = AZT
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = aztek
-religion = nahuatl
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = iron
+trade_goods = chinaware
 capital = "Xoconochco"
 is_city = yes
 
-base_tax = 6
-base_production = 3
-base_manpower = 7
+base_tax = 2
+base_production = 10
+base_manpower = 9
 
 
 

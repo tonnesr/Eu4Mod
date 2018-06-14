@@ -1,19 +1,19 @@
 # 296 - Kaluga
 
-add_core = NOV
-owner = NOV
-controller = NOV
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = novgorodian
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = silk
+trade_goods = cloth
 capital = "Kaluga"
 is_city = yes
 
 base_tax = 10
 base_production = 2
-base_manpower = 2
+base_manpower = 8
 
 
 

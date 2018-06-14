@@ -1,19 +1,19 @@
 # 699 - Lanzhou
 
-add_core = FRA
-owner = FRA
-controller = FRA
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = cosmopolitan_french
-religion = catholic
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = cotton
+trade_goods = slaves
 capital = "Lanzhou"
 is_city = yes
 
-base_tax = 3
-base_production = 7
-base_manpower = 9
+base_tax = 8
+base_production = 5
+base_manpower = 1
 
 
 

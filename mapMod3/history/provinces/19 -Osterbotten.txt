@@ -1,18 +1,18 @@
 # 19 -Osterbotten
 
-add_core = TUR
-owner = TUR
-controller = TUR
+add_core = ETH
+owner = ETH
+controller = ETH
 
-culture = turkish
-religion = sunni
+culture = amhara
+religion = coptic
 hre = no
-trade_goods = fur
+trade_goods = spices
 capital = "Osterbotten"
 is_city = yes
 
-base_tax = 5
-base_production = 5
+base_tax = 7
+base_production = 4
 base_manpower = 2
 
 
