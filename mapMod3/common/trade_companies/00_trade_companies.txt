@@ -1,0 +1,33 @@
+trade_company_west_africa = {
+	color = { 50 0 200 }
+	
+	provinces = {
+		101 102 103 104 105
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_WEST_AFRICA_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_WEST_AFRICA_Africa_Trade_Company"
+	}
+}
+
+trade_company_south_africa = {
+	color = { 0 175 0 }
+	
+	provinces = {
+		106 107 108 109 110
+	}
+	
+	# Specific
+	# Generic
+	names = {
+		name = "TRADE_COMPANY_SOUTH_AFRICA_Root_Culture_GetName"
+	}
+	names = {
+		name = "TRADE_COMPANY_SOUTH_AFRICA_Africa_Trade_Company"
+	}
+}

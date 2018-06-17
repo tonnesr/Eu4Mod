@@ -1,0 +1,9 @@
+government = monastic_order_government
+government_rank = 1
+technology_group = western
+primary_culture = prussian
+add_accepted_culture = latvian
+add_accepted_culture = estonian
+religion = catholic
+capital = 37	# Livland
+add_army_professionalism = 0.1

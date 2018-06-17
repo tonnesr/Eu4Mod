@@ -1,0 +1,8 @@
+government = feudal_monarchy
+primary_culture = portugese
+religion = catholic
+technology_group = western
+capital = 227 # Lisboa
+add_army_professionalism = 0.05
+national_focus = DIP
+

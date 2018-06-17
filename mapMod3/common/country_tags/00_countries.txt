@@ -1,0 +1,149 @@
+# Special countries..
+REB = "countries/Rebels.txt"
+PIR = "countries/Pirates.txt"
+NAT = "countries/Natives.txt"
+
+#Scandinavia
+SWE	= "countries/Sweden.txt"
+DAN	= "countries/Denmark.txt"
+NOR	= "countries/Norway.txt"
+
+#Balkans
+BYZ	= "countries/ByzantineEmpire.txt"
+HUN	= "countries/Hungary.txt"
+TUR	= "countries/Ottomans.txt"
+
+#British Isles 
+ENG	= "countries/England.txt"
+SCO	= "countries/Scotland.txt"
+GBR	= "countries/GreatBritain.txt"
+
+#Colonies
+USA	= "countries/USA.txt"
+
+#Eastern Europe
+LIT	= "countries/Lithuania.txt"
+LIV	= "countries/LivonianOrder.txt"
+POL	= "countries/Poland.txt"
+PRU	= "countries/Prussia.txt"
+TEU	= "countries/Teutonicorder.txt"
+PLC = "countries/TheCommonwealth.txt"
+
+#France 
+FRA	= "countries/France.txt"
+PRO	= "countries/Provence.txt"
+SPI	= "countries/SardiniaPiedmont.txt"
+	
+#HRE
+BRA	= "countries/Brandenburg.txt"
+HAB	= "countries/Austria.txt"
+HLR = "countries/HolyRomanEmpire.txt"
+POM	= "countries/Pommerania.txt"
+SAX	= "countries/Saxony.txt"
+	
+#Spain
+ARA	= "countries/Aragon.txt"
+CAS	= "countries/Castille.txt"
+GRA	= "countries/Granada.txt"
+POR	= "countries/Portugal.txt"
+SPA	= "countries/Spain.txt"
+
+#Italy
+GEN	= "countries/Genoa.txt"
+ITA	= "countries/Italy.txt"
+MLO	= "countries/Milan.txt"
+NAP	= "countries/Naples.txt"
+PAP	= "countries/Papal.txt"
+SAV	= "countries/Savoy.txt"
+TUS	= "countries/Tuscany.txt"
+VEN	= "countries/Venice.txt"
+
+#Low Countries
+NED	= "countries/Netherlands.txt"
+
+#Russia 
+CRI	= "countries/Crimea.txt"
+MOS	= "countries/Muscowy.txt"
+NOV	= "countries/Novgorod.txt"
+RUS	= "countries/Russia.txt"
+
+#Arabia	
+YEM = "countries/Yemen.txt"
+
+#Asia Minor		
+RUM = "countries/Rum.txt"
+	
+#Maghreb
+MOR	= "countries/Morocco.txt"
+TUN	= "countries/Tunisia.txt"
+
+#Central Asia
+
+#Persia	
+PER	= "countries/Persia.txt"
+TIM	= "countries/Timurid.txt"
+TRS = "countries/Transoxiana.txt"
+
+#Americas
+
+#Africa
+ETH = "countries/Ethiopia.txt"
+KON = "countries/Kongo.txt"
+
+#East African Additions
+
+#Kongo, Great Lakes & Central Africa
+
+#Madagascar
+
+#Far East
+JAP	= "countries/Japan.txt"
+
+#Daimyos
+
+#New Daimyos 1.20
+
+KOR	= "countries/Korea.txt"
+MLC	= "countries/Malacca.txt"
+MNG	= "countries/Ming.txt"
+
+#Manchuria tags
+
+#Mongol tags
+
+#Great Tibet tags
+
+#Non-Han China proper tags
+
+#Chinese Revolters
+
+#India
+BNG = "countries/Bengal.txt"
+BAH	= "countries/Bahmanis.txt"
+MUG = "countries/Mughal.txt"
+VIJ = "countries/Vijaynagara.txt"
+JNP = "countries/Jaunpur.txt"
+
+#African Additions
+
+#Indochina Additions
+
+#Siberian Tribes
+
+#North American Additions
+
+#Indonesia Additions
+
+#South American Additions
+CSU = "countries/Cusco.txt"
+
+# ???
+JMN = "countries/Jan Mayen.txt"
+ROM = "countries/RomanEmpire.txt"
+
+#Converter tags:
+#JOM = countries/Jomsvikings.txt
+#HAH = countries/Hashshashin.txt
+#ISR = countries/Israel.txt
+#TEM = countries/KnightsTemplar.txt
+#TRL = countries/Trapalanda.txt

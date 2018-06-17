@@ -1,0 +1,9 @@
+technology_group = muslim
+primary_culture = uzbehk
+add_accepted_culture = khorasani
+add_accepted_culture = persian
+religion = sunni
+government = iqta
+government_rank = 3
+capital = 454 # Samarkand
+religious_school = hanafi_school

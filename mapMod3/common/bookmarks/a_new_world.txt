@@ -1,0 +1,22 @@
+bookmark =
+{
+	name = "NEWWORLD_NAME"
+	desc = "NEWWORLD_DESC"
+	date = 1492.1.1
+	
+	country = NOR
+	country = SWE
+	country = DAN
+
+#	effect = {
+#		#Country 1
+#		SWE = {
+#			add_stability = 4
+#		}
+#		
+#		#Province 1
+#		1 = {
+#			add_base_tax = 5
+#		}
+#	}
+}

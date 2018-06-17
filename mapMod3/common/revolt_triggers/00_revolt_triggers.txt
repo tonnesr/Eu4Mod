@@ -1,0 +1,122 @@
+# Great Britain
+GBR = {
+	always = no
+}
+
+# Holy Roman Empire
+HLR = {
+	always = no
+}
+
+# Italy
+ITA = {
+	always = no
+}
+
+# Netherlands
+NED = {
+	is_core = NED
+}
+
+# Timurids
+TIM = {
+	culture = uzbehk
+	is_core = TIM
+}
+
+# Byzantium
+BYZ = {
+	OR = {
+		is_core = BYZ
+		NOT = { exists = GRE }
+	}
+}
+
+# Persia
+PER = {
+	OR = {
+		is_core = PER
+		is_permanent_claim = PER
+		is_claim = PER
+	}
+}
+
+# Spain
+SPA = {
+	OR = {
+		is_core = SPA
+		owner = {
+			capital_scope = {
+				is_core = SPA
+			}
+		}
+	}
+	NOT = { exists = CAS }
+	NOT = { exists = ARA }
+}
+
+# Castille
+CAS = {
+	NOT = { is_core = SPA }
+	NOT = { exists = SPA }
+}
+
+# Russia
+RUS = {
+	OR = {
+		is_core = RUS
+		owner = {
+			capital_scope = {
+				is_core = RUS
+			}
+		}
+	}
+}
+
+# Prussia
+PRU = {
+	OR = {
+		is_core = PRU
+		owner = {
+			capital_scope = {
+				is_core = PRU
+			}
+		}
+	}
+}
+
+# Ottomans
+TUR = {
+	religion = sunni
+}
+
+# Mughals
+MUG = {
+	religion_group = muslim
+}
+
+USA	= {
+	OR = {
+		is_core = USA
+		owner = {
+			capital_scope = {
+				is_core = USA
+			}
+		}
+	}
+}
+
+# Jan Mayen
+JMN = {
+	is_core = JMN
+}
+
+# Japan
+JAP = {
+	always = no
+}
+
+# Sultanate of Rum
+RUM = {
+	always = no
+}

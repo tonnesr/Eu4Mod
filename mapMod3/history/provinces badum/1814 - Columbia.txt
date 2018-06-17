@@ -1,6 +1,0 @@
-discovered_by = north_american
-
-1784.1.1 = { discovered_by = RUS } # Vitus Bering
-add_core = PRU
-controller = PRU
-owner = PRU

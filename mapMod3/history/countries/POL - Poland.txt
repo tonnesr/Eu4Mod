@@ -1,0 +1,8 @@
+government = feudal_monarchy
+primary_culture = polish
+religion = catholic
+technology_group = eastern
+historical_rival = TEU
+capital = 262 # Krakow
+
+national_focus = ADM

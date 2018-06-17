@@ -1,0 +1,7 @@
+government = despotic_monarchy
+primary_culture = malayan
+religion = sunni
+technology_group = chinese
+capital = 453	# Malacca
+fixed_capital = 453 # Cannot move capital away from this province & no power cost to move to it
+religious_school = shafii_school
