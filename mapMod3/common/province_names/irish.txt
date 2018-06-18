@@ -1,0 +1,5 @@
+372 = "Tir Eoghain"
+373 = "Mide"
+374 = "Laighin"
+375 = "Tuadhmhumhain"
+376 = "Connacht"

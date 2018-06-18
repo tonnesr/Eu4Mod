@@ -1,0 +1,8 @@
+6 = "Skåne"
+10 = "Jämtland"
+12 = "Själland"
+15 = "Mittjylland"
+16 = "Bohuslän"
+32 = "Kexholm"
+33 = "Nöteborg"
+37 = "Livland"

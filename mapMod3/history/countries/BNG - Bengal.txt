@@ -1,0 +1,6 @@
+government = iqta 
+primary_culture = bengali
+religion = sunni
+technology_group = indian
+capital = 19	# Pandua
+religious_school = hanafi_school

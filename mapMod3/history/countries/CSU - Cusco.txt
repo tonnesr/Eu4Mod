@@ -1,0 +1,7 @@
+government = despotic_monarchy
+primary_culture = inca
+religion = inti
+technology_group = andean
+unit_type = south_american
+capital = 321	# Cuzco
+fixed_capital = 321 # Cannot move capital away from this province & no power cost to move to it

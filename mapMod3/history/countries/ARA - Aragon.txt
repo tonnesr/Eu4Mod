@@ -1,0 +1,8 @@
+government = feudal_monarchy
+primary_culture = aragonese
+add_accepted_culture = catalan
+add_accepted_culture = sicilian
+religion = catholic
+technology_group = western
+capital = 220 # Valencia
+add_army_professionalism = 0.05

@@ -1,0 +1,9 @@
+government = feudal_monarchy
+technology_group = western
+unit_type = western
+primary_culture = swedish
+religion = catholic
+add_accepted_culture = finnish
+capital = 54	
+
+national_focus = MIL
