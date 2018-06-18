@@ -1,7 +1,8 @@
 #370 - Reykjavik
 
 owner = FRE
-controller = FRE 
+controller = FRE
+add_core = FRE
 culture = norwegian
 religion = catholic
 hre = no
