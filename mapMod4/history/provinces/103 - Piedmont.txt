@@ -1,0 +1,33 @@
+# 103 - Piedmont
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = wine
+capital = "Piedmont"
+is_city = yes
+
+base_tax = 5
+base_production = 4
+base_manpower = 3
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

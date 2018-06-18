@@ -1,0 +1,33 @@
+# 40 - Memel
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = slaves
+capital = "Memel"
+is_city = yes
+
+base_tax = 5
+base_production = 2
+base_manpower = 3
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+# 212 - Girona
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = paper
+capital = "Girona"
+is_city = yes
+
+base_tax = 1
+base_production = 5
+base_manpower = 4
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

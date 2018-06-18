@@ -1,0 +1,33 @@
+# 452 - Badakhshan
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = cloth
+capital = "Badakhshan"
+is_city = yes
+
+base_tax = 4
+base_production = 5
+base_manpower = 5
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

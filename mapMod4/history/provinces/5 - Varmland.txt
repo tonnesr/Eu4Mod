@@ -1,0 +1,33 @@
+# 5 - Varmland
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = fish
+capital = "Varmland"
+is_city = yes
+
+base_tax = 4
+base_production = 5
+base_manpower = 1
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+# 46 - Rostock
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = tea
+capital = "Rostock"
+is_city = yes
+
+base_tax = 6
+base_production = 2
+base_manpower = 4
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+# 369 - Orkney
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = fur
+capital = "Orkney"
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 6
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

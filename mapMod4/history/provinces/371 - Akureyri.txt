@@ -1,0 +1,33 @@
+# 371 - Akureyri
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = wool
+capital = "Akureyri"
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 1
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

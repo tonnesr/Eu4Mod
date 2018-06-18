@@ -1,0 +1,33 @@
+# 168 - Normandie
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = coffee
+capital = "Normandie"
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 2
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

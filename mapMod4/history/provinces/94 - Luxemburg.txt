@@ -1,0 +1,33 @@
+# 94 - Luxemburg
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = fish
+capital = "Luxemburg"
+is_city = yes
+
+base_tax = 5
+base_production = 1
+base_manpower = 2
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
+11;12;sea;10;3008;1633;3000;1630;comment1
+12;14;sea;9;2980;1631;2975;1631;comment2
+-1;-1;;-1;-1;-1;-1;-1;-1

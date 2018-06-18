@@ -1,0 +1,33 @@
+# 304 - Pensa
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = silk
+capital = "Pensa"
+is_city = yes
+
+base_tax = 2
+base_production = 5
+base_manpower = 1
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

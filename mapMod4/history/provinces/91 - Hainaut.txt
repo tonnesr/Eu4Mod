@@ -1,0 +1,33 @@
+# 91 - Hainaut
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = naval_supplies
+capital = "Hainaut"
+is_city = yes
+
+base_tax = 1
+base_production = 6
+base_manpower = 4
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+
