@@ -1,0 +1,357 @@
+# A province can only belong to one area!
+
+#Land Areas
+one_area= {
+	color = { 0 0 0 }
+	459 120 117 457 122 121
+}
+
+two_area = {
+	color = { 64 64 64 }
+	455 118 119 48 268 378 420
+}
+
+three_area = {
+	color = { 128 128 128 }
+	276 375 50 43 419 465
+}
+
+four_area = {
+	color = { 255 0 0 }
+	271 2 404 376 8 47 275
+}
+
+five_area = {
+	color = { 255 106 0 }
+	7 46 1 3 377 49
+}
+
+six_area = {
+	color = { 255 216 0 }
+	418 136 393 127 126
+}
+
+seven_area = {
+	color = { 182 255 0 }
+	385 390 130 461 381 382
+}
+
+eight_area = {
+	color = { 76 255 0 }
+	386 53 380 52 406
+}
+
+nine_area = {
+	color = { 0 255 33 }
+	129 396 135 389 137 392 388
+}
+
+ten_area = {
+	color = { 0 255 144 }
+	405 417 133 407 408 395 415
+}
+
+eleven_area = {
+	color = { 0 255 255 }
+	391 397 398 134 132 264 140
+}
+
+twelve_area = {
+	color = { 0 148 255 }
+	141 143 144 343 138 340 139
+}
+
+thirteen_area = {
+	color = { 0 38 255 }
+	124 475 473 472 261 409 338
+}
+
+fourteen_area = {
+	color = { 72 0 255 }
+	474 410 142 394 471 36
+}
+
+fifteen_area = {
+	color = { 178 0 255 }
+	411 337 333 336 470 325
+}
+
+sixteen_area = {
+	color = { 255 0 220 }
+	341 339 342 145 101 105 97
+}
+
+eighteen_area = {
+	color = { 255 0 110 }
+	326 322 103 91 320 99 98	
+}
+
+nineteen_area = {
+	color = { 127 0 0 }
+	96 328 90 89 93 332
+}
+
+twenty_area = {
+	color = { 127 0 110 }
+	94 323 321 317 374 92 80
+}
+
+twentyone_area = {
+	color = { 33 0 127 }
+	100 311 102 319 327 399 316
+}
+
+twentytwo_area = {
+	color = { 0 19 127 }
+	266 277 329 414 44 315 123
+}
+
+twentythree_area = {
+	color = { 0 74 127 }
+	86 299 298 334 307 318 82
+}
+
+twentyfour_area = {
+	color = { 0 127 70 }
+	373 281 303 286 289 64 27
+}
+
+twentyfive_area = {
+	color = { 38 127 0 }
+	314 305 76 300 74 306 77
+}
+
+twentysix_area = {
+	color = { 127 106 0 }
+	348 416 413 84 87 310 309
+}
+
+twentyseven_area = {
+	color = { 127 51 0 }
+	412 312 308 313 111 438 88
+}
+
+twentyeight_area = {
+	color = { 127 0 0 }
+	147 106 324 301 83 104 85	
+}
+
+twentynine_area = {
+	color = { 160 160 160 }
+	302 304 290 75 66 81 297	
+}
+
+thirty_area = {
+	color = { 48 48 48 }
+	63 62 285 70 295 296 67	
+}
+
+thirtyone_area = {
+	color = { 255 127 127 }
+	73 366 360 72 24 71 58	
+}
+
+thirtytwo_area = {
+	color = { 255 233 127 }
+	61 291 288 284 69 294 79
+}
+
+thirtythree_area = {
+	color = { 165 255 127 }
+	293 78 331 68 292 330 439	
+}
+
+thirtyfour_area = {
+	color = { 127 255 142 }
+	282 57 59 10 56 369 60	
+}
+
+thirtyfive_area = {
+	color = { 127 255 255 }
+	19 280 367 11 283 368 258
+}
+
+thirtysix_area = {
+	color = { 127 146 255 }
+	18 462 370 20 22 25 65
+}
+
+thirtyseven_area = {
+	color = { 214 127 255 }
+	363 263 463 357 371 364 13
+}
+
+thirtyeight_area = {
+	color = { 255 127 237 }
+	365 12 14 15 356 26 41
+}
+
+thirtynine_area = {
+	color = { 192 192 192 }
+	287 262 21 361 54 55 362
+}
+
+forty_area = {
+	color = { 127 63 63 }
+	359 358 437 23 40 436
+}
+
+fortyone_area = {
+	color = { 82 127 63 }
+	51 435 440 434 445 115 116
+}
+
+fortytwo_area = {
+	color = { 63 100 127 }
+	444 451 45 112 400 114 433
+}
+
+fortythree_area = {
+	color = { 127 63 91  }
+	401 449 432 274 113 441 95
+}
+
+fortyfour_area = {
+	color = { 165 177 255 }
+	450 207 107 452 442 108 428
+}
+
+fortyfive_area = {
+	color = { 255 219 170  }
+	446 448 426 454 458 453 447
+}
+
+fortysix_area = {
+	color = { 255 79 181 }
+	109 460 443 456 431 110
+}
+
+fortyseven_area = {
+	color = { 255 207 53 }
+	425 421 427 422 424 423
+}
+
+fortyeight_area = {
+	color = { 63 184 255 }
+	265 267 387 429 430
+}
+
+fortynine_area = {
+	color = { 242 255 0 }
+	128 379 383 125 131 384
+}
+
+fifty_area = {
+	color = { 255 45 178 }
+	28 349 464 16 354 273 17
+}
+
+fiftyone_area = {
+	color = { 142 232 255 }
+	355 402 372 353 352 31 29
+}
+
+fiftytwo_area = {
+	color = { 53 255 134 }
+	32 30 345 351 347 350 344 33	 
+}
+
+fiftythree_area = {
+	color = { 38 0 255  }
+	278 279 146 270 269 346 9
+}
+
+fiftyfour_area = {
+	color = { 255 89 0 }
+	35 469 34 5
+}
+
+fiftyfive_area = {
+	color = { 136 255 0 }
+	468 467 38 4
+}
+
+fiftysix_area = {
+	color = { 50 119 255 }
+	403 466 39	
+}
+
+fiftyseven_area = {
+	color = { 255 248 71 }
+	6 272 37 335
+}
+
+# Forgotten provinces
+extra_area = {
+	195 259 260
+}
+
+one_sea_area = {
+	color = { 0 0 12 }
+	159 201 225 149 157 203 158 202
+}
+
+two_sea_area = {
+	color = { 255 16 24 }
+	42 204 244 211 200 199 226 249
+}
+
+three_sea_area = {
+	color = { 0 8 255 }
+	222 234 198 180 256 236 233
+}
+
+four_sea_area = {
+	color = { 255 247 15 }
+	190 188 238 237 235 251 239 252
+}
+
+five_sea_area = {
+	color = { 4 255 0 }
+	215 197 227 185 254 224 191 247 189 228
+}
+
+six_sea_area = {
+	color = { 255 146 30 }
+	193 213 160 192 186 255 179 194 248 148
+}
+
+seven_sea_area = {
+	color = { 255 0 250 }
+	181 257 183 167 168 232 187 240
+}
+
+eight_sea_area = {
+	color = { 5 255 200 }
+	241 243 246 161 217	
+}
+
+nine_sea_area = {
+	color = { 0 169 255 }
+	242 219 245 253 153 212 155	
+}
+
+ten_sea_area = {
+	color = { 255 82 123 }
+	218 182 162 216 166 178 177 477 176 175	
+}
+
+eleven_sea_area = {
+	color = { 42 255 0 }
+	250 210 172 173 174 230
+}
+
+twelve_sea_area = {
+	color = { 255 0 29 }
+	476 165 196 206 171 169 164 163 152	
+}
+
+thirteen_sea_area = {
+	color = { 187 255 61 }
+	214 229 223 170 205 156 231 208	
+}
+
+fourteen_sea_area = {
+	color = { 158 80 132 }
+	209 221 154 220 150 151 184	
+}

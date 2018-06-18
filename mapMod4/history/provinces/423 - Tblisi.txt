@@ -1,0 +1,33 @@
+# 423 - Tblisi
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = paper
+capital = "Tblisi"
+is_city = yes
+
+base_tax = 3
+base_production = 5
+base_manpower = 3
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

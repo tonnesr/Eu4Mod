@@ -1,0 +1,32 @@
+# A region can only belong to one super region.
+
+one_superregion = {
+	one_region
+	two_region
+	three_region
+	four_region
+	five_region
+	six_region
+	seven_region
+	eight_region
+	nine_region
+}
+
+new_world_superregion = {
+}
+
+# Sea super regions are used by AI to plan naval bases (it wants at least one fleet in each it has non-home presence if possible).
+
+one_sea_superregion = {
+	one_sea_region
+	
+}
+
+two_sea_superregion = {
+	two_sea_region
+	
+}
+
+three_sea_superregion = {
+	three_sea_region
+}

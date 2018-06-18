@@ -1,0 +1,33 @@
+# 159 - Silistria
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = naval_supplies
+capital = "Silistria"
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 4
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

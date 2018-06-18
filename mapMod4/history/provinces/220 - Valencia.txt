@@ -1,0 +1,33 @@
+# 220 - Valencia
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = incense
+capital = "Valencia"
+is_city = yes
+
+base_tax = 1
+base_production = 5
+base_manpower = 1
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

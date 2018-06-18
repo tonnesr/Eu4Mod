@@ -1,0 +1,139 @@
+# A province can only belong to one region!
+
+# random_new_world_region is used for RNW. Must be first in this list.
+random_new_world_region = {
+
+}
+
+one_region = {
+    areas = {
+		extra_area
+		one_area
+        two_area
+		three_area
+		four_area
+		five_area
+		six_area
+    }
+}
+two_region = {
+    areas = {
+		seven_area 
+		eight_area 
+		nine_area 
+		ten_area 
+		eleven_area 
+		twelve_area 
+		thirteen_area 
+    }
+}
+
+three_region = {
+    areas = {
+		fourteen_area 
+		fifteen_area 
+		sixteen_area 
+		eighteen_area 
+		nineteen_area 
+		twenty_area 
+		twentyone_area 
+    }
+}
+
+four_region = {
+    areas = {
+		twentytwo_area 
+		twentythree_area 
+		twentyfour_area 
+		twentyfive_area 
+		twentysix_area 
+		twentyseven_area 
+		twentyeight_area
+    }
+}
+
+five_region = {
+    areas = {
+		twentynine_area 
+		thirty_area 
+		thirtyone_area 
+		thirtytwo_area 
+		thirtythree_area 
+		thirtyfour_area 
+		thirtyfive_area 
+    }
+}
+
+six_region = {
+    areas = {
+		thirtysix_area 
+		thirtyseven_area 
+		thirtyeight_area 
+		thirtynine_area 
+		forty_area 
+		fortyone_area 
+    }
+}
+
+seven_region = {
+    areas = {
+		fortytwo_area 
+		fortythree_area 
+		fortyfour_area 
+		fortyfive_area 
+		fortysix_area 
+		fortyseven_area 
+    }
+}
+
+eight_region = {
+    areas = {
+		fortyeight_area 
+		fortynine_area 
+		fifty_area 
+		fiftyone_area 
+		fiftytwo_area 
+    }
+}
+
+nine_region = {
+    areas = {
+		fiftythree_area 
+		fiftyfour_area 
+		fiftyfive_area 
+		fiftysix_area 
+		fiftyseven_area 
+    }
+}
+
+one_sea_region = {
+    areas = {
+		one_sea_area 
+		two_sea_area 
+		three_sea_area 
+		four_sea_area 
+
+    }
+}
+
+two_sea_region = {
+    areas = {	
+		five_sea_area 
+		six_sea_area 	
+		seven_sea_area 
+		eight_sea_area 
+		nine_sea_area
+		
+    }
+} 
+ 
+three_sea_region = {
+    areas = {
+		ten_sea_area 
+		eleven_sea_area 
+		twelve_sea_area 
+		thirteen_sea_area
+		fourteen_sea_area		
+    }
+} 
+

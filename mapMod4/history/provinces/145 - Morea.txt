@@ -1,0 +1,33 @@
+# 145 - Morea
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = wool
+capital = "Morea"
+is_city = yes
+
+base_tax = 2
+base_production = 4
+base_manpower = 4
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

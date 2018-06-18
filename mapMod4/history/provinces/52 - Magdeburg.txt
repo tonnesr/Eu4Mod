@@ -1,0 +1,33 @@
+# 52 - Magdeburg
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = gold
+capital = "Magdeburg"
+is_city = yes
+
+base_tax = 6
+base_production = 1
+base_manpower = 3
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

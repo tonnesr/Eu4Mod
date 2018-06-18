@@ -1,0 +1,33 @@
+# 26 - Halland
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = unknown
+capital = "Halland"
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 2
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

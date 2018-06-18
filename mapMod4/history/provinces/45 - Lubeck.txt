@@ -1,0 +1,33 @@
+# 45 - Lubeck
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = cotton
+capital = "Lubeck"
+is_city = yes
+
+base_tax = 4
+base_production = 4
+base_manpower = 4
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+# 85 - Koln
+
+add_core = NOR
+owner = NOR
+controller = NOR
+
+culture = norwegian
+religion = catholic
+hre = no
+trade_goods = cocoa
+capital = "Koln"
+is_city = yes
+
+base_tax = 3
+base_production = 4
+base_manpower = 4
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+
+
+
+
+
+
+
+
+
+
