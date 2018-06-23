@@ -1,30 +1,330 @@
-african_great_lakes={
-	location=1
+isoahsea_tradenode={ # 1
+# Getting trade from outside of the map
+	location=77
 	color={
 		57 168 220 
 	}
-	inland=yes
 	outgoing={
-		name="kongo"
+		name="itrieshire_tradenode" # 2
 		path={
-			1 2 
+			75 295
 		}
 		control={
-			3299.000000 628.000000 3287.000000 595.000000 3270.000000 574.000000 3260.000000 559.000000 3231.000000 537.000000 
+			
 		}
 	}
 	members={
-		227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477
+	# Land areas
+		77 # Center
+		373 281 303 286 289 64 27 # twentyfour_area	
+		314 305 76 300 74 306 #77 # twentyfive_area
+		147 106 301 324 # Provinces from twentyeight_area
+		290 302 75 304 66 # Provinces from twentynine_area
+		307 82 299 298 86 # Provinces from twentythree_area
+		80 374 317 321 92 323 # Provinces from twenty_area
+		100 311 102 316 # Provinces from twentyone_area
+		360 366 73 360 72 # Provinces from thirtyone_area
+		67 285 # Provinces from thirty_area
+	# Sea areas
+		252 239 251 235 # Provinces from four_sea_area 
+		185 227 197 215 # Provines from five_sea_area		
 	}
 }
-kongo={
-	location=2
+blafsa_tradenode={ # 5
+# Getting trade from outside of the map
+	location=328
 	color={
-		100 220 0 
+		255 0 0
 	}
-	inland=yes
+	outgoing={
+		name="itrieshire_tradenode" # 2
+		path={
+			266 123 413
+		}
+		control={
+			
+		}
+	}
+	outgoing={
+		name="ukeka_tradenode" # 6
+		path={
+			410 175
+		}
+		control={
+			
+		}
+	}	
 	members={
-		1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 	
+	# Land areas
+		328 # Center		
+		343 138 139 # Provinces from twelve_area
+		474 142 394 471 36 # fourteen_area
+		337 333 336 470 325 # fifteen_area
+		341 339 342 145 101 105 97 # sixteen_area
+		326 322 103 91 320 99 98 # eighteen_area
+		96 90 89 93 332 #328 # nineteen_area	
+		399 327 319 # Provinces from twentyone_area
+		277 266 # Provinces from twentytwo_area
+		42 347 # fiftyeight_area
+		94 # Provinces from twenty_area
+	# Sea areas
+		188 238 190 237 # Provinces from four_sea_area
+		256 236 233 # Provinces from three_sea_area
+	}
+}
+ostualens_tradenode={ # 4
+# Getting trade from outside of the map
+	location=60
+	color={
+		15 100 50
+	}
+	outgoing={
+		name="oucrattin_tradenode" # 3
+		path={
+			193 192 179 194 431
+		}
+		control={
+			
+		}
+	}
+	outgoing={
+		name="ucodver_tradenode" # 8
+		path={
+			12 26
+		}
+		control={
+			
+		}
+	}
+	members={
+	# Land areas
+		60 # Center
+		282 57 59 10 56 369 #60 # thirtyfour_area
+		19 280 367 11 283 368 258 # thirtyfive_area
+		85 104 83 # Provinces from twentyeight_area
+		58 24 71 # Provinces from thirtyone_area
+		288 284 61 # Provinces from thirtytwo_area
+		287 262 # Provinces from thirtynine_area
+		41 365 12 # Provinces from thirtyeight_area
+		18 462 22 370 20 25 65 # Provinces from thirtysix_area
+		364 # Provinces from thirtyseven_area		
+	# Sea areas
+		191 254 247 224 228 189 # Provinces from five_sea_area
+		193 213 160 # Provinces from six_sea_area
+	}
+}
+ucodver_tradenode={ # 8
+# Getting trade from outside of the map
+	location=437
+	color={
+		140 15 100
+	}
+	outgoing={
+		name="oucrattin_tradenode" # 3
+		path={
+			179 194 181 232
+		}
+		control={
+			
+		}
+	}
+	outgoing={
+		name="itrieshire_tradenode" # 2
+		path={
+			436 440 438
+		}
+		control={
+			
+		}
+	}
+	members={
+	# Land areas
+		437 # Center
+		359 358 23 40 436 #437 # forty_area
+		21 361 54 55 362 # thirtynine_area
+		51 435 440 434 445 115 116 # fortyone_area
+		26 14 356 15# Provinces from thirtyeight_area
+		444 45 451 # Provinces from fortytwo_area
+		13 357 371 463 363 263 # Provinces from thirtyseven_area		
+	# Sea areas
+		192 179 194 248 186 255 148 # Provinces from six_sea_area
+		257 # Provinces from seven_sea_area
+	}
+}
+aflaamdon_tradenode={ # 7
+# Getting trade from outside of the map
+# End node
+	location=382
+	color={
+		100 100 0
+	}
+	outgoing={
+		name="ukeka_tradenode" # 6
+		path={
+			163 169 172
+		}
+		control={
+			
+		}
+	}	
+	members={
+	# Land areas
+		382 # Center
+		459 120 117 457 122 121 # one_area
+		455 118 119 48 268 378 420 # two_area
+		276 375 50 43 419 465 # three_area
+		271 2 404 376 8 47 275 # four_area
+		7 46 1 3 377 49 # five_area
+		418 136 393 127 126 # six_area
+		385 390 130 461 381 #382 # seven_area
+		386 53 380 52 406 # eight_area
+	# Sea areas
+		214 223 229 170 231 # Provinces from thirteen_sea_area
+		209 221 150 154 220 184 151  # fourteen_sea_area
+		157 158 149 225 201 159 # Provinces from one_sea_area
+	}
+	end=yes	
+}
+ebreka_tradenode={ # 9
+# Getting trade from outside of the map
+	location=132
+	color={
+		140 15 100
+	}
+	outgoing={
+		name="ukeka_tradenode" # 6
+		path={
+			398 408
+		}
+		control={
+			
+		}
+	}
+	outgoing={
+		name="itrieshire_tradenode" # 2
+		path={
+			139 414 413
+		}
+		control={
+			
+		}
+	}
+	members={
+	# Land areas
+		132 # Center
+		391 397 398 134 132 264 140 # eleven_area
+		129 396 135 389 137 392 388 # nine_area
+		472 473 338 # Provinces from thirteen_area
+		395 417 # Provinces from ten_area
+		141 143 144 340 # Provinces from twelve_area
+	# Sea areas
+		180 195 234 198 # Provinces from three_sea_area
+		249 226 199 204 222 200 244 211 # two_sea_area
+		202 203 # Provinces from one_sea_area
+	}
+}
+itrieshire_tradenode={ # 2
+	location=412
+	color={
+		255 255 0
+	}
+	outgoing={
+		name="oucrattin_tradenode" # 3
+		path={
+			245 95
+		}
+		control={
+			
+		}
+	}
+	outgoing={
+		name="ukeka_tradenode" # 6
+		path={
+			177 345
+		}
+		control={
+			
+		}
+	}	
+	members={
+	# Land areas
+		412 # Center
+		312 308 313 111 438 88 #412 # twentyseven_area
+		348 416 413 84 87 310 309 # twentysix_area
+		293 78 331 68 292 330 439 # thirtythree_area
+		79 294 291 69 # Provinces from thirtytwo_area
+		295 63 70 62 # Provinces from thirty_area
+		81 297 # Provinces from twentynine_area
+		318 334 # Provinces from twentythree_area
+		123 414 315 44 329 # Provinces from twentytwo_area
+		400 # Provinces from fortytwo_area
+		411 # Provinces from fifteen_area
+	# Sea areas
+		245 253 153 # Provinces from nine_sea_area
+		218 182 162 178 177 # Provinces from ten_sea_area	
+	}
+}
+ukeka_tradenode={ # 6
+	location=350
+	color={
+		0 255 0
+	}
+	outgoing={
+		name="oucrattin_tradenode" # 3
+		path={
+			155 425
+		}
+		control={
+			
+		}
+	}
+	members={
+	# Land areas
+		350 # Center
+		28 349 464 16 354 273 17 # fifty_area
+		355 402 372 353 352 31 29 # fiftyone_area
+		32 30 345 351 344 33 #350 # fiftytwo_area
+		278 279 146 270 269 346 9 #fiftythree_area
+		35 469 34 5 # fiftyfour_area
+		468 467 38 4 # fiftyfive_area
+		403 466 39 # fiftysix_area
+		6 272 37 335 # fiftyseven_area	
+		261 409 124 475 # Provinces from thirteen_area
+		415 408 133 407 405 # Provinces from ten_area	
+		410 # Provinces from fourteen_area
+	# Sea areas
+		216 166 176 175 477 # Provinces from ten_sea_area
+		250 210 230 172 174 173 # eleven_sea_area
+		212 155 # Provinces from nine_sea_area
+		217 243 246 161 # eight_sea_area
+		208 156 205 # thirteen_sea_area
+		163 164 169 171 206 165 476 196 # twelve_sea_area
+	}
+}
+oucrattin_tradenode={ # 3
+# Getting trade from outside of the map
+# End node
+	location=456
+	color={
+		0 0 255
+	}		
+	members={
+	# Land area
+		456 # Center
+		128 379 383 125 131 384 # fortynine_area
+		265 267 387 429 430 # fortyeight_area
+		425 421 427 422 424 423 # fortyseven_area
+		109 460 443 431 110 #456 # fortysix_area
+		446 448 426 454 458 453 447 # fortyfive_area
+		450 207 107 452 442 108 428 # fortyfour_area
+		401 449 432 274 113 441 95 # fortythree_area
+		433 114 112 # Provinces from fortytwo_area
+	# Sea area
+		181 183 167 168 232 187 240 # Provinces from seven_sea_area
+		241 # Provinces from eight_sea_area
+		242 219 # Provinces from nine_sea_area
 	}
 	end=yes
 }
+
+

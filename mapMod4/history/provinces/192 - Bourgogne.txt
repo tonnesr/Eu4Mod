@@ -1,19 +1,19 @@
-# 192 - Bourgogne
 
-add_core = NOR
-owner = NOR
-controller = NOR
 
-culture = norwegian
-religion = catholic
-hre = no
-trade_goods = paper
-capital = "Bourgogne"
-is_city = yes
 
-base_tax = 1
-base_production = 1
-base_manpower = 4
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

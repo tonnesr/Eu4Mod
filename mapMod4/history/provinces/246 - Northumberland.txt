@@ -1,19 +1,19 @@
-# 246 - Northumberland
 
-add_core = NOR
-owner = NOR
-controller = NOR
 
-culture = norwegian
-religion = catholic
-hre = no
-trade_goods = coffee
-capital = "Northumberland"
-is_city = yes
 
-base_tax = 5
-base_production = 1
-base_manpower = 4
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

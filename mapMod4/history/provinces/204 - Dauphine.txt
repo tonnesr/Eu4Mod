@@ -1,19 +1,19 @@
-# 204 - Dauphine
 
-add_core = NOR
-owner = NOR
-controller = NOR
 
-culture = norwegian
-religion = catholic
-hre = no
-trade_goods = wine
-capital = "Dauphine"
-is_city = yes
 
-base_tax = 6
-base_production = 2
-base_manpower = 2
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
