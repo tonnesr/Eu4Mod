@@ -1,0 +1,27 @@
+#4394 - Fire
+
+owner = FRE
+controller = FRE
+add_core = FRE
+culture = norwegian
+religion = catholic
+hre = yes
+base_tax = 19 
+base_production = 15
+trade_goods = gold
+base_manpower = 3
+add_local_autonomy = 25
+capital = "Fire"
+is_city = yes 	
+add_core = NOR
+add_core = ICE
+discovered_by = western
+
+
+1536.1.1 = {
+	religion = protestant
+	owner = DAN
+	controller = DAN
+	add_core = DAN
+}
+1752.1.1 = { trade_goods = wool } # Wool becomes more important.

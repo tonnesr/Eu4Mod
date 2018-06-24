@@ -619,7 +619,7 @@ subarctic_islands_area = { #2
 }
 
 iceland_area = { #2
-	370 371 4393
+	370 371 4393 4394
 }
 
 greenland_area = { #2
