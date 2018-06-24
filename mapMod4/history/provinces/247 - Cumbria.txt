@@ -1,19 +1,19 @@
-# 247 - Cumbria
 
-add_core = NOR
-owner = NOR
-controller = NOR
 
-culture = norwegian
-religion = catholic
-hre = no
-trade_goods = dyes
-capital = "Cumbria"
-is_city = yes
 
-base_tax = 2
-base_production = 3
-base_manpower = 3
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

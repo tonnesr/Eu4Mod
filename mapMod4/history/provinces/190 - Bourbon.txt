@@ -1,19 +1,19 @@
-# 190 - Bourbon
 
-add_core = NOR
-owner = NOR
-controller = NOR
 
-culture = norwegian
-religion = catholic
-hre = no
-trade_goods = fur
-capital = "Bourbon"
-is_city = yes
 
-base_tax = 1
-base_production = 2
-base_manpower = 6
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

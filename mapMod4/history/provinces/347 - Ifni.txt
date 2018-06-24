@@ -1,4 +1,4 @@
-# 347 - Ifni
+# 347 - NoName
 
 add_core = NOR
 owner = NOR
@@ -7,13 +7,14 @@ controller = NOR
 culture = norwegian
 religion = catholic
 hre = no
-trade_goods = copper
-capital = "Ifni"
+trade_goods = unknown
+capital = "NoName"
 is_city = yes
 
-base_tax = 4
-base_production = 3
+base_tax = 1
+base_production = 1
 base_manpower = 1
+
 
 
 

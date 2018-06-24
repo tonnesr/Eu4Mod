@@ -5,9 +5,10 @@ random_new_world_region = {
 
 }
 
+
+#Land regions
 one_region = {
     areas = {
-		extra_area
 		one_area
         two_area
 		three_area
@@ -20,7 +21,7 @@ two_region = {
     areas = {
 		seven_area 
 		eight_area 
-		nine_area 
+		nine_area
 		ten_area 
 		eleven_area 
 		twelve_area 
@@ -36,38 +37,36 @@ three_region = {
 		eighteen_area 
 		nineteen_area 
 		twenty_area 
-		twentyone_area 
+		twentyone_area
+		twentytwo_area
+		fiftyeight_area #Two Northern Islands
     }
 }
 
 four_region = {
-    areas = {
-		twentytwo_area 
+    areas = { 
 		twentythree_area 
 		twentyfour_area 
 		twentyfive_area 
-		twentysix_area 
-		twentyseven_area 
 		twentyeight_area
+		twentynine_area 		
+		thirtyone_area
+		fiftynine_area 
     }
 }
 
 five_region = {
     areas = {
-		twentynine_area 
-		thirty_area 
-		thirtyone_area 
-		thirtytwo_area 
-		thirtythree_area 
-		thirtyfour_area 
-		thirtyfive_area 
+		thirty_area
+		thirtytwo_area
+		thirtythree_area
+		twentysix_area
+		twentyseven_area
     }
 }
 
 six_region = {
     areas = {
-		thirtysix_area 
-		thirtyseven_area 
 		thirtyeight_area 
 		thirtynine_area 
 		forty_area 
@@ -83,29 +82,35 @@ seven_region = {
 		fortyfive_area 
 		fortysix_area 
 		fortyseven_area 
+		fortyeight_area 
+		fortynine_area 		
     }
 }
 
 eight_region = {
     areas = {
-		fortyeight_area 
-		fortynine_area 
 		fifty_area 
 		fiftyone_area 
 		fiftytwo_area 
+		fiftythree_area 
+		fiftyfour_area 
+		fiftyfive_area 
+		fiftysix_area 
+		fiftyseven_area 		
     }
 }
 
 nine_region = {
     areas = {
-		fiftythree_area 
-		fiftyfour_area 
-		fiftyfive_area 
-		fiftysix_area 
-		fiftyseven_area 
+		thirtyseven_area	
+		thirtysix_area 
+		thirtyfour_area 
+		thirtyfive_area 		
     }
 }
 
+
+#Sea regions
 one_sea_region = {
     areas = {
 		one_sea_area 
@@ -120,15 +125,14 @@ two_sea_region = {
     areas = {	
 		five_sea_area 
 		six_sea_area 	
-		seven_sea_area 
-		eight_sea_area 
-		nine_sea_area
-		
+		seven_sea_area 		
     }
 } 
  
 three_sea_region = {
     areas = {
+		eight_sea_area 
+		nine_sea_area	
 		ten_sea_area 
 		eleven_sea_area 
 		twelve_sea_area 
@@ -137,3 +141,8 @@ three_sea_region = {
     }
 } 
 
+
+#Other regions
+wasteland_region = {
+	wasteland_area
+}

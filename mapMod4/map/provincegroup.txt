@@ -1,3 +1,5 @@
+# Province groups are similar to areas, although they have no inherent function. 
+# Rather, they allow the grouping of provinces, and then the province group name can be used as a scope in effects and triggers.
 
 #mytestgroup = {
 #	1 2 3

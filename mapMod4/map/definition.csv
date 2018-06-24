@@ -1,478 +1,486 @@
 province;red;green;blue;x;x
-1;133;110;255;Kurland;x
-2;5;112;0;Memel;x
-3;133;114;64;Ostpreussen;x
-4;17;152;255;Messina;x
-5;145;154;0;Palermo;x
-6;18;156;64;Malta;x
-7;38;60;0;Troki;x
-8;166;62;64;Samogitia;x
-9;173;34;64;Cyprus;x
-10;47;60;255;Tangiers;x
-11;175;62;0;Mellila;x
-12;48;244;64;Tlemcen;x
-13;176;66;128;Oran;x
-14;48;68;192;Al-Djazair;x
-15;176;70;255;Kabylia;x
-16;48;72;0;Constantine;x
-17;176;74;64;Tunis;x
-18;48;76;128;Toubkhal;x
-19;177;78;192;Fez;x
-20;49;80;255;Marrakech;x
-21;177;82;0;Safi;x
-22;49;84;64;Figuig;x
-23;177;86;128;Ifni;x
-24;49;88;192;Sus;x
-25;177;90;255;Atlas;x
-26;50;92;0;Aures;x
-27;178;94;64;Biskra;x
-28;50;96;128;Gafsa;x
-29;178;98;192;Tataouine;x
-30;50;100;255;Tripolitania;x
-31;178;102;0;Sirt;x
-32;50;104;64;Cyrenaica;x
-33;179;106;128;Darnah;x
-34;51;108;192;Alexandria;x
-35;179;110;255;Fayyum;x
-36;51;112;0;Qus;x
-37;179;114;64;Cairo;x
-38;51;116;128;Rosetta;x
-39;180;122;0;Sinai;x
-40;52;124;64;The Canarias;x
-41;52;128;192;Madeira;x
-42;74;56;255;Central Doab;x
-43;110;36;0;Braslaw;x
-44;110;44;255;Al Junaynah;x
-45;215;191;212;Mbwila;
-46;141;98;79;Chiaha;x
-47;143;118;173;Cumberland;x
-48;16;132;126;Ohio;x
-49;144;134;173;Monacan;x
-50;144;138;79;Kanawha;x
-51;34;228;32;Sibir;x
-52;38;247;32;Mauritius;x
-53;166;58;79;Bourbon;x
-54;39;72;32;Rio de Oro;x
-55;167;74;79;Arguin;x
-56;39;76;126;Trarza;x
-57;167;78;173;Cayor;x
-58;40;80;32;Gabu;x
-59;168;82;79;Brakna;x
-60;40;84;126;Wolof;x
-61;168;86;173;Futa Jallon;x
-62;40;88;32;Sierra Leone;x
-63;168;90;79;Grain Coast;x
-64;40;92;126;Bambuk;x
-65;169;94;173;Bure;x
-66;41;96;32;Konian;x
-67;169;98;79;Segu;x
-68;41;100;126;Wasuju;x
-69;169;102;173;Worodugu;x
-70;41;104;32;Ivory Coast;x
-71;169;106;79;Tuat;x
-72;42;108;126;Taodeni;x
-73;170;110;173;Azawadd;x
-74;42;112;32;Tadimekket;x
-75;170;114;79;Massina;x
-76;42;116;126;Timbuktu;x
-77;170;118;173;Gao;x
-78;42;120;32;Jenne;x
-79;171;122;79;Yatenga;x
-80;43;124;126;Gurma;x
-81;171;126;173;Wagadugi;x
-82;43;128;32;Kumasi;x
-83;171;130;79;Gold Coast;x
-84;43;132;126;Abomey;x
-85;171;134;173;Whydah;x
-86;44;136;32;Dendi;x
-87;172;138;79;Borgu;x
-88;44;140;126;Oyo;x
-89;172;142;173;Nupe;x
-90;44;144;32;Ife;x
-91;172;146;79;Benin;x
-92;44;148;126;Gobir;x
-93;173;150;173;Katsina;x
-94;45;152;32;Zamfara;x
-95;173;154;79;Bonny;x
-96;45;156;126;Idah;x
-97;173;158;173;Pindinga;x
-98;45;32;32;Zazzau;x
-99;173;34;79;Kano;x
-100;46;36;126;Damagaram;x
-101;174;38;173;Damasak;x
-102;46;40;32;Kanem;x
-103;174;42;79;Bagirmi;x
-104;46;44;126;Bornu;x
-105;174;246;173;Bauchi;x
-106;46;48;32;Wukari;x
-107;175;50;79;Calabar;x
-108;47;52;126;Cameroon;x
-109;175;54;173;Gabon;x
-110;47;236;32;Loango;x
-111;175;58;79;Luanda;x
-112;206;217;77;Nsoyo;x
-113;175;62;173;Mayombe;x
-114;48;64;32;Kongo;x
-115;176;66;79;Ndongo;x
-116;48;68;126;Benguela;x
-117;178;98;79;Urungwe;x
-118;50;100;126;Tete;x
-119;178;202;173;Barwe;x
-120;50;104;32;Zumbo;x
-121;179;106;79;Sena;x
-122;51;108;126;Quelimane;x
-123;179;110;173;Menabe;x
-124;51;212;32;Besalampy;x
-125;181;146;79;Harer;x
-126;182;150;173;Shoa;x
-127;54;152;32;Awsa;x
-128;182;154;79;Tajura;x
-129;54;156;126;Dar Nuba;x
-130;182;158;173;Fazughli;x
-131;54;32;32;Kefa;x
-132;183;34;79;Kordofan;x
-133;55;36;126;Dar Ja'al;x
-134;183;38;173;Taqali;x
-135;55;40;32;Gezira;x
-136;183;42;79;Gojjam;x
-137;55;44;126;Gonder;x
-138;183;246;173;Butana;x
-139;56;48;32;Taka;x
-140;56;252;126;Dongola;x
-141;184;54;173;Berber;x
-142;184;58;79;Aswan;x
-143;56;60;126;Suakin;x
-144;185;62;173;Kharga;x
-145;57;164;32;Qasr Ibrim;x
-146;58;84;126;Tahiti;x
-147;187;94;173;Yola;x
-148;7;220;250;Gulf of Riga;x
-149;23;220;250;The Channel;x
-150;25;200;200;Coast of Britanny;x
-151;28;250;250;Bay of Biscay;x
-152;30;200;250;Tyne;x
-153;31;220;250;Firth of Forth;x
-154;33;200;200;Moray Firth;x
-155;34;200;250;North Channel;x
-156;37;200;200;Donegal Bay;x
-157;38;200;250;Dingle Bay;x
-158;39;220;250;Celtic Sea;x
-159;41;200;200;Finisterre Bay;x
-160;42;200;250;Lusitanian Sea;x
-161;86;200;250;Persian Gulf;x
-162;87;220;250;Gulf of Indus;x
-163;95;220;250;Akyab Bay;x
-164;98;200;250;Mergui Archipelago;x
-165;100;250;250;Nicobar Isles;x
-166;101;200;200;Coast of Atjeh;x
-167;102;200;250;Coast of Sumatra;x
-168;105;200;200;Coast of Surabaya;x
-169;109;200;200;Java Sea;x
-170;111;220;250;Karimata Strait;x
-171;112;250;250;Straits of Johore;x
-172;113;200;200;Malayan Sea;x
-173;116;250;250;Gulf of Siam;x
-174;118;200;250;South China Sea;x
-175;121;200;200;Gulf of Tonkin;x
-176;18;201;251;Manila Bay;x
-177;20;251;251;Gulf of Leyte;x
-178;21;201;201;Sulu Sea;x
-179;24;251;251;Sea of Banda;x
-180;26;201;251;Palau Islands;x
-181;27;221;251;Biak Bay;x
-182;29;201;201;Trobrian Islands;x
-183;30;201;251;Torres Strait;x
-184;34;201;251;Great Barrier Reef;x
-185;35;221;251;Capricorn Bay;x
-186;38;201;251;Kangaroo Island;x
-187;43;221;251;King Sound;x
-188;44;251;251;Tasman Sea;x
-189;45;201;201;Southern Tasman Sea;x
-190;49;201;201;Coast of New Zealand;x
-191;52;251;251;New Caledonian Sea;x
-192;53;201;201;Coral Sea;x
-193;55;221;251;Solomon Sea;x
-194;57;201;201;Melanesia Sea;x
-195;58;201;251;Micronesia Sea;x
-196;59;221;251;Yap Islands;x
-197;79;221;251;Gulf of Zambeze;x
-198;80;251;251;Coast of Natal;x
-199;81;201;201;Coast of Transkei;x
-200;84;251;251;Coast of Namibia;x
-201;86;201;251;Gulf of Kongo;x
-202;87;221;251;Coast of Cameroon;x
-203;88;251;251;Gulf of Nigeria;x
-204;90;201;251;Gold Coast;x
-205;93;201;201;Maueretanian Coast;x
-206;94;201;251;Canarian Sea;x
-207;96;251;251;Jan Mayen Sea;x
-208;99;221;251;Eastern Coast of Iceland;x
-209;105;201;201;Western Coast of Greenland;x
-210;110;201;251;Western Hudson Bay;x
-211;122;201;251;Masschusetts Bay;x
-212;5;202;202;Yucatan Sea;x
-213;20;252;252;Coast of Cuba;x
-214;24;252;252;Amazonas Gulf;x
-215;26;202;252;Coast of Recife;x
-216;38;202;252;Arica Gulf;x
-217;52;252;252;Coast of Oregon;x
-218;53;202;202;Coast of Columbia;x
-219;57;202;202;Kuskowim Bay;x
-220;62;202;252;Sea of Azores;x
-221;63;222;252;Corner Seamounts;x
-222;68;252;252;East Bermuda Sea;x
-223;69;202;202;Some Funny Seaname;x
-224;71;222;252;Guiana Basin;x
-225;73;202;202;Canary Approach;x
-226;97;202;202;Eastern Atlantic #3;x
-227;101;202;202;Southern Atlantic #1;x
-228;105;202;202;Cape of Storms;x
-229;109;202;202;Ceylon Sea;x
-230;110;202;252;Coast of Maldives;x
-231;116;252;252;Indian Ocean #6;x
-232;119;222;252;Indian Ocean #9;x
-233;123;222;252;Indian Ocean #13;x
-234;125;202;202;Indian Ocean #15;x
-235;127;222;252;Indian Ocean #17;x
-236;3;223;253;Indian Ocean #21;x
-237;4;253;253;Indian Ocean #22;x
-238;5;203;203;Indian Ocean #23;x
-239;6;203;253;Indian Ocean #24;x
-240;9;203;203;Indian Ocean #27;x
-241;10;203;253;Indian Ocean #28;x
-242;11;223;253;Indian Ocean #29;x
-243;41;203;203;Western Pacific #9;x
-244;42;203;253;Western Pacific #10;x
-245;44;253;253;Northern Pacific #1;x
-246;48;253;253;Northern Pacific #5;x
-247;61;203;203;Central Pacific #8;x
-248;62;203;253;Central Pacific #9;x
-249;65;203;203;Central Pacific #11;x
-250;68;253;253;Eastern Pacific #2;x
-251;70;203;253;Eastern Pacific #4;x
-252;72;253;253;Eastern Pacific #6;x
-253;73;203;203;Eastern Pacific #7;x
-254;74;203;253;Eastern Pacific #8;x
-255;80;253;253;Eastern Pacific #14;x
-256;102;203;253;Southern Pacifc #18;x
-257;110;203;253;Southern Pacifc #26;x
-258;195;86;173;Ceuta;x
-259;72;148;126;Eastern Siberia;x
-260;200;150;173;Koryak;x
-261;201;42;79;Merina;x
-262;74;44;126;El Djouf;x
-263;202;46;173;Central Sahara;x
-264;74;48;32;East Sahara;x
-265;202;50;79;Central Africa;x
-266;74;52;126;Inner Kongo;x
-267;202;54;173;Imatong;x
-268;203;66;79;Greenland;x
-269;75;68;126;Québec;x
-270;76;72;32;Baffin Island;x
-271;207;126;173;Dorpat;x
-272;210;38;173;Jaffa;x
-273;214;94;173;Bône;x
-274;81;104;191;Mpangu;x
-275;52;0;240;Semigallia;x
-276;55;0;0;Kovno;x
-277;88;112;32;Tsaritsyn;x
-278;104;0;248;Society Islands;x
-279;105;0;232;Rapa Nui;x
-280;160;109;157;Tekrur;x
-281;80;73;160;Kantor;x
-282;120;75;185;Siine;x 
-283;120;137;132;Galam;x
-284;200;111;182;Beafada;x
-285;240;69;110;Karou;x
-286;80;135;107;Termes;x
-287;160;139;157;Tagant;x
-288;240;113;207;Wagadu;x
-289;40;115;232;Baghena;x
-290;80;117;83;Walata;x
-291;120;119;108;Do;x
-292;160;151;133;Sibiridugu;x
-293;160;77;210;Bendugu;x 
-294;80;61;184;Bagoe;x 
-295;200;117;235;Lobi;x
-296;160;121;133;Gwiriko;x
-297;240;125;232;Bonoman;x
-298;40;127;183;Gyaaman;x
-299;40;139;159;Dagbon;x
-300;80;129;208;Denkyira;x
-301;120;131;233;Cape Coast;x
-302;160;133;84;Bara;x
-303;200;79;235;Mema;x
-304;160;115;210;Kala;x
-305;116;98;168;Karabara;x
-306;200;91;211;Haayre;x
-307;200;135;109;Hombori;x
-308;240;119;86;Liptako;x
-309;140;199;183;Bilanga;x
-310;240;137;134;Tenkodogo;x
-311;40;83;11;Aribanda;x
-312;200;147;85;Zarmaganda;x
-313;40;121;11;Dallol;x
-314;80;141;184;Azawagh;x
-315;120;143;209;Ader;x
-316;80;123;136;Itesan;x
-317;240;161;86;Kawar;x 
-318;240;149;110;Kebbi;x 
-319;120;155;185;Daura;x
-320;160;157;210;Biram;x
-321;40;151;135;Muniyo;x
-322;240;143;207;Bedde;x
-323;160;89;186;Manga;x
-324;200;129;211;Marghi;x
-325;240;131;236;Logone;x
-326;40;163;11;Kotoko;x
-327;40;133;82;Yao;x
-328;40;71;135;Ondo;x 
-329;240;81;86;Ijebu;x
-330;120;87;161;Ketu;x
-331;140;145;232;Moshi;x
-332;200;141;182;Yawuri;x
-333;200;153;158;Warri;x
-334;80;147;83;Atakora;x
-335;139;22;59;Suez;x
-336;149;201;61;Minya;x
-337;157;215;209;Bahariya;x
-338;206;231;202;Manfalut;x
-339;62;48;146;Ras Gharib;x
-340;203;185;45;Queseer;x
-341;212;227;131;Wadi Halfa;x
-342;158;168;213;Sahra an Nubyah;x
-343;239;69;139;Halaib;x
-344;245;244;179;Tarrana;x
-345;178;31;114;Bardiyah;x
-346;108;157;64;Chios;x
-347;211;106;44;Aksary;x
-348;144;31;145;Fezzan;x
-349;81;144;95;Jufra;x
-350;207;131;46;Ghadames;x
-351;39;31;246;Thubaqt;x
-352;165;31;196;Zuwarah;x
-353;102;12;145;Sfax;x
-354;228;231;95;Kairouan;x
-355;60;161;46;Bizerte;x
-356;186;131;246;Touggourt;x
-357;123;51;196;Mzab;x
-358;249;249;145;Hodna;x
-359;21;1;95;Titteri;x
-360;147;151;46;Saoura;x
-361;84;131;246;Dahra;x
-362;210;11;196;Ouarsenis;x
-363;42;12;145;Kasdir;x
-364;168;151;95;Ouarzazate;x
-365;105;109;46;Oujda;x
-366;231;15;246;Draa;x
-367;63;119;196;Meknes;x
-368;189;221;145;Tadla;x
-369;126;1;95;Dukkala;x
-370;252;31;46;Haha;x
-371;252;131;46;Ouargla;x
-372;189;121;145;Souss;x
-373;148;133;60;Tajarhi;x
-374;37;133;180;Djado;x
-375;139;11;145;Chillicothe;x
-376;76;1;95;Shatteras;x
-377;19;131;246;Tutelo;x
-378;208;199;95;Monongahela;x
-379;166;56;206;Welayta;x
-380;86;116;66;Kaffa;x
-381;46;186;146;Illubabor;x
-382;116;166;116;Gambela;x
-383;126;216;46;Hadiya;x
-384;134;44;124;Arsi;x
-385;120;55;111;Damot;x
-386;48;148;218;Asosa;x
-387;26;216;116;Ausa;x
-388;198;74;105;Angot;x
-389;193;91;31;Lasta;x
-390;58;147;124;Agew;x
-391;71;100;145;Semien;x
-392;145;101;5;Dembiya;x
-393;126;107;255;Ankober;x
-394;200;122;110;Shendy;x
-395;160;160;88;Soba;x
-396;48;97;59;Sennar;x
-397;167;174;136;Kosti;x
-398;47;174;78;Medwa;x
-399;44;72;166;Waddai;x
-400;196;104;191;Matamba;x
-401;72;198;51;Mbata;x
-402;29;59;159;Djerba;x
-403;227;135;53;Syracuse;x
-404;34;25;232;Pomerelia;x
-405;239;204;149;Comoros;x
-406;244;97;32;Antankara;x
-407;217;166;43;Iboina;x
-408;100;201;61;Maroantsetra;x
-409;38;83;21;Vatomandry;x
-410;169;74;32;Antemoro;x
-411;215;80;147;Betsileo;x
-412;79;160;47;Mahafaly;x
-413;139;53;205;Antanosy;x
-414;185;135;224;Bara;x
-415;201;54;85;Antsalova;x
-416;222;145;161;Fiherana;x
-417;217;108;129;Al Qadirif;x
-418;38;234;130;Lundu;x
-419;106;189;104;Lala;x
-420;33;220;28;Nsenga;x
-421;203;160;93;Karagwe;x
-422;172;118;32;Buganda;x
-423;220;52;0;Bunyoro;x
-424;187;203;173;Ndorwe;x
-425;133;213;62;Nduga;x
-426;97;177;26;Buzozo;x
-427;28;191;70;Bushubi;x
-428;219;44;196;Nkoma;x
-429;239;192;146;Pubungo;x
-430;191;117;46;Lango;x
-431;219;94;40;Mayumba;x
-432;220;158;209;Ngoyo;x
-433;120;115;207;Soyo;x
-434;82;225;176;Tyo;x
-435;217;90;204;Kasanje;x
-436;217;173;199;Shinje;x
-437;32;114;111;Malem;x
-438;87;220;115;Yaka;x
-439;219;217;53;Nunu;x
-440;52;121;25;Kumbana;x
-441;213;60;93;Munene;x
-442;96;201;25;Kuba;x
-443;219;217;76;Songye;x
-444;101;224;33;Mpasu;x
-445;140;15;150;Rund;x
-446;150;15;175;Lwena;x
-447;160;15;200;Chokwe;x
-448;170;15;100;Ishindi;x
-449;180;15;150;Kalundwe;x
-450;190;15;175;Luba;x
-451;200;15;200;Upemba;x
-452;210;15;100;Hemba;x
-453;220;15;150;Luapala;x
-454;230;15;175;Lualaba;x
-455;207;15;150;Lamba;x
-456;207;15;175;Kusu;x
-457;207;15;200;Lenje;x
-458;197;15;100;Kanongesha;x
-459;207;15;100;Kaonde;x
-460;197;15;150;Lega;x
-461;117;150;26;Janjero;x
-462;195;207;97;High Atlas;x
-463;135;142;79;High Atlas2;x
-464;222;203;239;Aures;x
-465;203;127;53;Wenden;x
-466;214;231;24;Al Wajh;x
-467;91;196;33;Suwayda;x
-468;51;172;108;Mansura;x
-469;99;77;195;Buhaira;x
-470;63;128;27;Atfih;x
-471;163;183;82;Isna;x
-472;195;83;191;Girga;x
-473;121;21;154;Eastern Desert;x
-474;184;65;29;Eastern Desert;x
-475;224;40;15;Farafreh;x
-476;144;206;207;Pirate Coast;x
-477;125;226;241;Visayan Sea;x
+1;133;110;255;Grason;x
+2;5;112;0;Ihahull;x
+3;133;114;64;Ozruland;x
+4;17;152;255;Ucheehsea;x
+5;145;154;0;Vrurgh;x
+6;18;156;64;Klivrila;x
+7;38;60;0;Oopudon;x
+8;166;62;64;Ojia;x
+9;173;34;64;Srathe;x
+10;47;60;255;Etarc;x
+11;175;62;0;Klestead;x
+12;48;244;64;Seehdon;x
+13;176;66;128;Fruzence;x
+14;48;68;192;Ublaiburn;x
+15;176;70;255;Blido;x
+16;48;72;0;Creah;x
+17;176;74;64;Uyhoitreka;x
+18;48;76;128;Crery;x
+19;177;78;192;Wropphis;x
+20;49;80;255;Ibroesea;x
+21;177;82;0;Bupool;x
+22;49;84;64;Ebakerton;x
+23;177;86;128;Saecphis;x
+24;49;88;192;Chaqirie;x
+25;177;90;255;Gille;x
+26;50;92;0;Stritin;x
+27;178;94;64;Pland;x
+28;50;96;128;Oglaegend;x
+29;178;98;192;Aeraashire;x
+30;50;100;255;Oxeby;x
+31;178;102;0;Kleah;x
+32;50;104;64;Sagos;x
+33;179;106;128;Pluepburg;x
+34;51;108;192;Drephock;x
+35;179;110;255;Cia;x
+36;51;112;0;Darc;x
+37;179;114;64;Ewreim;x
+38;51;116;128;Ajaafdence;x
+39;180;122;0;Blalo;x
+40;52;124;64;Egredo;x
+41;52;128;192;Shesas;x
+42;74;56;255;Yhaxin;x
+43;110;36;0;Miahcester;x
+44;110;44;255;Aclonio;x
+45;215;191;212;Slusans;
+46;141;98;79;Noklosa;x
+47;143;118;173;Blam;x
+48;16;132;126;Prozlinas;x
+49;144;134;173;Sieyey;x
+50;144;138;79;Avrufhull;x
+51;34;228;32;Sracaster;x
+52;38;247;32;Islepolis;x
+53;166;58;79;Frovlido;x
+54;39;72;32;Yeastead;x
+55;167;74;79;Zlophia;x
+56;39;76;126;Evrabridge;x
+57;167;78;173;Ogrine;x
+58;40;80;32;Frerton;x
+59;168;82;79;Azraoxolk;x
+60;40;84;126;Uxicver;x
+61;168;86;173;Yhuuydence;x
+62;40;88;32;Tookharc;x
+63;168;90;79;Wookbus;x
+64;40;92;126;Kreuxtin;x
+65;169;94;173;Srekdence;x
+66;41;96;32;Fliklury;x
+67;169;98;79;Clouver;x
+68;41;100;126;Fose;x
+69;169;102;173;Souis;x
+70;41;104;32;Iylaltin;x
+71;169;106;79;Uglofledo;x
+72;42;108;126;Yrolk;x
+73;170;110;173;Wreham;x
+74;42;112;32;Qona;x
+75;170;114;79;Urashire;x
+76;42;116;126;Aogrishull;x
+77;170;118;173;Isoahsea;x
+78;42;120;32;Yreley;x
+79;171;122;79;Zane;x
+80;43;124;126;Triadiff;x
+81;171;126;173;Akloesa;x
+82;43;128;32;Kand;x
+83;171;130;79;Zralo;x
+84;43;132;126;Pluahmery;x
+85;171;134;173;Frurg;x
+86;44;136;32;Zrentin;x
+87;172;138;79;Eigrielport;x
+88;44;140;126;Ezhucester;x
+89;172;142;173;Yleevladena;x
+90;44;144;32;Chiosila;x
+91;172;146;79;Fohmond;x
+92;44;148;126;Slaagaso;x
+93;173;150;173;Quiburn;x
+94;45;152;32;Weles;x
+95;173;154;79;Oiqifield;x
+96;45;156;126;Obrucver;x
+97;173;158;173;Raso;x
+98;45;32;32;Oefraufast;x
+99;173;34;79;Shiaver;x
+100;46;36;126;Juplul;x
+101;174;38;173;Gliechedo;x
+102;46;40;32;Iukloimery;x
+103;174;42;79;Huving;x
+104;46;44;126;Strane;x
+105;174;246;173;Vugolk;x
+106;46;48;32;Kloaslanta;x
+107;175;50;79;Wring;x
+108;47;52;126;Tora;x
+109;175;54;173;Edusdon;x
+110;47;236;32;Ehuocaster;x
+111;175;58;79;Friakvale;x
+112;206;217;77;Yosa;x
+113;175;62;173;Kislock;x
+114;48;64;32;Awroertol;x
+115;176;66;79;Laco;x
+116;48;68;126;Blohido;x
+117;178;98;79;Dinas;x
+118;50;100;126;Uuklofield;x
+119;178;202;173;Blaso;x
+120;50;104;32;Frudon;x
+121;179;106;79;Srienross;x
+122;51;108;126;Iflidsall;x
+123;179;110;173;Lepreley;x
+124;51;212;32;Zhento;x
+125;181;146;79;Zreicaster;x
+126;182;150;173;Oslowood;x
+127;54;152;32;Etoumdale;x
+128;182;154;79;Esraowood;x
+129;54;156;126;Eabihull;x
+130;182;158;173;Khissea;x
+131;54;32;32;Deah;x
+132;183;34;79;Ebreka;x
+133;55;36;126;Isrord;x
+134;183;38;173;Galedo;x
+135;55;40;32;Nale;x
+136;183;42;79;Ostredo;x
+137;55;44;126;Brochester;x
+138;183;246;173;Naucloni;x
+139;56;48;32;Ufrucmery;x
+140;56;252;126;Ahaamore;x
+141;184;54;173;Iwreucdon;x
+142;184;58;79;Acheiby;x
+143;56;60;126;Aoslootham;x
+144;185;62;173;Zreah;x
+145;57;164;32;Sario;x
+146;58;84;126;Zleablinas;x
+147;187;94;173;Wucheigh;x
+148;7;220;250;Uwraorledo;x
+149;23;220;250;Truvale;x
+150;25;200;200;Ubahton;x
+151;28;250;250;Glalo;x
+152;30;200;250;Aeyaobury;x
+153;31;220;250;Rushire;x
+154;33;200;200;Durgh;x
+155;34;200;250;Sark;x
+156;37;200;200;Kacby;x
+157;38;200;250;Chopbert;x
+158;39;220;250;Toria;x
+159;41;200;200;Kraford;x
+160;42;200;250;Vrobladena;x
+161;86;200;250;Oprinard;x
+162;87;220;250;Zleofrando;x
+163;95;220;250;Euweofsa;x
+164;98;200;250;Elam;x
+165;100;250;250;Planta;x
+166;101;200;200;Akoledo;x
+167;102;200;250;Wabrento;x
+168;105;200;200;Yhisgan;x
+169;109;200;200;Agifson;x
+170;111;220;250;Blansey;x
+171;112;250;250;Tafando;x
+172;113;200;200;Eabeginia;x
+173;116;250;250;Blotgow;x
+174;118;200;250;Aupragow;x
+175;121;200;200;Paixdale;x
+176;18;201;251;Lifrine;x
+177;20;251;251;Ocouklodon;x
+178;21;201;201;Icriving;x
+179;24;251;251;Zrolis;x
+180;26;201;251;Ixieton;x
+181;27;221;251;Zhaplas;x
+182;29;201;201;Zrisley;x
+183;30;201;251;Ikeburn;x
+184;34;201;251;Vecance;x
+185;35;221;251;Vlomdence;x
+186;38;201;251;Criekalo;x
+187;43;221;251;Shuodence;x
+188;44;251;251;Jooville;x
+189;45;201;201;Qrans;x
+190;49;201;201;Zhoplane;x
+191;52;251;251;Dagos;x
+192;53;201;201;Hont;x
+193;55;221;251;Cesa;x
+194;57;201;201;Agery;x
+195;58;201;251;Avluetgan;x
+196;59;221;251;Qruvroria;x
+197;79;221;251;Glusedo;x
+198;80;251;251;Pevand;x
+199;81;201;201;Etester;x
+200;84;251;251;Bring;x
+201;86;201;251;Preles;x
+202;87;221;251;Glieyville;x
+203;88;251;251;Sloria;x
+204;90;201;251;Fulas;x
+205;93;201;201;Nuesdon;x
+206;94;201;251;Uaxaotrith;x
+207;96;251;251;Kirie;x
+208;99;221;251;Zrico;x
+209;105;201;201;Aizobus;x
+210;110;201;251;Phaatolis;x
+211;122;201;251;Slille;x
+212;5;202;202;Tido;x
+213;20;252;252;Nugario;x
+214;24;252;252;Sheling;x
+215;26;202;252;Chibrinas;x
+216;38;202;252;Onuiqego;x
+217;52;252;252;Vribert;x
+218;53;202;202;Etafledo;x
+219;57;202;202;Vroaham;x
+220;62;202;252;Qille;x
+221;63;222;252;Yomding;x
+222;68;252;252;Slaanburg;x
+223;69;202;202;Neakgend;x
+224;71;222;252;Uqiowrouis;x
+225;73;202;202;Ovoepchester;x
+226;97;202;202;Xoevreim;x
+227;101;202;202;Plurg;x
+228;105;202;202;Vens;x
+229;109;202;202;Yrupfield;x
+230;110;202;252;Iyharc;x
+231;116;252;252;Sliesdiff;x
+232;119;222;252;Strathe;x
+233;123;222;252;Eploebridge;x
+234;125;202;202;Oivlimont;x
+235;127;222;252;Veim;x
+236;3;223;253;Qroudshire;x
+237;4;253;253;Strord;x
+238;5;203;203;Kruulgan;x
+239;6;203;253;Uafionard;x
+240;9;203;203;Shose;x
+241;10;203;253;Ayrechane;x
+242;11;223;253;Eotraoledo;x
+243;41;203;203;Iplulgas;x
+244;42;203;253;Ozrok;x
+245;44;253;253;Phesa;x
+246;48;253;253;Zrodale;x
+247;61;203;203;Aivribert;x
+248;62;203;253;Sriyvine;x
+249;65;203;203;Eiseedburg;x
+250;68;253;253;Prark;x
+251;70;203;253;Usling;x
+252;72;253;253;Kubus;x
+253;73;203;203;Zleoflita;x
+254;74;203;253;Phapnard;x
+255;80;253;253;Iyia;x
+256;102;203;253;Chuamery;x
+257;110;203;253;Yeley;x
+258;195;86;173;Trorough;x
+259;72;148;126;Zlavlolis;x
+260;200;150;173;Dough;x
+261;201;42;79;Uumiepledo;x
+262;74;44;126;Ylagos;x
+263;202;46;173;Sleibert;x
+264;74;48;32;Siklico;x
+265;202;50;79;Tapgend;x
+266;74;52;126;Yrarc;x
+267;202;54;173;Mutreim;x
+268;203;66;79;Braumery;x
+269;75;68;126;Ufluephis;x
+270;76;72;32;Iylison;x
+271;207;126;173;Eplaville;x
+272;210;38;173;Ukhison;x
+273;214;94;173;Kamery;x
+274;81;104;191;Cido;x
+275;52;0;240;Qrapstin;x
+276;55;0;0;Wrestead;x
+277;88;112;32;Purg;x
+278;104;0;248;Plesas;x
+279;105;0;232;Plido;x
+280;160;109;157;Ufikcester;x
+281;80;73;160;Estrodon;x
+282;120;75;185;Yretrey;x 
+283;120;137;132;Oglodale;x
+284;200;111;182;Prock;x
+285;240;69;110;Yliostead;x
+286;80;135;107;Yleordale;x
+287;160;139;157;Ostualens;x
+288;240;113;207;Grario;x
+289;40;115;232;Phada;x
+290;80;117;83;Yhucvale;x
+291;120;119;108;Iuphaisea;x
+292;160;151;133;Efreton;x
+293;160;77;210;Kiukhurg;x 
+294;80;61;184;Wreyling;x 
+295;200;117;235;Vlolis;x
+296;160;121;133;Paoset;x
+297;240;125;232;Teenard;x
+298;40;127;183;Vlauhsey;x
+299;40;139;159;Omikido;x
+300;80;129;208;Cojerton;x
+301;120;131;233;Oovuoland;x
+302;160;133;84;Streteah;x
+303;200;79;235;Roepence;x
+304;160;115;210;Caqork;x
+305;116;98;168;Slita;x
+306;200;91;211;Iepoukpus;x
+307;200;135;109;Qragos;x
+308;240;119;86;Clard;x
+309;140;199;183;Uloxson;x
+310;240;137;134;Bruhico;x
+311;40;83;11;Plapery;x
+312;200;147;85;Esliulore;x
+313;40;121;11;Xanta;x
+314;80;141;184;Iegapus;x
+315;120;143;209;Sredo;x
+316;80;123;136;Tord;x
+317;240;161;86;Drirstead;x 
+318;240;149;110;Bladena;x 
+319;120;155;185;Gumond;x
+320;160;157;210;Oplebille;x
+321;40;151;135;Iejemouth;x
+322;240;143;207;Azriestario;x
+323;160;89;186;Apluaginas;x
+324;200;129;211;Shurgh;x
+325;240;131;236;Aiklimont;x
+326;40;163;11;Niacville;x
+327;40;133;82;Vlando;x
+328;40;71;135;Blafsa;x 
+329;240;81;86;Azlatmont;x
+330;120;87;161;Zhaglolk;x
+331;140;145;232;Grikver;x
+332;200;141;182;Ituvale;x
+333;200;153;158;Ninginia;x
+334;80;147;83;Uaslongate;x
+335;139;22;59;Gord;x
+336;149;201;61;Font;x
+337;157;215;209;Mago;x
+338;206;231;202;Plora;x
+339;62;48;146;Axont;x
+340;203;185;45;Isatver;x
+341;212;227;131;Greubridge;x
+342;158;168;213;Aivluving;x
+343;239;69;139;Ololk;x
+344;245;244;179;Tasall;x
+345;178;31;114;Oluapcaster;x
+346;108;157;64;Ubans;x
+347;211;106;44;Eugreitpus;x
+348;144;31;145;Eisobridge;x
+349;81;144;95;Trioxagos;x
+350;207;131;46;Ukeka;x
+351;39;31;246;Zroaweles;x
+352;165;31;196;Laocester;x
+353;102;12;145;Vloham;x
+354;228;231;95;Ezeiphinas;x
+355;60;161;46;Yegita;x
+356;186;131;246;Supus;x
+357;123;51;196;Oipaerora;x
+358;249;249;145;Vlanta;x
+359;21;1;95;Waflolis;x
+360;147;151;46;Ifreuturgh;x
+361;84;131;246;Croifding;x
+362;210;11;196;Fluatrough;x
+363;42;12;145;Ucraoxham;x
+364;168;151;95;Zrens;x
+365;105;109;46;Jouis;x
+366;231;15;246;Yloyam;x
+367;63;119;196;Orilens;x
+368;189;221;145;Triasta;x
+369;126;1;95;Odredvine;x
+370;252;31;46;Iavlaledo;x
+371;252;131;46;Isaocreim;x
+372;189;121;145;Wracrey;x
+373;148;133;60;Pruigin;x
+374;37;133;180;Drolis;x
+375;139;11;145;Vashard;x
+376;76;1;95;Yruzlont;x
+377;19;131;246;Kiukving;x
+378;208;199;95;Joulbridge;x
+379;166;56;206;Idruacmore;x
+380;86;116;66;Evrizhonio;x
+381;46;186;146;Qreoxens;x
+382;116;166;116;Aflaamdon;x
+383;126;216;46;Srienphis;x
+384;134;44;124;Vrego;x
+385;120;55;111;Atodon;x
+386;48;148;218;Drence;x
+387;26;216;116;Ufrago;x
+388;198;74;105;Zrecester;x
+389;193;91;31;Oceimond;x
+390;58;147;124;Cheajeigh;x
+391;71;100;145;Sraham;x
+392;145;101;5;Phucroria;x
+393;126;107;255;Azestead;x
+394;200;122;110;Ajurburg;x
+395;160;160;88;Trurmore;x
+396;48;97;59;Eatruuburg;x
+397;167;174;136;Iosloinphis;x
+398;47;174;78;Acland;x
+399;44;72;166;Claicling;x
+400;196;104;191;Aakriport;x
+401;72;198;51;Quaqurg;x
+402;29;59;159;Echanhull;x
+403;227;135;53;Zhover;x
+404;34;25;232;Eflimpolis;x
+405;239;204;149;Grorburn;x
+406;244;97;32;Hoewrada;x
+407;217;166;43;Wredale;x
+408;100;201;61;Oetroorith;x
+409;38;83;21;Strora;x
+410;169;74;32;Uuclilas;x
+411;215;80;147;Prane;x
+412;79;160;47;Itrieshire;x
+413;139;53;205;Duusburn;x
+414;185;135;224;Zrugow;x
+415;201;54;85;Fluulshire;x
+416;222;145;161;Sland;x
+417;217;108;129;Oplempolis;x
+418;38;234;130;Ivreobreley;x
+419;106;189;104;Yruslas;x
+420;33;220;28;Beka;x
+421;203;160;93;Iepriegate;x
+422;172;118;32;Kark;x
+423;220;52;0;Trowrario;x
+424;187;203;173;Arery;x
+425;133;213;62;Esleonard;x
+426;97;177;26;Trenento;x
+427;28;191;70;Zhiver;x
+428;219;44;196;Euvroupus;x
+429;239;192;146;Zranross;x
+430;191;117;46;Drebord;x
+431;219;94;40;Noria;x
+432;220;158;209;Ikrouburgh;x
+433;120;115;207;Raiwada;x
+434;82;225;176;Zriding;x
+435;217;90;204;Frouis;x
+436;217;173;199;Drico;x
+437;32;114;111;Ucodver;x
+438;87;220;115;Oecaetdon;x
+439;219;217;53;Miyport;x
+440;52;121;25;Isever;x
+441;213;60;93;Xoedrathe;x
+442;96;201;25;Eblonore;x
+443;219;217;76;Bada;x
+444;101;224;33;Cheemery;x
+445;140;15;150;Zlugow;x
+446;150;15;175;Greesea;x
+447;160;15;200;Azhiepolis;x
+448;170;15;100;Ofrinbury;x
+449;180;15;150;Glainham;x
+450;190;15;175;Wreonita;x
+451;200;15;200;Strisoria;x
+452;210;15;100;Osiginia;x
+453;220;15;150;Uqoln;x
+454;230;15;175;Zaimbus;x
+455;207;15;150;Yhuchester;x
+456;207;15;175;Oucraottin;x
+457;207;15;200;Oyhans;x
+458;197;15;100;Sholk;x
+459;207;15;100;Klerton;x
+460;197;15;150;Duutin;x
+461;117;150;26;Airaabridge;x
+462;195;207;97;Qraoclens;x
+463;135;142;79;Aband;x
+464;222;203;239;Xose;x
+465;203;127;53;Atrafby;x
+466;214;231;24;Chose;x
+467;91;196;33;Ruoglison;x
+468;51;172;108;Trury;x
+469;99;77;195;Shares;x
+470;63;128;27;Pletin;x
+471;163;183;82;Agremville;x
+472;195;83;191;Baerby;x
+473;121;21;154;Blin;x
+474;184;65;29;Xoemila;x
+475;224;40;15;Huuvralo;x
+476;144;206;207;Yhury;x
+477;125;226;241;Pock;x
+478;23;184;45;Mountain;x
+479;23;184;55;Mountain2;x
+480;23;184;65;Mountain3;x
+481;23;184;75;Mountain4;x
+482;23;184;85;Mountain5;x
+483;92;44;194;LakeMountainSouth;x
+484;92;44;204;LakeMountainNorth;x
+485;255;132;0;VolcanoIslandMountain;x
