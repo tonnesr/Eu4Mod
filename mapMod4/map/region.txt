@@ -50,7 +50,8 @@ four_region = {
 		twentyfive_area 
 		twentyeight_area
 		twentynine_area 		
-		thirtyone_area 		
+		thirtyone_area
+		fiftynine_area 
     }
 }
 

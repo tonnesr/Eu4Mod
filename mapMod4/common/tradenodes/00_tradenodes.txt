@@ -57,7 +57,7 @@ blafsa_tradenode={ # 5
 	members={
 	# Land areas
 		328 # Center		
-		343 138 139 # Provinces from twelve_area
+		138 139 # Provinces from twelve_area
 		474 142 394 471 36 # fourteen_area
 		337 333 336 470 325 # fifteen_area
 		341 339 342 145 101 105 97 # sixteen_area
@@ -216,7 +216,7 @@ ebreka_tradenode={ # 9
 		129 396 135 389 137 392 388 # nine_area
 		472 473 338 # Provinces from thirteen_area
 		395 417 # Provinces from ten_area
-		141 143 144 340 # Provinces from twelve_area
+		343 141 143 144 340 # Provinces from twelve_area
 	# Sea areas
 		180 195 234 198 # Provinces from three_sea_area
 		249 226 199 204 222 200 244 211 # two_sea_area
