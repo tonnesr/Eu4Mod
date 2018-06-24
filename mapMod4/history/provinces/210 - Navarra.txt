@@ -1,19 +1,19 @@
-# 210 - Navarra
 
-add_core = NOR
-owner = NOR
-controller = NOR
 
-culture = norwegian
-religion = catholic
-hre = no
-trade_goods = sugar
-capital = "Navarra"
-is_city = yes
 
-base_tax = 2
-base_production = 1
-base_manpower = 5
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

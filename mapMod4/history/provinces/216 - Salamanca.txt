@@ -1,19 +1,19 @@
-# 216 - Salamanca
 
-add_core = NOR
-owner = NOR
-controller = NOR
 
-culture = norwegian
-religion = catholic
-hre = no
-trade_goods = tobacco
-capital = "Salamanca"
-is_city = yes
 
-base_tax = 3
-base_production = 1
-base_manpower = 3
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

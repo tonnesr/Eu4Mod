@@ -1,6 +1,6 @@
 # A province can only belong to one area!
 
-#Land Areas
+#Land areas
 one_area= {
 	color = { 0 0 0 }
 	459 120 117 457 122 121
@@ -81,6 +81,8 @@ sixteen_area = {
 	341 339 342 145 101 105 97
 }
 
+# Forgot 17
+
 eighteen_area = {
 	color = { 255 0 110 }
 	326 322 103 91 320 99 98	
@@ -108,7 +110,7 @@ twentytwo_area = {
 
 twentythree_area = {
 	color = { 0 74 127 }
-	86 299 298 334 307 318 82
+	299 307 82 74 306 300 305		
 }
 
 twentyfour_area = {
@@ -118,7 +120,7 @@ twentyfour_area = {
 
 twentyfive_area = {
 	color = { 38 127 0 }
-	314 305 76 300 74 306 77
+	314 76 77 302 304 290 
 }
 
 twentysix_area = {
@@ -138,12 +140,12 @@ twentyeight_area = {
 
 twentynine_area = {
 	color = { 160 160 160 }
-	302 304 290 75 66 81 297	
+	66 81 297 318 334 86 298	
 }
 
 thirty_area = {
 	color = { 48 48 48 }
-	63 62 285 70 295 296 67	
+	63 62 285 70 295	
 }
 
 thirtyone_area = {
@@ -153,12 +155,12 @@ thirtyone_area = {
 
 thirtytwo_area = {
 	color = { 255 233 127 }
-	61 291 288 284 69 294 79
+	61 291 69 294 79 65 293
 }
 
 thirtythree_area = {
 	color = { 165 255 127 }
-	293 78 331 68 292 330 439	
+	78 331 68 292 330 439 371
 }
 
 thirtyfour_area = {
@@ -173,12 +175,12 @@ thirtyfive_area = {
 
 thirtysix_area = {
 	color = { 127 146 255 }
-	18 462 370 20 22 25 65
+	18 462 370 20 22 288 284
 }
 
 thirtyseven_area = {
 	color = { 214 127 255 }
-	363 263 463 357 371 364 13
+	363 263 463 357 364 13 25
 }
 
 thirtyeight_area = {
@@ -253,7 +255,7 @@ fiftyone_area = {
 
 fiftytwo_area = {
 	color = { 53 255 134 }
-	32 30 345 351 347 350 344 33	 
+	32 30 345 351 350 344 33	 
 }
 
 fiftythree_area = {
@@ -281,11 +283,18 @@ fiftyseven_area = {
 	6 272 37 335
 }
 
-# Forgotten provinces
-extra_area = {
-	195 259 260
+fiftyeight_area = {
+	color = { 0 233 55 }
+	347 42
 }
 
+fiftynine_area = {
+	color = { 50 155 155 }
+	75 67 
+}
+
+
+#Sea areas
 one_sea_area = {
 	color = { 0 0 12 }
 	159 201 225 149 157 203 158 202
@@ -293,12 +302,12 @@ one_sea_area = {
 
 two_sea_area = {
 	color = { 255 16 24 }
-	42 204 244 211 200 199 226 249
+	204 244 211 200 199 226 249 222
 }
 
 three_sea_area = {
 	color = { 0 8 255 }
-	222 234 198 180 256 236 233
+	234 198 180 256 236 233 195
 }
 
 four_sea_area = {
@@ -354,4 +363,10 @@ thirteen_sea_area = {
 fourteen_sea_area = {
 	color = { 158 80 132 }
 	209 221 154 220 150 151 184	
+}
+
+
+# Other areas
+wasteland_area = {
+	259 260
 }

@@ -4,7 +4,7 @@ add_core = NOR
 owner = NOR
 controller = NOR
 
-culture = norwegian
+culture = northerner
 religion = catholic
 hre = no
 trade_goods = spices

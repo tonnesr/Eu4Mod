@@ -1,4 +1,4 @@
-# 42 - Warmia
+# 42 - NoName
 
 add_core = NOR
 owner = NOR
@@ -7,13 +7,13 @@ controller = NOR
 culture = norwegian
 religion = catholic
 hre = no
-trade_goods = cotton
-capital = "Warmia"
+trade_goods = unknown
+capital = "NoName"
 is_city = yes
 
-base_tax = 6
-base_production = 2
-base_manpower = 4
+base_tax = 1
+base_production = 1
+base_manpower = 1
 
 
 

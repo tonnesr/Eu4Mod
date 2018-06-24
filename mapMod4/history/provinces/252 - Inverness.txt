@@ -1,19 +1,19 @@
-# 252 - Inverness
 
-add_core = NOR
-owner = NOR
-controller = NOR
 
-culture = norwegian
-religion = catholic
-hre = no
-trade_goods = unknown
-capital = "Inverness"
-is_city = yes
 
-base_tax = 5
-base_production = 5
-base_manpower = 6
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
