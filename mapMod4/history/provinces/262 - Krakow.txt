@@ -1,14 +1,14 @@
 # 262 - Krakow
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T21
+owner = T21
+controller = T21
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = unknown
-capital = "Krakow"
+capital = "Polspolis"
 is_city = yes
 
 base_tax = 5

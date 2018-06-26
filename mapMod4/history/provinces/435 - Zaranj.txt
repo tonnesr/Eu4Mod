@@ -1,14 +1,14 @@
 # 435 - Zaranj
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T16
+owner = T16
+controller = T16
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = fish
-capital = "Zaranj"
+capital = "Fotrfa"
 is_city = yes
 
 base_tax = 4

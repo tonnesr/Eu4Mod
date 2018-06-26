@@ -1,14 +1,14 @@
 # 469 - Ryn
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T06
+owner = T06
+controller = T06
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = livestock
-capital = "Ryn"
+capital = "Gesta"
 is_city = yes
 
 base_tax = 6

@@ -1,14 +1,14 @@
 # 284 - Crimea
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T26
+owner = T26
+controller = T26
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = ivory
-capital = "Crimea"
+capital = "Kramdelakram"
 is_city = yes
 
 base_tax = 6

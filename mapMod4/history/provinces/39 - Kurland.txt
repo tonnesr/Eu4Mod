@@ -1,14 +1,14 @@
 # 39 - Kurland
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T08
+owner = T08
+controller = T08
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = spices
-capital = "Kurland"
+capital = "Voodig"
 is_city = yes
 
 base_tax = 6

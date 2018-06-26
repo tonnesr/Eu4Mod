@@ -1,14 +1,14 @@
 # 316 - Kocaeli
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T38
+owner = T38
+controller = T38
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = salt
-capital = "Kocaeli"
+capital = "Torden"
 is_city = yes
 
 base_tax = 1

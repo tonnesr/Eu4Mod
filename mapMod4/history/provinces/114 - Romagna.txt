@@ -1,14 +1,14 @@
 # 114 - Romagna
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T15
+owner = T15
+controller = T15
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = coffee
-capital = "Romagna"
+capital = "Awrytrpolis"
 is_city = yes
 
 base_tax = 4

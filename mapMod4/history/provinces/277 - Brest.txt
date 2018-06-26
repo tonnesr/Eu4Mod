@@ -1,14 +1,14 @@
 # 277 - Brest
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T40
+owner = T40
+controller = T40
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = copper
-capital = "Brest"
+capital = "Statu"
 is_city = yes
 
 base_tax = 4

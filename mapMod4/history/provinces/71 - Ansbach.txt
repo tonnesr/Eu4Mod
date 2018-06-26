@@ -1,14 +1,14 @@
 # 71 - Ansbach
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T27
+owner = T27
+controller = T27
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = glass
-capital = "Ansbach"
+capital = "Jampo"
 is_city = yes
 
 base_tax = 1

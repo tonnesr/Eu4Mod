@@ -1,14 +1,14 @@
 # 464 - Astrakhan
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T01
+owner = T01
+controller = T01
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = iron
-capital = "Astrakhan"
+capital = "Astralkha"
 is_city = yes
 
 base_tax = 4

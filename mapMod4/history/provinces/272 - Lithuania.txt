@@ -1,14 +1,14 @@
 # 272 - Lithuania
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T05
+owner = T05
+controller = T05
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = grain
-capital = "Lithuania"
+capital = "Littat"
 is_city = yes
 
 base_tax = 4

@@ -60,38 +60,56 @@ scandinavian = { #Nordic
 	}
 }
 
-human = { # Human culture group
+human = { # Human culture/creature group
 	graphical_culture = westerngfx
 	
-	province = { local_build_cost = -0.10 }
-	
-	northerner = {
-		country = { land_forcelimit_modifier = 0.25}
-		country = { has_banners = 1}
-		province = { local_has_banners = 1}
-		
+	northerners = {
 		primary = NOR
 		male_names = {
-			Bob Haar Bab
+			maleNortherners
 		}
 		female_names = {
-			Kari Kara Karb Kars
+			femaleNortherners
 		}
 		dynasty_names = {
-			"I guess" "best dynasti name EU"
+			"dynastyNortherners"
 		}
 	}
 	
-	southerner = {
+	southerners = {
 		primary = NOR
 		male_names = {
-			Bab Har Bbb
+			maleSoutherners
 		}
 		female_names = {
-			Kari Kara Karb Kars
+			femaleSoutherners
 		}
 		dynasty_names = {
-			"I" "von Nosfo" "von Vann"
+			"dynastySoutherners"
+		}
+	}
+	marshians = {
+		primary = NOR
+		male_names = {
+			maleMarshians
+		}
+		female_names = {
+			femaleMarshians
+		}
+		dynasty_names = {
+			"dynastyMarshians"
+		}
+	}
+		marshians = {
+		primary = NOR
+		male_names = {
+			maleMarshians
+		}
+		female_names = {
+			femaleMarshians
+		}
+		dynasty_names = {
+			"dynastyMarshians"
 		}
 	}
 }

@@ -1,8 +1,8 @@
 # 146 - Athens
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T04
+owner = T04
+controller = T04
 
 culture = norwegian
 religion = catholic

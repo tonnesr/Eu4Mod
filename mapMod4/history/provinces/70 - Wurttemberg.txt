@@ -1,14 +1,14 @@
 # 70 - Wurttemberg
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T32
+owner = T32
+controller = T32
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = incense
-capital = "Wurttemberg"
+capital = "Astrim"
 is_city = yes
 
 base_tax = 4

@@ -1,0 +1,57 @@
+
+
+graphical_culture = westerngfx
+
+color = { 100  0  20 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	aristocracy_ideas
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Håkon #6" = 40
+	"Olav #4" = 40
+	"Erik #2" = 20
+	"Christoffer #0" = 20
+	"Magnus #7" = 10
+	"Harald #4" = 10
+	"Margaret #0" = -10
+	"Ingeborg #0" = -5
+	"Ragnhild #0" = -1
+}
+
+leader_names = {
+	Arnesson Amundsen 
+	Bjelke Bolt 
+}
+
+ship_names = {
+	Aasgardstrand Agder Allehelgensdag Alta Alvgeir Andenæs
+	Austerveg Austri Austvangen Balder Balduin Barden Barøy
+}

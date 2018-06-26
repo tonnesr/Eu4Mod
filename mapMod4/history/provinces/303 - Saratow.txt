@@ -1,14 +1,14 @@
 # 303 - Saratow
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T30
+owner = T30
+controller = T30
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = coffee
-capital = "Saratow"
+capital = "Ramptoa"
 is_city = yes
 
 base_tax = 4

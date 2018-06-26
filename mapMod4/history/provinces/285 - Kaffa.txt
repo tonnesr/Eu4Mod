@@ -1,14 +1,14 @@
 # 285 - Kaffa
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T32
+owner = T32
+controller = T32
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = tea
-capital = "Kaffa"
+capital = "Browgold"
 is_city = yes
 
 base_tax = 6

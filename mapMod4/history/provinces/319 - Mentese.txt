@@ -1,14 +1,14 @@
 # 319 - Mentese
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T38
+owner = T38
+controller = T38
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = fish
-capital = "Mentese"
+capital = "Rafee"
 is_city = yes
 
 base_tax = 1

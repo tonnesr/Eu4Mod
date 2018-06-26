@@ -1,14 +1,14 @@
 # 438 - Kara Kum
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T18
+owner = T18
+controller = T18
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = tobacco
-capital = "Kara Kum"
+capital = "Sha Dum"
 is_city = yes
 
 base_tax = 2

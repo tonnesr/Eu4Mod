@@ -1,14 +1,14 @@
 # 314 - Vologda
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T29
+owner = T29
+controller = T29
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = slaves
-capital = "Vologda"
+capital = "Manoo"
 is_city = yes
 
 base_tax = 2

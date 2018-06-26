@@ -1,14 +1,14 @@
 # 400 - Muscat
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T15
+owner = T15
+controller = T15
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = gold
-capital = "Muscat"
+capital = "Awtis"
 is_city = yes
 
 base_tax = 1

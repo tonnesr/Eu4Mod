@@ -1,14 +1,14 @@
 # 466 - Sarai
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T08
+owner = T08
+controller = T08
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = coal
-capital = "Sarai"
+capital = "Stut"
 is_city = yes
 
 base_tax = 1

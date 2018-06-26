@@ -1,14 +1,14 @@
 # 344 - Marrakech
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T03
+owner = T03
+controller = T03
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = incense
-capital = "Marrakech"
+capital = "Jonglo"
 is_city = yes
 
 base_tax = 5

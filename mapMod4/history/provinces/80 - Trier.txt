@@ -1,14 +1,14 @@
 # 80 - Trier
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T35
+owner = T35
+controller = T35
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = fur
-capital = "Trier"
+capital = "Popli"
 is_city = yes
 
 base_tax = 3

@@ -1,14 +1,14 @@
 # 379 - Jerusalem
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T09
+owner = T09
+controller = T09
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = tropical_wood
-capital = "Jerusalem"
+capital = "Jesut"
 is_city = yes
 
 base_tax = 6

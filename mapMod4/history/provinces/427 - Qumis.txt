@@ -1,14 +1,14 @@
 # 427 - Qumis
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T11
+owner = T11
+controller = T11
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = glass
-capital = "Qumis"
+capital = "Shivpolis"
 is_city = yes
 
 base_tax = 5

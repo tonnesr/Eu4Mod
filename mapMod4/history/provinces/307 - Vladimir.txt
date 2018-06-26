@@ -1,14 +1,14 @@
 # 307 - Vladimir
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T34
+owner = T34
+controller = T34
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = salt
-capital = "Vladimir"
+capital = "Poutut"
 is_city = yes
 
 base_tax = 2

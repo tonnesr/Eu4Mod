@@ -1,14 +1,14 @@
 # 84 - Berg
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T37
+owner = T37
+controller = T37
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = cloth
-capital = "Berg"
+capital = "Lamtin"
 is_city = yes
 
 base_tax = 1

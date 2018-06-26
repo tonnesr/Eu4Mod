@@ -1,14 +1,14 @@
 # 446 - Herat
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T13
+owner = T13
+controller = T13
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = tobacco
-capital = "Herat"
+capital = "Hart"
 is_city = yes
 
 base_tax = 2

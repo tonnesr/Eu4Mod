@@ -1,14 +1,14 @@
 # 444 - Charjuy
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T15
+owner = T15
+controller = T15
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = slaves
-capital = "Charjuy"
+capital = "Holm"
 is_city = yes
 
 base_tax = 4

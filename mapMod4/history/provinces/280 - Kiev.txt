@@ -1,14 +1,14 @@
 # 280 - Kiev
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T22
+owner = T22
+controller = T22
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = cocoa
-capital = "Kiev"
+capital = "Ukr"
 is_city = yes
 
 base_tax = 5

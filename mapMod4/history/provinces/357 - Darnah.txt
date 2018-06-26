@@ -1,14 +1,14 @@
 # 357 - Darnah
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T25
+owner = T25
+controller = T25
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = paper
-capital = "Darnah"
+capital = "Nopaca"
 is_city = yes
 
 base_tax = 6

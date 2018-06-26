@@ -1,14 +1,14 @@
 # 456 - Turkestan
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T12
+owner = T12
+controller = T12
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = naval_supplies
-capital = "Turkestan"
+capital = "Trapolis"
 is_city = yes
 
 base_tax = 1

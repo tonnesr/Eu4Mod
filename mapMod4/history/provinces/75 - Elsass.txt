@@ -1,14 +1,14 @@
 # 75 - Elsass
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T36
+owner = T36
+controller = T36
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = tropical_wood
-capital = "Elsass"
+capital = "Islapara"
 is_city = yes
 
 base_tax = 6

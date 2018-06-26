@@ -3,8 +3,53 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
-#TEMPORARY
+#Placeholder
 NOR	= "countries/Norway.txt"
+
+# Middle continent Islands
+T01 = "countries/T01-Creah.txt"
+T02 = "countries/T02-Laocest.txt"
+T03 = "countries/T03-Ukekia.txt"
+T04 = "countries/T04-Iylis.txt"
+T05 = "countries/T05-Kliril.txt"
+T06 = "countries/T06-Vrurgh.txt"
+T07 = "countries/T07-Uchee.txt"
+T08 = "countries/T08-Zhanhover.txt"
+
+# Middle continent south/west
+T09 = "countries/T09-Esra.txt"
+T10 = "countries/T10-Tapgend.txt"
+T11 = "countries/T11-Zhiv.txt"
+T12 = "countries/T12-Oucraotia.txt"
+T13 = "countries/T13-Azhe.txt"
+T14 = "countries/T14-Wractia.txt"
+T15 = "countries/T15-Awry.txt"
+T16 = "countries/T16-Zlugo.txt"
+T17 = "countries/T17-Grindir.txt"
+T18 = "countries/T18-Itrieshire.txt"
+T19 = "countries/T19-Quam.txt"
+T20 = "countries/T20-Ucodver.txt"
+T21 = "countries/T21-Buburg.txt"
+T22 = "countries/T22-Ramma.txt"
+T23 = "countries/T23-Xander.txt"
+T24 = "countries/T24-Grota.txt"
+T25 = "countries/T25-Hum.txt"
+T26 = "countries/T26-Ibroe.txt"
+T27 = "countries/T27-Frend.txt"
+T28 = "countries/T28-Kol.txt"
+T29 = "countries/T29-Empra Stra.txt"
+T30 = "countries/T30-Natt.txt"
+T31 = "countries/T31-Huma.txt"
+T32 = "countries/T32-Arct.txt"
+T33 = "countries/T33-Bladenia.txt"
+T34 = "countries/T34-Trat.txt"
+T35 = "countries/T35-Goudby.txt"
+T36 = "countries/T36-Tersek.txt"
+T37 = "countries/T37-Duusburn.txt"
+T38 = "countries/T38-Tord.txt"
+T39 = "countries/T39-Blafsa.txt"
+T40 = "countries/T40-Lepreley.txt"
+T41 = "countries/T41-Yhaxin.txt"
 
 #BIRB HEAD
 S01	= "countries/Klerton.txt"
@@ -29,7 +74,3 @@ S15 = "countries/A Mago.txt"
 S16 = "countries/Aivlu.txt"
 	#S17 = "countries/not in use.txt"
 S18 = "countries/Stario.txt"
-
-
-
-

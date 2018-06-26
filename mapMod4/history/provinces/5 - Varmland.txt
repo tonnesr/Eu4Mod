@@ -1,14 +1,14 @@
 # 5 - Varmland
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T06
+owner = T06
+controller = T06
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = fish
-capital = "Varmland"
+capital = "Olr Prime"
 is_city = yes
 
 base_tax = 4

@@ -1,14 +1,14 @@
 # 302 - Tambow
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T29
+owner = T29
+controller = T29
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = gems
-capital = "Tambow"
+capital = "Ilmoti"
 is_city = yes
 
 base_tax = 2

@@ -1,14 +1,14 @@
 # 109 - Mantua
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T12
+owner = T12
+controller = T12
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = copper
-capital = "Mantua"
+capital = "Twel"
 is_city = yes
 
 base_tax = 5

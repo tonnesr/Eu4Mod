@@ -1,14 +1,14 @@
 # 432 - Kerman
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T19
+owner = T19
+controller = T19
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = grain
-capital = "Kerman"
+capital = "Montra"
 is_city = yes
 
 base_tax = 5

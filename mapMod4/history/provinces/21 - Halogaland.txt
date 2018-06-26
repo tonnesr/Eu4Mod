@@ -1,14 +1,14 @@
 # 21 - Halogaland
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T21
+owner = T21
+controller = T21
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = silk
-capital = "Halogaland"
+capital = "Vikland"
 is_city = yes
 
 base_tax = 1

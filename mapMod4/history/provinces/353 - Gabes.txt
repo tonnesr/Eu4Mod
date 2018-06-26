@@ -1,14 +1,14 @@
 # 353 - Gabes
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T02
+owner = T02
+controller = T02
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = livestock
-capital = "Gabes"
+capital = "Livci"
 is_city = yes
 
 base_tax = 5

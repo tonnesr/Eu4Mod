@@ -1,14 +1,14 @@
 # 306 - Nijni-Novgorod
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T34
+owner = T34
+controller = T34
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = wool
-capital = "Nijni-Novgorod"
+capital = "Mercgori"
 is_city = yes
 
 base_tax = 6

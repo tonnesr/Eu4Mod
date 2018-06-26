@@ -1,14 +1,14 @@
 # 437 - Atak
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T20
+owner = T20
+controller = T20
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = incense
-capital = "Atak"
+capital = "Ucodver Central"
 is_city = yes
 
 base_tax = 3

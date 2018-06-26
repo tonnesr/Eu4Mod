@@ -1,14 +1,14 @@
 # 78 - Mainz
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T17
+owner = T17
+controller = T17
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = salt
-capital = "Mainz"
+capital = "Seeinz"
 is_city = yes
 
 base_tax = 4

@@ -1,14 +1,14 @@
 # 12 - Sjaelland
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T24
+owner = T24
+controller = T24
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = slaves
-capital = "Sjaelland"
+capital = "Pllo"
 is_city = yes
 
 base_tax = 1

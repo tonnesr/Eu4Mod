@@ -1,14 +1,14 @@
 # 100 - Friesland
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T38
+owner = T38
+controller = T38
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = cotton
-capital = "Friesland"
+capital = "Rasttat"
 is_city = yes
 
 base_tax = 6

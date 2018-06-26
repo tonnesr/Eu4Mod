@@ -1,14 +1,14 @@
 # 113 - Ferrara
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T19
+owner = T19
+controller = T19
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = gold
-capital = "Ferrara"
+capital = "Arfa"
 is_city = yes
 
 base_tax = 2

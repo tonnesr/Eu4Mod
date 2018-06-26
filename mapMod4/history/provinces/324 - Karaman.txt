@@ -1,14 +1,14 @@
 # 324 - Karaman
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T28
+owner = T28
+controller = T28
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = slaves
-capital = "Karaman"
+capital = "Sastina"
 is_city = yes
 
 base_tax = 5

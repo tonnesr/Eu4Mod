@@ -1,14 +1,14 @@
 # 93 - Liege
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = T39
+owner = T39
+controller = T39
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = wool
-capital = "Liege"
+capital = "Mylegius"
 is_city = yes
 
 base_tax = 3
