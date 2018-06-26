@@ -1,14 +1,14 @@
 # 322 - Kutahya
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S18
+owner = S18
+controller = S18
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = tea
-capital = "Kutahya"
+capital = "Azrie"
 is_city = yes
 
 base_tax = 6

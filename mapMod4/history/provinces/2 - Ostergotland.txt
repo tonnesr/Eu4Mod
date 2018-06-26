@@ -1,14 +1,13 @@
-# 2 - Ostergotland
+# 2 - Hahull
+add_core = S04
+owner = S04
+controller = S04
 
-add_core = NOR
-owner = NOR
-controller = NOR
-
-culture = southerner
+culture = northerners
 religion = catholic
 hre = no
 trade_goods = tobacco
-capital = "Ostergotland"
+capital = "Ha"
 is_city = yes
 
 base_tax = 4

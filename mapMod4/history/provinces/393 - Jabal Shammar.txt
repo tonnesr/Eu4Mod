@@ -1,14 +1,14 @@
 # 393 - Jabal Shammar
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S06
+owner = S06
+controller = S06
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = livestock
-capital = "Jabal Shammar"
+capital = "Aze"
 is_city = yes
 
 base_tax = 2

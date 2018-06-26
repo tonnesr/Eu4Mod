@@ -1,19 +1,19 @@
-# 404 - Liwa
+# 404 - Elfhim
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S04
+owner = S04
+controller = S04
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = chinaware
-capital = "Liwa"
+capital = "Elfim"
 is_city = yes
 
-base_tax = 3
-base_production = 6
-base_manpower = 4
+base_tax = 7
+base_production = 8
+base_manpower = 9
 
 
 

@@ -1,14 +1,14 @@
-# 50 - Berlin
+# 50 - Avrufhull
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S03
+owner = S03
+controller = S03
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = cloth
-capital = "Berlin"
+capital = "Rufhull"
 is_city = yes
 
 base_tax = 4

@@ -1,14 +1,14 @@
 # 342 - Toubkhal
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S16
+owner = S16
+controller = S16
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = cloth
-capital = "Toubkhal"
+capital = "Luving"
 is_city = yes
 
 base_tax = 5

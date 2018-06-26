@@ -3,5 +3,33 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
-#Scandinavia
+#TEMPORARY
 NOR	= "countries/Norway.txt"
+
+#BIRB HEAD
+S01	= "countries/Klerton.txt"
+S02	= "countries/Braumery.txt"
+S03	= "countries/Avruf.txt"
+S04	= "countries/Eflim.txt"
+S05	= "countries/Grason.txt"
+S06	= "countries/Ostedo.txt"
+S07	= "countries/Flaamdom.txt"
+
+#smthng else
+S08	= "countries/Rizhon.txt"
+S09	= "countries/Eatruu.txt"
+S10	= "countries/Rord.txt"
+S11 = "countries/Galedo.txt"
+S12 = "countries/Olok.txt"
+S13	= "countries/Pledo.txt"
+
+#don't rly know
+S14 = "countries/Acheim.txt"
+S15 = "countries/A Mago.txt"
+S16 = "countries/Aivlu.txt"
+	#S17 = "countries/not in use.txt"
+S18 = "countries/Stario.txt"
+
+
+
+

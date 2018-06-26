@@ -1,14 +1,14 @@
 # 138 - Zeta
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S12
+owner = S12
+controller = S12
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = paper
-capital = "Zeta"
+capital = "Cloni"
 is_city = yes
 
 base_tax = 2

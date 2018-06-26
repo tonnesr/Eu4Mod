@@ -1,14 +1,14 @@
-# 455 - Kyrzyl-Kum
+# 455 - Yhuchester
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S02
+owner = S02
+controller = S02
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = iron
-capital = "Kyrzyl-Kum"
+capital = "Yhuchester"
 is_city = yes
 
 base_tax = 2

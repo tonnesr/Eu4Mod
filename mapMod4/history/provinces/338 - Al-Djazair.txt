@@ -1,14 +1,14 @@
 # 338 - Al-Djazair
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S13
+owner = S13
+controller = S13
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = unknown
-capital = "Al-Djazair"
+capital = "Lora"
 is_city = yes
 
 base_tax = 2

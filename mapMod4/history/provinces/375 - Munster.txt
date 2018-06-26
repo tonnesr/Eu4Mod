@@ -1,14 +1,14 @@
-# 375 - Munster
+# 375 - Vashard
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S03
+owner = S03
+controller = S03
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = iron
-capital = "Munster"
+capital = "Vaster"
 is_city = yes
 
 base_tax = 5

@@ -1,14 +1,14 @@
 # 43 - Danzig
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S03
+owner = S03
+controller = S03
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = unknown
-capital = "Danzig"
+capital = "Mia"
 is_city = yes
 
 base_tax = 4

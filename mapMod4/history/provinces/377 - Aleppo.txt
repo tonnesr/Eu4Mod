@@ -1,14 +1,14 @@
 # 377 - Aleppo
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S05
+owner = S05
+controller = S05
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = cotton
-capital = "Aleppo"
+capital = "Kiuk"
 is_city = yes
 
 base_tax = 6

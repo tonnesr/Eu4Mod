@@ -1,14 +1,14 @@
-# 268 - Moldavia
+# 268 - Braumery
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S02
+owner = S02
+controller = S02
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = cotton
-capital = "Moldavia"
+capital = "Braum"
 is_city = yes
 
 base_tax = 3

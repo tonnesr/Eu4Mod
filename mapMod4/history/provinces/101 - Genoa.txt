@@ -1,14 +1,14 @@
 # 101 - Genoa
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S16
+owner = S16
+controller = S16
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = naval_supplies
-capital = "Genoa"
+capital = "Chedo"
 is_city = yes
 
 base_tax = 2

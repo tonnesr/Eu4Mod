@@ -1,14 +1,14 @@
 # 406 - As Sahiliyah
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S08
+owner = S08
+controller = S08
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = tropical_wood
-capital = "As Sahiliyah"
+capital = "Wrada"
 is_city = yes
 
 base_tax = 4

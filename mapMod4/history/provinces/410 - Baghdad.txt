@@ -1,14 +1,14 @@
 # 410 - Baghdad
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S14
+owner = S14
+controller = S14
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = naval_supplies
-capital = "Baghdad"
+capital = "Clilas"
 is_city = yes
 
 base_tax = 4

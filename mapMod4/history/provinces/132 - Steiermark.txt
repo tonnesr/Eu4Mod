@@ -1,14 +1,14 @@
 # 132 - Steiermark
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S11
+owner = S11
+controller = S11
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = grain
-capital = "Steiermark"
+capital = "Breka"
 is_city = yes
 
 base_tax = 6

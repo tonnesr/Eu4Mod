@@ -1,14 +1,14 @@
 # 143 - Vlore
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S12
+owner = S12
+controller = S12
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = tea
-capital = "Vlore"
+capital = "Aosloot"
 is_city = yes
 
 base_tax = 4

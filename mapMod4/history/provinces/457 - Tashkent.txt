@@ -1,14 +1,14 @@
-# 457 - Tashkent
+# 457 - Oyhans
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S01
+owner = S01
+controller = S01
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = unknown
-capital = "Tashkent"
+capital = "Oyhans"
 is_city = yes
 
 base_tax = 4

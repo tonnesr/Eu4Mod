@@ -1,14 +1,14 @@
-# 376 - Connaught
+# 376 - Yruzlont
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S04
+owner = S04
+controller = S04
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = tobacco
-capital = "Connaught"
+capital = "Yruz"
 is_city = yes
 
 base_tax = 1

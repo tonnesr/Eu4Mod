@@ -1,14 +1,14 @@
 # 392 - Al-Arid
 
-add_core = NOR
-owner = NOR
-controller = NOR
+add_core = S08
+owner = S08
+controller = S08
 
 culture = norwegian
 religion = catholic
 hre = no
 trade_goods = cocoa
-capital = "Al-Arid"
+capital = "Croria"
 is_city = yes
 
 base_tax = 2
